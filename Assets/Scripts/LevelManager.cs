@@ -19,7 +19,7 @@ public class LevelManager : Singleton<LevelManager>
     private Point greenSpawn, purpleSpawn;
 
     public Dictionary<Point, TileScript> Tiles { get; set; }
-    public Dictionary<Point, SpawnTower> SpawnTowerUI { get; set; }
+    //public Dictionary<Point, SpawnTower> SpawnTowerUI { get; set; }
 
     public float TileSize {
         get { return tilePrefabs[0].GetComponent<SpriteRenderer>().sprite.bounds.size.x; }
@@ -31,7 +31,7 @@ public class LevelManager : Singleton<LevelManager>
 
     void CreateLevel(){
         Tiles = new Dictionary<Point, TileScript>();
-        SpawnTowerUI = new Dictionary<Point, SpawnTower>();
+        //SpawnTowerUI = new Dictionary<Point, SpawnTower>();
 
         string[] mapData = ReadLevelText();
 
@@ -67,11 +67,13 @@ public class LevelManager : Singleton<LevelManager>
         TileScript newTile = Instantiate(tilePrefabs[tileIndex]).GetComponent<TileScript>();
         newTile.Setup(new Point(x, y), new Vector3(worldStart.x + TileSize * x, worldStart.y - TileSize * y, 0), map);
 
+        /*
         //In case of spawn tile, ui object is also created
         if (tileIndex.Equals(2)) {
             SpawnTower selectUI = Instantiate(spawnTowerPrefab).GetComponent<SpawnTower>();
             selectUI.Setup(new Point(x, y), Tiles[new Point(x,y)].WorldPostion + new Vector2(0.3f, -0.3f), canvas);
         }
+        */
     }
 
     void SpawnPortal(int x, int y) {

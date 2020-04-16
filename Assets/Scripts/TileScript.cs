@@ -6,6 +6,7 @@ public class TileScript : MonoBehaviour
 {
     [SerializeField]
     private int tileIndex;
+    public int towerLevel;
     public Point GridPosition { get; set; }
 
     public Vector2 WorldPostion {
@@ -24,10 +25,7 @@ public class TileScript : MonoBehaviour
 
     //Makes the UI visible when the tower spawn point is pressed
     private void OnMouseDown() {
-        Point beforePos = GameManager.Instance.selectSpawnUI;       
-        LevelManager.Instance.SpawnTowerUI[GridPosition].GetComponent<SpawnTower>().ShowTowerTypeBtn();
-        if (!beforePos.Equals(new Point(0, 0)))
-            LevelManager.Instance.SpawnTowerUI[beforePos].GetComponent<SpawnTower>().gameObject.SetActive(false);
-        GameManager.Instance.selectSpawnUI = GridPosition;
+        GameManager.Instance.ShowTowerTypeBtn(GridPosition, 
+            LevelManager.Instance.Tiles[GridPosition].towerLevel );
     }
 }
