@@ -11,19 +11,30 @@ public class LevelManager : Singleton<LevelManager>
     private CameraMovement cameraMovement;
 
     [SerializeField]
-    private GameObject greenPortalPrefab, purplePortalPrefab, spawnTowerPrefab;
-
-    [SerializeField]
     private Transform map, canvas;
 
-    private Point greenSpawn, purpleSpawn;
+    public Point greenSpawn, purpleSpawn, mapSize;
+
+    private Stack<Node> path;
+    
+    public Stack<Node> Path {
+        get {
+            if (path == null)
+                GeneratePath();
+            return new Stack<Node>(new Stack<Node>(path));
+        }
+    }
+
+    public GameObject greenPortal, purplePortal;
 
     public Dictionary<Point, TileScript> Tiles { get; set; }
-    //public Dictionary<Point, SpawnTower> SpawnTowerUI { get; set; }
 
     public float TileSize {
         get { return tilePrefabs[0].GetComponent<SpriteRenderer>().sprite.bounds.size.x; }
     }
+
+
+
 
     void Start() {
         CreateLevel();
@@ -31,12 +42,13 @@ public class LevelManager : Singleton<LevelManager>
 
     void CreateLevel(){
         Tiles = new Dictionary<Point, TileScript>();
-        //SpawnTowerUI = new Dictionary<Point, SpawnTower>();
 
         string[] mapData = ReadLevelText();
 
         int mapX = mapData[0].ToCharArray().Length;
         int mapY = mapData.Length;
+
+        mapSize = new Point(mapX, mapY);
 
         Vector3 maxTile = Vector3.zero;
 
@@ -51,7 +63,7 @@ public class LevelManager : Singleton<LevelManager>
         }
         maxTile = Tiles[new Point(mapX - 1, mapY - 1)].transform.position;
         cameraMovement.SetLimits(new Vector3(maxTile.x + TileSize, maxTile.y - TileSize));
-        SpawnPortal(mapX-2, mapY-3);    
+        SpawnPortal();    
     }
 
     string[] ReadLevelText() {
@@ -67,20 +79,23 @@ public class LevelManager : Singleton<LevelManager>
         TileScript newTile = Instantiate(tilePrefabs[tileIndex]).GetComponent<TileScript>();
         newTile.Setup(new Point(x, y), new Vector3(worldStart.x + TileSize * x, worldStart.y - TileSize * y, 0), map);
 
-        /*
-        //In case of spawn tile, ui object is also created
-        if (tileIndex.Equals(2)) {
-            SpawnTower selectUI = Instantiate(spawnTowerPrefab).GetComponent<SpawnTower>();
-            selectUI.Setup(new Point(x, y), Tiles[new Point(x,y)].WorldPostion + new Vector2(0.3f, -0.3f), canvas);
-        }
-        */
+        if (tileIndex.Equals(1))
+            purpleSpawn = new Point(x, y);
     }
 
-    void SpawnPortal(int x, int y) {
+    void SpawnPortal() {
         greenSpawn = new Point(0,0);
-        Instantiate(greenPortalPrefab, Tiles[greenSpawn].GetComponent<TileScript>().WorldPostion + new Vector2(0,-0.17f), Quaternion.identity);
+        greenPortal.transform.position = Tiles[greenSpawn].GetComponent<TileScript>().WorldPostion + new Vector2(0, 0.1f);
 
-        purpleSpawn = new Point(x, y);
-        Instantiate(purplePortalPrefab, Tiles[purpleSpawn].GetComponent<TileScript>().WorldPostion + new Vector2(0, -0.17f), Quaternion.identity);
+        purplePortal.transform.position = Tiles[purpleSpawn].GetComponent<TileScript>().WorldPostion + new Vector2(0, 0.1f);
+    }
+
+    public bool InBounds(Point position) {
+        return position.x >= 0 && position.y >= 0
+            && position.x < mapSize.x && position.y < mapSize.y;
+    }
+
+    public void GeneratePath() {
+        path = AStar.GetPath(greenSpawn, purpleSpawn);
     }
 }

@@ -1,0 +1,5327 @@
+fileFormatVersion: 2
+guid: ecda3f7bde7e07b479399ce8e6300d75
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4142448232143323705
+    second: DS DSi - Locks Quest - Clockwork Phantom_0
+  - first:
+      213: 8069510589801623372
+    second: DS DSi - Locks Quest - Clockwork Phantom_1
+  - first:
+      213: -3023215343750246772
+    second: DS DSi - Locks Quest - Clockwork Phantom_2
+  - first:
+      213: 8507801638526592716
+    second: DS DSi - Locks Quest - Clockwork Phantom_3
+  - first:
+      213: -3316264833369430864
+    second: DS DSi - Locks Quest - Clockwork Phantom_4
+  - first:
+      213: -758477421849988250
+    second: DS DSi - Locks Quest - Clockwork Phantom_5
+  - first:
+      213: -8693729821584423147
+    second: DS DSi - Locks Quest - Clockwork Phantom_6
+  - first:
+      213: 4469254359600668646
+    second: DS DSi - Locks Quest - Clockwork Phantom_7
+  - first:
+      213: -5454490071644095508
+    second: DS DSi - Locks Quest - Clockwork Phantom_8
+  - first:
+      213: 1829083199374407268
+    second: DS DSi - Locks Quest - Clockwork Phantom_9
+  - first:
+      213: 4420230225630047962
+    second: DS DSi - Locks Quest - Clockwork Phantom_10
+  - first:
+      213: 5069457549185274739
+    second: DS DSi - Locks Quest - Clockwork Phantom_11
+  - first:
+      213: 7068213137257874062
+    second: DS DSi - Locks Quest - Clockwork Phantom_12
+  - first:
+      213: -8178454454483246040
+    second: DS DSi - Locks Quest - Clockwork Phantom_13
+  - first:
+      213: -5499146415542129130
+    second: DS DSi - Locks Quest - Clockwork Phantom_14
+  - first:
+      213: 4601718772870075958
+    second: DS DSi - Locks Quest - Clockwork Phantom_15
+  - first:
+      213: 8259135196110648628
+    second: DS DSi - Locks Quest - Clockwork Phantom_16
+  - first:
+      213: 5474147434107207904
+    second: DS DSi - Locks Quest - Clockwork Phantom_17
+  - first:
+      213: -867154103708083130
+    second: DS DSi - Locks Quest - Clockwork Phantom_18
+  - first:
+      213: -5739970346935003508
+    second: DS DSi - Locks Quest - Clockwork Phantom_19
+  - first:
+      213: -1702313045719376957
+    second: DS DSi - Locks Quest - Clockwork Phantom_20
+  - first:
+      213: -3496282321801831215
+    second: DS DSi - Locks Quest - Clockwork Phantom_21
+  - first:
+      213: -6558447019158205782
+    second: DS DSi - Locks Quest - Clockwork Phantom_22
+  - first:
+      213: -1209433108570665011
+    second: DS DSi - Locks Quest - Clockwork Phantom_23
+  - first:
+      213: 3398791057317110395
+    second: DS DSi - Locks Quest - Clockwork Phantom_24
+  - first:
+      213: -1600415044712815176
+    second: DS DSi - Locks Quest - Clockwork Phantom_25
+  - first:
+      213: -1125791263648204314
+    second: DS DSi - Locks Quest - Clockwork Phantom_26
+  - first:
+      213: -7674794605485786800
+    second: DS DSi - Locks Quest - Clockwork Phantom_27
+  - first:
+      213: -4111415268162407426
+    second: DS DSi - Locks Quest - Clockwork Phantom_28
+  - first:
+      213: 1941788584741987741
+    second: DS DSi - Locks Quest - Clockwork Phantom_29
+  - first:
+      213: -7265394706346198641
+    second: DS DSi - Locks Quest - Clockwork Phantom_30
+  - first:
+      213: -6462418138675027069
+    second: DS DSi - Locks Quest - Clockwork Phantom_31
+  - first:
+      213: -2610008017242011501
+    second: DS DSi - Locks Quest - Clockwork Phantom_32
+  - first:
+      213: -920823230289776097
+    second: DS DSi - Locks Quest - Clockwork Phantom_33
+  - first:
+      213: 1560754404183579863
+    second: DS DSi - Locks Quest - Clockwork Phantom_34
+  - first:
+      213: -4807359340255948357
+    second: DS DSi - Locks Quest - Clockwork Phantom_35
+  - first:
+      213: 7482969415515382561
+    second: DS DSi - Locks Quest - Clockwork Phantom_36
+  - first:
+      213: 5419056283464971420
+    second: DS DSi - Locks Quest - Clockwork Phantom_37
+  - first:
+      213: 6323831921383843815
+    second: DS DSi - Locks Quest - Clockwork Phantom_38
+  - first:
+      213: -7289784414926114254
+    second: DS DSi - Locks Quest - Clockwork Phantom_39
+  - first:
+      213: -7237810955737687830
+    second: DS DSi - Locks Quest - Clockwork Phantom_40
+  - first:
+      213: 3843114970788940821
+    second: DS DSi - Locks Quest - Clockwork Phantom_41
+  - first:
+      213: -4019741639674407286
+    second: DS DSi - Locks Quest - Clockwork Phantom_42
+  - first:
+      213: 5400969354682099447
+    second: DS DSi - Locks Quest - Clockwork Phantom_43
+  - first:
+      213: 6096340052078797122
+    second: DS DSi - Locks Quest - Clockwork Phantom_44
+  - first:
+      213: 1918002613251210940
+    second: DS DSi - Locks Quest - Clockwork Phantom_45
+  - first:
+      213: 3850380267412097072
+    second: DS DSi - Locks Quest - Clockwork Phantom_46
+  - first:
+      213: -2243306484775649076
+    second: DS DSi - Locks Quest - Clockwork Phantom_47
+  - first:
+      213: 6544846147881836727
+    second: DS DSi - Locks Quest - Clockwork Phantom_48
+  - first:
+      213: 1302382146524484235
+    second: DS DSi - Locks Quest - Clockwork Phantom_49
+  - first:
+      213: 8522989818808383137
+    second: DS DSi - Locks Quest - Clockwork Phantom_50
+  - first:
+      213: 4112899027822258488
+    second: DS DSi - Locks Quest - Clockwork Phantom_51
+  - first:
+      213: 8575007283893215727
+    second: DS DSi - Locks Quest - Clockwork Phantom_52
+  - first:
+      213: -4160036145759564483
+    second: DS DSi - Locks Quest - Clockwork Phantom_53
+  - first:
+      213: 5160336089740681474
+    second: DS DSi - Locks Quest - Clockwork Phantom_54
+  - first:
+      213: 8968944247197309498
+    second: DS DSi - Locks Quest - Clockwork Phantom_55
+  - first:
+      213: 653630234966898178
+    second: DS DSi - Locks Quest - Clockwork Phantom_56
+  - first:
+      213: -8123824417470099548
+    second: DS DSi - Locks Quest - Clockwork Phantom_57
+  - first:
+      213: -2110544653950730871
+    second: DS DSi - Locks Quest - Clockwork Phantom_58
+  - first:
+      213: 4780937264666205691
+    second: DS DSi - Locks Quest - Clockwork Phantom_59
+  - first:
+      213: -2631951256004705404
+    second: DS DSi - Locks Quest - Clockwork Phantom_60
+  - first:
+      213: -6188578258650218764
+    second: DS DSi - Locks Quest - Clockwork Phantom_61
+  - first:
+      213: 6290072803626195834
+    second: DS DSi - Locks Quest - Clockwork Phantom_62
+  - first:
+      213: -6871557302464555583
+    second: DS DSi - Locks Quest - Clockwork Phantom_63
+  - first:
+      213: -8396894650763663873
+    second: DS DSi - Locks Quest - Clockwork Phantom_64
+  - first:
+      213: -5111978702149904329
+    second: DS DSi - Locks Quest - Clockwork Phantom_65
+  - first:
+      213: 151208462904872390
+    second: DS DSi - Locks Quest - Clockwork Phantom_66
+  - first:
+      213: 2466081038226419630
+    second: DS DSi - Locks Quest - Clockwork Phantom_67
+  - first:
+      213: -4655779877633326600
+    second: DS DSi - Locks Quest - Clockwork Phantom_68
+  - first:
+      213: -3203089137553456432
+    second: DS DSi - Locks Quest - Clockwork Phantom_69
+  - first:
+      213: 3675185006486311114
+    second: DS DSi - Locks Quest - Clockwork Phantom_70
+  - first:
+      213: -2247000178771932165
+    second: DS DSi - Locks Quest - Clockwork Phantom_71
+  - first:
+      213: 651620105699267430
+    second: DS DSi - Locks Quest - Clockwork Phantom_72
+  - first:
+      213: 2876062055401302293
+    second: DS DSi - Locks Quest - Clockwork Phantom_73
+  - first:
+      213: 6847752509976501817
+    second: DS DSi - Locks Quest - Clockwork Phantom_74
+  - first:
+      213: 885084622855471124
+    second: DS DSi - Locks Quest - Clockwork Phantom_75
+  - first:
+      213: -1585954391538397309
+    second: DS DSi - Locks Quest - Clockwork Phantom_76
+  - first:
+      213: 6943592530877848467
+    second: DS DSi - Locks Quest - Clockwork Phantom_77
+  - first:
+      213: 6429163748998318887
+    second: DS DSi - Locks Quest - Clockwork Phantom_78
+  - first:
+      213: -8005810399685833566
+    second: DS DSi - Locks Quest - Clockwork Phantom_79
+  - first:
+      213: 4043585368590969339
+    second: DS DSi - Locks Quest - Clockwork Phantom_80
+  - first:
+      213: 1838746147586494696
+    second: DS DSi - Locks Quest - Clockwork Phantom_81
+  - first:
+      213: 2882679394703852665
+    second: DS DSi - Locks Quest - Clockwork Phantom_82
+  - first:
+      213: 4860833808552245866
+    second: DS DSi - Locks Quest - Clockwork Phantom_83
+  - first:
+      213: -4230323163884483092
+    second: DS DSi - Locks Quest - Clockwork Phantom_84
+  - first:
+      213: -4812443067045786283
+    second: DS DSi - Locks Quest - Clockwork Phantom_85
+  - first:
+      213: 8710342052426812978
+    second: DS DSi - Locks Quest - Clockwork Phantom_86
+  - first:
+      213: -4400895403405991166
+    second: DS DSi - Locks Quest - Clockwork Phantom_87
+  - first:
+      213: -7614986626646856046
+    second: DS DSi - Locks Quest - Clockwork Phantom_88
+  - first:
+      213: -1500573213900239800
+    second: DS DSi - Locks Quest - Clockwork Phantom_89
+  - first:
+      213: -5477135558761323035
+    second: DS DSi - Locks Quest - Clockwork Phantom_90
+  - first:
+      213: 5579626297246737425
+    second: DS DSi - Locks Quest - Clockwork Phantom_91
+  - first:
+      213: -7360789080548641850
+    second: DS DSi - Locks Quest - Clockwork Phantom_92
+  - first:
+      213: -3585043430453200127
+    second: DS DSi - Locks Quest - Clockwork Phantom_93
+  - first:
+      213: 6503065340958161707
+    second: DS DSi - Locks Quest - Clockwork Phantom_94
+  - first:
+      213: -6883058552339560156
+    second: DS DSi - Locks Quest - Clockwork Phantom_95
+  - first:
+      213: 3073512908046466393
+    second: DS DSi - Locks Quest - Clockwork Phantom_96
+  - first:
+      213: 6397112839196103803
+    second: DS DSi - Locks Quest - Clockwork Phantom_97
+  - first:
+      213: -3506120411678612392
+    second: DS DSi - Locks Quest - Clockwork Phantom_98
+  - first:
+      213: 6394184252908220982
+    second: DS DSi - Locks Quest - Clockwork Phantom_99
+  - first:
+      213: 4960192211156811604
+    second: DS DSi - Locks Quest - Clockwork Phantom_100
+  - first:
+      213: 1319666305581493723
+    second: DS DSi - Locks Quest - Clockwork Phantom_101
+  - first:
+      213: 813471698967585069
+    second: DS DSi - Locks Quest - Clockwork Phantom_102
+  - first:
+      213: -5495671815984088394
+    second: DS DSi - Locks Quest - Clockwork Phantom_103
+  - first:
+      213: 3776563682497797951
+    second: DS DSi - Locks Quest - Clockwork Phantom_104
+  - first:
+      213: 7629079945530333494
+    second: DS DSi - Locks Quest - Clockwork Phantom_105
+  - first:
+      213: 3108794228138842556
+    second: DS DSi - Locks Quest - Clockwork Phantom_106
+  - first:
+      213: 5915536138221611243
+    second: DS DSi - Locks Quest - Clockwork Phantom_107
+  - first:
+      213: -3198879656535784708
+    second: DS DSi - Locks Quest - Clockwork Phantom_108
+  - first:
+      213: -2648166049730096345
+    second: DS DSi - Locks Quest - Clockwork Phantom_109
+  - first:
+      213: -4926452230588797857
+    second: DS DSi - Locks Quest - Clockwork Phantom_110
+  - first:
+      213: 5266028009844173961
+    second: DS DSi - Locks Quest - Clockwork Phantom_111
+  - first:
+      213: 3846034776489465837
+    second: DS DSi - Locks Quest - Clockwork Phantom_112
+  - first:
+      213: -3496652553380528195
+    second: DS DSi - Locks Quest - Clockwork Phantom_113
+  - first:
+      213: -5094644015855156829
+    second: DS DSi - Locks Quest - Clockwork Phantom_114
+  - first:
+      213: -1505942371808498980
+    second: DS DSi - Locks Quest - Clockwork Phantom_115
+  - first:
+      213: 9109287332819827386
+    second: DS DSi - Locks Quest - Clockwork Phantom_116
+  - first:
+      213: 8626972778406344804
+    second: DS DSi - Locks Quest - Clockwork Phantom_117
+  - first:
+      213: -279588633697529706
+    second: DS DSi - Locks Quest - Clockwork Phantom_118
+  - first:
+      213: 2480011710791830238
+    second: DS DSi - Locks Quest - Clockwork Phantom_119
+  - first:
+      213: 5889812802395647723
+    second: DS DSi - Locks Quest - Clockwork Phantom_120
+  - first:
+      213: 5960432149732224963
+    second: DS DSi - Locks Quest - Clockwork Phantom_121
+  - first:
+      213: 4898059771008032338
+    second: DS DSi - Locks Quest - Clockwork Phantom_122
+  - first:
+      213: -3871873009763507470
+    second: DS DSi - Locks Quest - Clockwork Phantom_123
+  - first:
+      213: -3027874106212452952
+    second: DS DSi - Locks Quest - Clockwork Phantom_124
+  - first:
+      213: 1307231937592148883
+    second: DS DSi - Locks Quest - Clockwork Phantom_125
+  - first:
+      213: -4044652357572967539
+    second: DS DSi - Locks Quest - Clockwork Phantom_126
+  - first:
+      213: -4836979431649508873
+    second: DS DSi - Locks Quest - Clockwork Phantom_127
+  - first:
+      213: -1143441974443871764
+    second: DS DSi - Locks Quest - Clockwork Phantom_128
+  - first:
+      213: 1379648605701251277
+    second: DS DSi - Locks Quest - Clockwork Phantom_129
+  - first:
+      213: -5122574435741205263
+    second: DS DSi - Locks Quest - Clockwork Phantom_130
+  - first:
+      213: -422589523390548652
+    second: DS DSi - Locks Quest - Clockwork Phantom_131
+  - first:
+      213: -8298681928425972280
+    second: DS DSi - Locks Quest - Clockwork Phantom_132
+  - first:
+      213: 4282556856243615938
+    second: DS DSi - Locks Quest - Clockwork Phantom_133
+  - first:
+      213: -3513494929112242148
+    second: DS DSi - Locks Quest - Clockwork Phantom_134
+  - first:
+      213: -8049559935496695486
+    second: DS DSi - Locks Quest - Clockwork Phantom_135
+  - first:
+      213: 8942918622400558025
+    second: DS DSi - Locks Quest - Clockwork Phantom_136
+  - first:
+      213: 8955600354921758217
+    second: DS DSi - Locks Quest - Clockwork Phantom_137
+  - first:
+      213: -6664806459900781003
+    second: DS DSi - Locks Quest - Clockwork Phantom_138
+  - first:
+      213: -6121425738444272665
+    second: DS DSi - Locks Quest - Clockwork Phantom_139
+  - first:
+      213: -8563909429197703077
+    second: DS DSi - Locks Quest - Clockwork Phantom_140
+  - first:
+      213: -7733783932660697653
+    second: DS DSi - Locks Quest - Clockwork Phantom_141
+  - first:
+      213: 7640168788630574422
+    second: DS DSi - Locks Quest - Clockwork Phantom_142
+  - first:
+      213: -1242513993677223553
+    second: DS DSi - Locks Quest - Clockwork Phantom_143
+  - first:
+      213: 5201146082756121292
+    second: DS DSi - Locks Quest - Clockwork Phantom_144
+  - first:
+      213: -3147616251498588035
+    second: DS DSi - Locks Quest - Clockwork Phantom_145
+  - first:
+      213: -3342858667633155311
+    second: DS DSi - Locks Quest - Clockwork Phantom_146
+  - first:
+      213: -4241375679126055141
+    second: DS DSi - Locks Quest - Clockwork Phantom_147
+  - first:
+      213: 1472666445696974559
+    second: DS DSi - Locks Quest - Clockwork Phantom_148
+  - first:
+      213: -5875763997202399591
+    second: DS DSi - Locks Quest - Clockwork Phantom_149
+  - first:
+      213: -7626497349939384962
+    second: DS DSi - Locks Quest - Clockwork Phantom_150
+  - first:
+      213: -9852828070895825
+    second: DS DSi - Locks Quest - Clockwork Phantom_151
+  - first:
+      213: -5379650858758786792
+    second: DS DSi - Locks Quest - Clockwork Phantom_152
+  - first:
+      213: -1691481483015511297
+    second: DS DSi - Locks Quest - Clockwork Phantom_153
+  - first:
+      213: -7233102249098101832
+    second: DS DSi - Locks Quest - Clockwork Phantom_154
+  - first:
+      213: 6664041113581232410
+    second: DS DSi - Locks Quest - Clockwork Phantom_155
+  - first:
+      213: 6834326186977886411
+    second: DS DSi - Locks Quest - Clockwork Phantom_156
+  - first:
+      213: -2891138803664557861
+    second: DS DSi - Locks Quest - Clockwork Phantom_157
+  - first:
+      213: 4104656302037952255
+    second: DS DSi - Locks Quest - Clockwork Phantom_158
+  - first:
+      213: -1911109191406060288
+    second: DS DSi - Locks Quest - Clockwork Phantom_159
+  - first:
+      213: 7274186878839830639
+    second: DS DSi - Locks Quest - Clockwork Phantom_160
+  - first:
+      213: -1533264663328191907
+    second: DS DSi - Locks Quest - Clockwork Phantom_161
+  - first:
+      213: 6137592633696635078
+    second: DS DSi - Locks Quest - Clockwork Phantom_162
+  - first:
+      213: -3935477103168290882
+    second: DS DSi - Locks Quest - Clockwork Phantom_163
+  - first:
+      213: -5489186256450363468
+    second: DS DSi - Locks Quest - Clockwork Phantom_164
+  - first:
+      213: -7897012412275032481
+    second: DS DSi - Locks Quest - Clockwork Phantom_165
+  - first:
+      213: 4913781552667731659
+    second: DS DSi - Locks Quest - Clockwork Phantom_166
+  - first:
+      213: -5264984319606810499
+    second: DS DSi - Locks Quest - Clockwork Phantom_167
+  - first:
+      213: -4204011741616069858
+    second: DS DSi - Locks Quest - Clockwork Phantom_168
+  - first:
+      213: 3885380862241019270
+    second: DS DSi - Locks Quest - Clockwork Phantom_169
+  - first:
+      213: 6592453438192484759
+    second: DS DSi - Locks Quest - Clockwork Phantom_170
+  - first:
+      213: -5117153681352049040
+    second: DS DSi - Locks Quest - Clockwork Phantom_171
+  - first:
+      213: -6900710963380390511
+    second: DS DSi - Locks Quest - Clockwork Phantom_172
+  - first:
+      213: -6663417088769561533
+    second: DS DSi - Locks Quest - Clockwork Phantom_173
+  - first:
+      213: 2801229999328071087
+    second: DS DSi - Locks Quest - Clockwork Phantom_174
+  - first:
+      213: -5044131957550000210
+    second: DS DSi - Locks Quest - Clockwork Phantom_175
+  - first:
+      213: -4378759127235230376
+    second: DS DSi - Locks Quest - Clockwork Phantom_176
+  - first:
+      213: 8732003535898754534
+    second: DS DSi - Locks Quest - Clockwork Phantom_177
+  - first:
+      213: -3028380714378891818
+    second: DS DSi - Locks Quest - Clockwork Phantom_178
+  - first:
+      213: -2667878480237757564
+    second: DS DSi - Locks Quest - Clockwork Phantom_179
+  - first:
+      213: 6618316262298304841
+    second: DS DSi - Locks Quest - Clockwork Phantom_180
+  - first:
+      213: 967210199952736982
+    second: DS DSi - Locks Quest - Clockwork Phantom_181
+  - first:
+      213: 2304534789721611528
+    second: DS DSi - Locks Quest - Clockwork Phantom_182
+  - first:
+      213: 6291245600432470321
+    second: DS DSi - Locks Quest - Clockwork Phantom_183
+  - first:
+      213: -6061923187568841831
+    second: DS DSi - Locks Quest - Clockwork Phantom_184
+  - first:
+      213: -6900655913328025812
+    second: DS DSi - Locks Quest - Clockwork Phantom_185
+  - first:
+      213: -2026032379778830362
+    second: DS DSi - Locks Quest - Clockwork Phantom_186
+  - first:
+      213: 285216485351094046
+    second: DS DSi - Locks Quest - Clockwork Phantom_187
+  - first:
+      213: 5399224604097865259
+    second: DS DSi - Locks Quest - Clockwork Phantom_188
+  - first:
+      213: 471392327238251851
+    second: DS DSi - Locks Quest - Clockwork Phantom_189
+  - first:
+      213: 5152193751871723569
+    second: DS DSi - Locks Quest - Clockwork Phantom_190
+  - first:
+      213: -1056028060745035928
+    second: DS DSi - Locks Quest - Clockwork Phantom_191
+  - first:
+      213: -1592812442981872867
+    second: DS DSi - Locks Quest - Clockwork Phantom_192
+  - first:
+      213: -7807941451656322724
+    second: DS DSi - Locks Quest - Clockwork Phantom_193
+  - first:
+      213: 8039690663594364963
+    second: DS DSi - Locks Quest - Clockwork Phantom_194
+  - first:
+      213: 388959894985219600
+    second: DS DSi - Locks Quest - Clockwork Phantom_195
+  - first:
+      213: -8852139174317584196
+    second: DS DSi - Locks Quest - Clockwork Phantom_196
+  - first:
+      213: 2590885806586979636
+    second: DS DSi - Locks Quest - Clockwork Phantom_197
+  - first:
+      213: 8627796237641925677
+    second: DS DSi - Locks Quest - Clockwork Phantom_198
+  - first:
+      213: -6426833369699649496
+    second: DS DSi - Locks Quest - Clockwork Phantom_199
+  - first:
+      213: 7163018419851843356
+    second: DS DSi - Locks Quest - Clockwork Phantom_200
+  - first:
+      213: -3035132391723272064
+    second: DS DSi - Locks Quest - Clockwork Phantom_201
+  - first:
+      213: 1679420957626638002
+    second: DS DSi - Locks Quest - Clockwork Phantom_202
+  - first:
+      213: 2095265327923933086
+    second: DS DSi - Locks Quest - Clockwork Phantom_203
+  - first:
+      213: 8505264090367158191
+    second: DS DSi - Locks Quest - Clockwork Phantom_204
+  - first:
+      213: -8514375133512211882
+    second: DS DSi - Locks Quest - Clockwork Phantom_205
+  - first:
+      213: 1220422466524452149
+    second: DS DSi - Locks Quest - Clockwork Phantom_206
+  - first:
+      213: -5021011599195945656
+    second: DS DSi - Locks Quest - Clockwork Phantom_207
+  - first:
+      213: -565230525224702624
+    second: DS DSi - Locks Quest - Clockwork Phantom_208
+  - first:
+      213: -7768692925041637183
+    second: DS DSi - Locks Quest - Clockwork Phantom_209
+  - first:
+      213: 3297576813988250245
+    second: DS DSi - Locks Quest - Clockwork Phantom_210
+  - first:
+      213: -8247936914143555048
+    second: DS DSi - Locks Quest - Clockwork Phantom_211
+  - first:
+      213: 3174202142510029894
+    second: DS DSi - Locks Quest - Clockwork Phantom_212
+  - first:
+      213: 103080391793983975
+    second: DS DSi - Locks Quest - Clockwork Phantom_213
+  - first:
+      213: 6019828678830314623
+    second: DS DSi - Locks Quest - Clockwork Phantom_214
+  - first:
+      213: 2578873825793265095
+    second: DS DSi - Locks Quest - Clockwork Phantom_215
+  - first:
+      213: -7445128783644802669
+    second: DS DSi - Locks Quest - Clockwork Phantom_216
+  - first:
+      213: 3768275688701407343
+    second: DS DSi - Locks Quest - Clockwork Phantom_217
+  - first:
+      213: -1164049601421928377
+    second: DS DSi - Locks Quest - Clockwork Phantom_218
+  - first:
+      213: -917117346463457784
+    second: DS DSi - Locks Quest - Clockwork Phantom_219
+  - first:
+      213: 2117035381162455365
+    second: DS DSi - Locks Quest - Clockwork Phantom_220
+  - first:
+      213: 5448205515291725951
+    second: DS DSi - Locks Quest - Clockwork Phantom_221
+  - first:
+      213: 6076821711114258459
+    second: DS DSi - Locks Quest - Clockwork Phantom_222
+  - first:
+      213: 7601578076163756537
+    second: DS DSi - Locks Quest - Clockwork Phantom_223
+  - first:
+      213: 8951335542107914839
+    second: DS DSi - Locks Quest - Clockwork Phantom_224
+  - first:
+      213: -6097295271567691403
+    second: DS DSi - Locks Quest - Clockwork Phantom_225
+  - first:
+      213: 539324439654477577
+    second: DS DSi - Locks Quest - Clockwork Phantom_226
+  - first:
+      213: 7570604517220383442
+    second: DS DSi - Locks Quest - Clockwork Phantom_227
+  - first:
+      213: 5604226540680542554
+    second: DS DSi - Locks Quest - Clockwork Phantom_228
+  - first:
+      213: -1601506735552799663
+    second: DS DSi - Locks Quest - Clockwork Phantom_229
+  - first:
+      213: 6604569219148913912
+    second: DS DSi - Locks Quest - Clockwork Phantom_230
+  - first:
+      213: 991605426326332691
+    second: DS DSi - Locks Quest - Clockwork Phantom_231
+  - first:
+      213: -2509184772992676223
+    second: DS DSi - Locks Quest - Clockwork Phantom_232
+  - first:
+      213: -5491503301901620520
+    second: DS DSi - Locks Quest - Clockwork Phantom_233
+  - first:
+      213: -7951543839638586061
+    second: DS DSi - Locks Quest - Clockwork Phantom_234
+  - first:
+      213: -1642589661457848017
+    second: DS DSi - Locks Quest - Clockwork Phantom_235
+  - first:
+      213: 4912739963445806044
+    second: DS DSi - Locks Quest - Clockwork Phantom_236
+  - first:
+      213: -3376747717751991184
+    second: DS DSi - Locks Quest - Clockwork Phantom_237
+  - first:
+      213: 7246601254901675931
+    second: DS DSi - Locks Quest - Clockwork Phantom_238
+  - first:
+      213: 9055163319886028505
+    second: DS DSi - Locks Quest - Clockwork Phantom_239
+  - first:
+      213: 1663869738431455196
+    second: DS DSi - Locks Quest - Clockwork Phantom_240
+  - first:
+      213: 9013562212036897329
+    second: DS DSi - Locks Quest - Clockwork Phantom_241
+  - first:
+      213: -1988471738817074734
+    second: DS DSi - Locks Quest - Clockwork Phantom_242
+  - first:
+      213: 9097739026380752235
+    second: DS DSi - Locks Quest - Clockwork Phantom_243
+  - first:
+      213: 6607954148879560415
+    second: DS DSi - Locks Quest - Clockwork Phantom_244
+  - first:
+      213: 5862108155426070852
+    second: DS DSi - Locks Quest - Clockwork Phantom_245
+  - first:
+      213: 8193311204296212571
+    second: DS DSi - Locks Quest - Clockwork Phantom_246
+  - first:
+      213: -6662456602494188171
+    second: DS DSi - Locks Quest - Clockwork Phantom_247
+  - first:
+      213: 4920932919187329984
+    second: DS DSi - Locks Quest - Clockwork Phantom_248
+  - first:
+      213: 7734435647108496116
+    second: DS DSi - Locks Quest - Clockwork Phantom_249
+  - first:
+      213: 2534783361030701577
+    second: DS DSi - Locks Quest - Clockwork Phantom_250
+  - first:
+      213: 4487218900567335719
+    second: DS DSi - Locks Quest - Clockwork Phantom_251
+  - first:
+      213: -4491682849362679395
+    second: DS DSi - Locks Quest - Clockwork Phantom_252
+  - first:
+      213: 3006469715676284916
+    second: DS DSi - Locks Quest - Clockwork Phantom_253
+  - first:
+      213: -8203712287002325559
+    second: DS DSi - Locks Quest - Clockwork Phantom_254
+  - first:
+      213: 6761274094065934253
+    second: DS DSi - Locks Quest - Clockwork Phantom_255
+  - first:
+      213: 3309511998857122992
+    second: DS DSi - Locks Quest - Clockwork Phantom_256
+  - first:
+      213: 1048223377846473327
+    second: DS DSi - Locks Quest - Clockwork Phantom_257
+  - first:
+      213: -2051021856632173302
+    second: DS DSi - Locks Quest - Clockwork Phantom_258
+  - first:
+      213: -6253380880851104731
+    second: DS DSi - Locks Quest - Clockwork Phantom_259
+  - first:
+      213: -1901816088205380053
+    second: DS DSi - Locks Quest - Clockwork Phantom_260
+  - first:
+      213: 6811151335860868038
+    second: DS DSi - Locks Quest - Clockwork Phantom_261
+  - first:
+      213: -8832637141563303394
+    second: DS DSi - Locks Quest - Clockwork Phantom_262
+  - first:
+      213: 3999628579833450067
+    second: DS DSi - Locks Quest - Clockwork Phantom_263
+  - first:
+      213: -7046044742379171136
+    second: DS DSi - Locks Quest - Clockwork Phantom_264
+  - first:
+      213: 2315710932515218803
+    second: DS DSi - Locks Quest - Clockwork Phantom_265
+  - first:
+      213: 8855092987638271826
+    second: DS DSi - Locks Quest - Clockwork Phantom_266
+  - first:
+      213: -3616187118731969811
+    second: DS DSi - Locks Quest - Clockwork Phantom_267
+  - first:
+      213: 391922391642306125
+    second: DS DSi - Locks Quest - Clockwork Phantom_268
+  - first:
+      213: 4015049532782850696
+    second: DS DSi - Locks Quest - Clockwork Phantom_269
+  - first:
+      213: -7252266321493381553
+    second: DS DSi - Locks Quest - Clockwork Phantom_270
+  - first:
+      213: -2702809415785006186
+    second: DS DSi - Locks Quest - Clockwork Phantom_271
+  - first:
+      213: 7491602296286485850
+    second: DS DSi - Locks Quest - Clockwork Phantom_272
+  - first:
+      213: 9174499864061997267
+    second: DS DSi - Locks Quest - Clockwork Phantom_273
+  - first:
+      213: 6251088731236022283
+    second: DS DSi - Locks Quest - Clockwork Phantom_274
+  - first:
+      213: -7831332393910658325
+    second: DS DSi - Locks Quest - Clockwork Phantom_275
+  - first:
+      213: 929663462316458910
+    second: DS DSi - Locks Quest - Clockwork Phantom_276
+  - first:
+      213: -7216447855948446066
+    second: DS DSi - Locks Quest - Clockwork Phantom_277
+  - first:
+      213: -7888805778380634550
+    second: DS DSi - Locks Quest - Clockwork Phantom_278
+  - first:
+      213: -7606934210656263463
+    second: DS DSi - Locks Quest - Clockwork Phantom_279
+  - first:
+      213: 4764662410498668164
+    second: DS DSi - Locks Quest - Clockwork Phantom_280
+  - first:
+      213: -1214172539697098999
+    second: DS DSi - Locks Quest - Clockwork Phantom_281
+  - first:
+      213: 124136746123571751
+    second: DS DSi - Locks Quest - Clockwork Phantom_282
+  - first:
+      213: -7402202165834173097
+    second: DS DSi - Locks Quest - Clockwork Phantom_283
+  - first:
+      213: -7487896003933280316
+    second: DS DSi - Locks Quest - Clockwork Phantom_284
+  - first:
+      213: -8940581255647345134
+    second: DS DSi - Locks Quest - Clockwork Phantom_285
+  - first:
+      213: 301879964886960528
+    second: DS DSi - Locks Quest - Clockwork Phantom_286
+  - first:
+      213: 78321663208046814
+    second: DS DSi - Locks Quest - Clockwork Phantom_287
+  - first:
+      213: -4513615351986610406
+    second: DS DSi - Locks Quest - Clockwork Phantom_288
+  - first:
+      213: 7742388134175315264
+    second: DS DSi - Locks Quest - Clockwork Phantom_289
+  - first:
+      213: -3004652044365235579
+    second: DS DSi - Locks Quest - Clockwork Phantom_290
+  - first:
+      213: 3235583179017252761
+    second: DS DSi - Locks Quest - Clockwork Phantom_291
+  - first:
+      213: 624545504794574421
+    second: DS DSi - Locks Quest - Clockwork Phantom_292
+  - first:
+      213: -9217850179058662568
+    second: DS DSi - Locks Quest - Clockwork Phantom_293
+  - first:
+      213: 8189440079218841230
+    second: DS DSi - Locks Quest - Clockwork Phantom_294
+  - first:
+      213: 7266825694726973054
+    second: DS DSi - Locks Quest - Clockwork Phantom_295
+  - first:
+      213: 1084322613666347246
+    second: DS DSi - Locks Quest - Clockwork Phantom_296
+  - first:
+      213: -1421888685084434998
+    second: DS DSi - Locks Quest - Clockwork Phantom_297
+  - first:
+      213: 5042577701564571252
+    second: DS DSi - Locks Quest - Clockwork Phantom_298
+  - first:
+      213: -1730541217209627199
+    second: DS DSi - Locks Quest - Clockwork Phantom_299
+  - first:
+      213: 146432893346676738
+    second: DS DSi - Locks Quest - Clockwork Phantom_300
+  - first:
+      213: 1943829656948363298
+    second: DS DSi - Locks Quest - Clockwork Phantom_301
+  - first:
+      213: -6908081939108204985
+    second: DS DSi - Locks Quest - Clockwork Phantom_302
+  - first:
+      213: -3037088341301469861
+    second: DS DSi - Locks Quest - Clockwork Phantom_303
+  - first:
+      213: -2409126951933112949
+    second: DS DSi - Locks Quest - Clockwork Phantom_304
+  - first:
+      213: -5094029056857380864
+    second: DS DSi - Locks Quest - Clockwork Phantom_305
+  - first:
+      213: 1188331340004383785
+    second: DS DSi - Locks Quest - Clockwork Phantom_306
+  - first:
+      213: 6959252578819945012
+    second: DS DSi - Locks Quest - Clockwork Phantom_307
+  - first:
+      213: 438842793643479535
+    second: DS DSi - Locks Quest - Clockwork Phantom_308
+  - first:
+      213: 1891607504532213569
+    second: DS DSi - Locks Quest - Clockwork Phantom_309
+  - first:
+      213: -2281040420754765582
+    second: DS DSi - Locks Quest - Clockwork Phantom_310
+  - first:
+      213: -1809373403736678952
+    second: DS DSi - Locks Quest - Clockwork Phantom_311
+  - first:
+      213: 3112766130760782061
+    second: DS DSi - Locks Quest - Clockwork Phantom_312
+  - first:
+      213: -7077907964115179223
+    second: DS DSi - Locks Quest - Clockwork Phantom_313
+  - first:
+      213: 8571407236335297607
+    second: DS DSi - Locks Quest - Clockwork Phantom_314
+  - first:
+      213: -1478547051186061963
+    second: DS DSi - Locks Quest - Clockwork Phantom_315
+  - first:
+      213: 7296099041722586851
+    second: DS DSi - Locks Quest - Clockwork Phantom_316
+  - first:
+      213: -2030307286503995475
+    second: DS DSi - Locks Quest - Clockwork Phantom_317
+  - first:
+      213: 6935043215369046522
+    second: DS DSi - Locks Quest - Clockwork Phantom_318
+  - first:
+      213: -3737291968101135726
+    second: DS DSi - Locks Quest - Clockwork Phantom_319
+  - first:
+      213: -7945860506073199903
+    second: DS DSi - Locks Quest - Clockwork Phantom_320
+  - first:
+      213: 1869660109639956755
+    second: DS DSi - Locks Quest - Clockwork Phantom_321
+  - first:
+      213: -1470387397897059536
+    second: DS DSi - Locks Quest - Clockwork Phantom_322
+  - first:
+      213: 4745539008876220445
+    second: DS DSi - Locks Quest - Clockwork Phantom_323
+  - first:
+      213: -1483828818277810942
+    second: DS DSi - Locks Quest - Clockwork Phantom_324
+  - first:
+      213: -7036189046379764275
+    second: DS DSi - Locks Quest - Clockwork Phantom_325
+  - first:
+      213: -2319074784357747656
+    second: DS DSi - Locks Quest - Clockwork Phantom_326
+  - first:
+      213: -7527255639855583800
+    second: DS DSi - Locks Quest - Clockwork Phantom_327
+  - first:
+      213: -4286337952410844212
+    second: DS DSi - Locks Quest - Clockwork Phantom_328
+  - first:
+      213: 2538795539647303162
+    second: DS DSi - Locks Quest - Clockwork Phantom_329
+  - first:
+      213: -7937822040842391479
+    second: DS DSi - Locks Quest - Clockwork Phantom_330
+  - first:
+      213: -3677333881653641449
+    second: DS DSi - Locks Quest - Clockwork Phantom_331
+  - first:
+      213: 3242092159442545236
+    second: DS DSi - Locks Quest - Clockwork Phantom_332
+  - first:
+      213: -6388062636184777220
+    second: DS DSi - Locks Quest - Clockwork Phantom_333
+  - first:
+      213: 6835623921564127
+    second: DS DSi - Locks Quest - Clockwork Phantom_334
+  - first:
+      213: -5546416669642444888
+    second: DS DSi - Locks Quest - Clockwork Phantom_335
+  - first:
+      213: -4347140548759922572
+    second: DS DSi - Locks Quest - Clockwork Phantom_336
+  - first:
+      213: -5442927196235159654
+    second: DS DSi - Locks Quest - Clockwork Phantom_337
+  - first:
+      213: 5768993042761075036
+    second: DS DSi - Locks Quest - Clockwork Phantom_338
+  - first:
+      213: 5742970348707370132
+    second: DS DSi - Locks Quest - Clockwork Phantom_339
+  - first:
+      213: -8723345008515820942
+    second: DS DSi - Locks Quest - Clockwork Phantom_340
+  - first:
+      213: 1644407533560263131
+    second: DS DSi - Locks Quest - Clockwork Phantom_341
+  - first:
+      213: 4337188986700524016
+    second: DS DSi - Locks Quest - Clockwork Phantom_342
+  - first:
+      213: 995771557530035935
+    second: DS DSi - Locks Quest - Clockwork Phantom_343
+  - first:
+      213: 3845501418129001337
+    second: DS DSi - Locks Quest - Clockwork Phantom_344
+  - first:
+      213: 3031825342293631476
+    second: DS DSi - Locks Quest - Clockwork Phantom_345
+  - first:
+      213: -6422048161547496878
+    second: DS DSi - Locks Quest - Clockwork Phantom_346
+  - first:
+      213: -1786533653971345305
+    second: DS DSi - Locks Quest - Clockwork Phantom_347
+  - first:
+      213: -9146024253593833413
+    second: DS DSi - Locks Quest - Clockwork Phantom_348
+  - first:
+      213: 8973822413278646296
+    second: DS DSi - Locks Quest - Clockwork Phantom_349
+  - first:
+      213: 6528992325753498705
+    second: DS DSi - Locks Quest - Clockwork Phantom_350
+  - first:
+      213: 3648976241561734269
+    second: DS DSi - Locks Quest - Clockwork Phantom_351
+  - first:
+      213: 3569690078927369368
+    second: DS DSi - Locks Quest - Clockwork Phantom_352
+  - first:
+      213: -3693147950495617524
+    second: DS DSi - Locks Quest - Clockwork Phantom_353
+  - first:
+      213: 8036559277964732758
+    second: DS DSi - Locks Quest - Clockwork Phantom_354
+  - first:
+      213: -5418195925991554782
+    second: DS DSi - Locks Quest - Clockwork Phantom_355
+  - first:
+      213: -7983943298736636515
+    second: DS DSi - Locks Quest - Clockwork Phantom_356
+  - first:
+      213: 8467293195009521213
+    second: DS DSi - Locks Quest - Clockwork Phantom_357
+  - first:
+      213: -8412590144880848775
+    second: DS DSi - Locks Quest - Clockwork Phantom_358
+  - first:
+      213: 3734015041570794282
+    second: DS DSi - Locks Quest - Clockwork Phantom_359
+  - first:
+      213: 7456190451754862337
+    second: DS DSi - Locks Quest - Clockwork Phantom_0
+  - first:
+      213: 4678288297771927846
+    second: DS DSi - Locks Quest - Clockwork Phantom_1
+  - first:
+      213: -1026144062127396850
+    second: DS DSi - Locks Quest - Clockwork Phantom_2
+  - first:
+      213: 2177317939769047003
+    second: DS DSi - Locks Quest - Clockwork Phantom_3
+  - first:
+      213: 5302193712228319657
+    second: DS DSi - Locks Quest - Clockwork Phantom_4
+  - first:
+      213: 334005909675492165
+    second: DS DSi - Locks Quest - Clockwork Phantom_5
+  - first:
+      213: -9051815881661504459
+    second: DS DSi - Locks Quest - Clockwork Phantom_6
+  - first:
+      213: -1340397885237984347
+    second: DS DSi - Locks Quest - Clockwork Phantom_7
+  - first:
+      213: -7380042127391005097
+    second: DS DSi - Locks Quest - Clockwork Phantom_8
+  - first:
+      213: 9191366218839351969
+    second: DS DSi - Locks Quest - Clockwork Phantom_9
+  - first:
+      213: 4265041364294203654
+    second: DS DSi - Locks Quest - Clockwork Phantom_10
+  - first:
+      213: -7517536670494987955
+    second: DS DSi - Locks Quest - Clockwork Phantom_11
+  - first:
+      213: -896831921732613063
+    second: DS DSi - Locks Quest - Clockwork Phantom_12
+  - first:
+      213: 3493728879746753906
+    second: DS DSi - Locks Quest - Clockwork Phantom_13
+  - first:
+      213: -7813064744840573630
+    second: DS DSi - Locks Quest - Clockwork Phantom_14
+  - first:
+      213: -356354446942134427
+    second: DS DSi - Locks Quest - Clockwork Phantom_15
+  - first:
+      213: 358265692472573153
+    second: DS DSi - Locks Quest - Clockwork Phantom_16
+  - first:
+      213: -6614270387150999988
+    second: DS DSi - Locks Quest - Clockwork Phantom_17
+  - first:
+      213: -5818391690129228459
+    second: DS DSi - Locks Quest - Clockwork Phantom_18
+  - first:
+      213: -4808570914504879309
+    second: DS DSi - Locks Quest - Clockwork Phantom_19
+  - first:
+      213: 4347839630886951431
+    second: DS DSi - Locks Quest - Clockwork Phantom_20
+  - first:
+      213: 7460851627072642866
+    second: DS DSi - Locks Quest - Clockwork Phantom_21
+  - first:
+      213: -3381788608321677857
+    second: DS DSi - Locks Quest - Clockwork Phantom_22
+  - first:
+      213: -5894822801825237005
+    second: DS DSi - Locks Quest - Clockwork Phantom_23
+  - first:
+      213: 5231395634885634377
+    second: DS DSi - Locks Quest - Clockwork Phantom_24
+  - first:
+      213: -3409443110330803358
+    second: DS DSi - Locks Quest - Clockwork Phantom_25
+  - first:
+      213: -8223140519556290593
+    second: DS DSi - Locks Quest - Clockwork Phantom_26
+  - first:
+      213: 7386527310616056426
+    second: DS DSi - Locks Quest - Clockwork Phantom_27
+  - first:
+      213: -7595689612106679363
+    second: DS DSi - Locks Quest - Clockwork Phantom_28
+  - first:
+      213: -88190689808058355
+    second: DS DSi - Locks Quest - Clockwork Phantom_29
+  - first:
+      213: -2335271029666303368
+    second: DS DSi - Locks Quest - Clockwork Phantom_30
+  - first:
+      213: -1715850301576046300
+    second: DS DSi - Locks Quest - Clockwork Phantom_31
+  - first:
+      213: 1944277095257655559
+    second: DS DSi - Locks Quest - Clockwork Phantom_32
+  - first:
+      213: -1920469957737597935
+    second: DS DSi - Locks Quest - Clockwork Phantom_33
+  - first:
+      213: -8347677264228771620
+    second: DS DSi - Locks Quest - Clockwork Phantom_34
+  - first:
+      213: -1207918600121912581
+    second: DS DSi - Locks Quest - Clockwork Phantom_35
+  - first:
+      213: 1310126634107370247
+    second: DS DSi - Locks Quest - Clockwork Phantom_36
+  - first:
+      213: 8598454392755044981
+    second: DS DSi - Locks Quest - Clockwork Phantom_37
+  - first:
+      213: 2104136423915801880
+    second: DS DSi - Locks Quest - Clockwork Phantom_38
+  - first:
+      213: -2357565378951993193
+    second: DS DSi - Locks Quest - Clockwork Phantom_39
+  - first:
+      213: 1879330393351316018
+    second: DS DSi - Locks Quest - Clockwork Phantom_40
+  - first:
+      213: -6541984763797420442
+    second: DS DSi - Locks Quest - Clockwork Phantom_41
+  - first:
+      213: -5961102356321983832
+    second: DS DSi - Locks Quest - Clockwork Phantom_42
+  - first:
+      213: 5506618362074174384
+    second: DS DSi - Locks Quest - Clockwork Phantom_43
+  - first:
+      213: -5363445564685728382
+    second: DS DSi - Locks Quest - Clockwork Phantom_44
+  - first:
+      213: 2347391536102958768
+    second: DS DSi - Locks Quest - Clockwork Phantom_45
+  - first:
+      213: 8634690562615832103
+    second: DS DSi - Locks Quest - Clockwork Phantom_46
+  - first:
+      213: -5671921373778648185
+    second: DS DSi - Locks Quest - Clockwork Phantom_47
+  - first:
+      213: -3539530310751038083
+    second: DS DSi - Locks Quest - Clockwork Phantom_48
+  - first:
+      213: 782404235958642460
+    second: DS DSi - Locks Quest - Clockwork Phantom_49
+  - first:
+      213: -4229568862806303017
+    second: DS DSi - Locks Quest - Clockwork Phantom_50
+  - first:
+      213: -2040282395744456779
+    second: DS DSi - Locks Quest - Clockwork Phantom_51
+  - first:
+      213: -6059028130938228541
+    second: DS DSi - Locks Quest - Clockwork Phantom_52
+  - first:
+      213: 4291463860796746619
+    second: DS DSi - Locks Quest - Clockwork Phantom_53
+  - first:
+      213: 7120785348732028252
+    second: DS DSi - Locks Quest - Clockwork Phantom_54
+  - first:
+      213: 8337573169306605624
+    second: DS DSi - Locks Quest - Clockwork Phantom_55
+  - first:
+      213: -427212939044270577
+    second: DS DSi - Locks Quest - Clockwork Phantom_56
+  - first:
+      213: 6633909112857477370
+    second: DS DSi - Locks Quest - Clockwork Phantom_57
+  - first:
+      213: -5613864657045711303
+    second: DS DSi - Locks Quest - Clockwork Phantom_58
+  - first:
+      213: -7232135252175106144
+    second: DS DSi - Locks Quest - Clockwork Phantom_59
+  - first:
+      213: 1311338888496062615
+    second: DS DSi - Locks Quest - Clockwork Phantom_60
+  - first:
+      213: 9030308762675296710
+    second: DS DSi - Locks Quest - Clockwork Phantom_61
+  - first:
+      213: 1192233257777898369
+    second: DS DSi - Locks Quest - Clockwork Phantom_62
+  - first:
+      213: -4642248587156170215
+    second: DS DSi - Locks Quest - Clockwork Phantom_63
+  - first:
+      213: 8097752064615235353
+    second: DS DSi - Locks Quest - Clockwork Phantom_64
+  - first:
+      213: -3236168342541547344
+    second: DS DSi - Locks Quest - Clockwork Phantom_65
+  - first:
+      213: -22863365805018650
+    second: DS DSi - Locks Quest - Clockwork Phantom_66
+  - first:
+      213: -2272872579698209260
+    second: DS DSi - Locks Quest - Clockwork Phantom_67
+  - first:
+      213: -7416434186343418868
+    second: DS DSi - Locks Quest - Clockwork Phantom_68
+  - first:
+      213: -9001713808854300732
+    second: DS DSi - Locks Quest - Clockwork Phantom_69
+  - first:
+      213: 1429552771630383395
+    second: DS DSi - Locks Quest - Clockwork Phantom_70
+  - first:
+      213: -3875799696211054877
+    second: DS DSi - Locks Quest - Clockwork Phantom_71
+  - first:
+      213: 6347614224280606899
+    second: DS DSi - Locks Quest - Clockwork Phantom_72
+  - first:
+      213: -5060394673125654079
+    second: DS DSi - Locks Quest - Clockwork Phantom_73
+  - first:
+      213: -4370650027190592246
+    second: DS DSi - Locks Quest - Clockwork Phantom_74
+  - first:
+      213: -607867138259183269
+    second: DS DSi - Locks Quest - Clockwork Phantom_75
+  - first:
+      213: 4006031220622532929
+    second: DS DSi - Locks Quest - Clockwork Phantom_76
+  - first:
+      213: -6752402131274937288
+    second: DS DSi - Locks Quest - Clockwork Phantom_77
+  - first:
+      213: -63963386359493602
+    second: DS DSi - Locks Quest - Clockwork Phantom_78
+  - first:
+      213: 1054659365108209134
+    second: DS DSi - Locks Quest - Clockwork Phantom_79
+  - first:
+      213: 8987438150671858119
+    second: DS DSi - Locks Quest - Clockwork Phantom_80
+  - first:
+      213: 283292528083954632
+    second: DS DSi - Locks Quest - Clockwork Phantom_81
+  - first:
+      213: -6676452285587111355
+    second: DS DSi - Locks Quest - Clockwork Phantom_82
+  - first:
+      213: -5773934826614309450
+    second: DS DSi - Locks Quest - Clockwork Phantom_83
+  - first:
+      213: -3209525112189213482
+    second: DS DSi - Locks Quest - Clockwork Phantom_84
+  - first:
+      213: 6234937730474880365
+    second: DS DSi - Locks Quest - Clockwork Phantom_85
+  - first:
+      213: 8807323366241475901
+    second: DS DSi - Locks Quest - Clockwork Phantom_86
+  - first:
+      213: -4951462508316463104
+    second: DS DSi - Locks Quest - Clockwork Phantom_87
+  - first:
+      213: 7941231473868788334
+    second: DS DSi - Locks Quest - Clockwork Phantom_88
+  - first:
+      213: 1251344561713343886
+    second: DS DSi - Locks Quest - Clockwork Phantom_89
+  - first:
+      213: 407142195380205746
+    second: DS DSi - Locks Quest - Clockwork Phantom_90
+  - first:
+      213: 2138794446116952444
+    second: DS DSi - Locks Quest - Clockwork Phantom_91
+  - first:
+      213: -619541662508061084
+    second: DS DSi - Locks Quest - Clockwork Phantom_92
+  - first:
+      213: 3298096306542266507
+    second: DS DSi - Locks Quest - Clockwork Phantom_93
+  - first:
+      213: 3885766929457519747
+    second: DS DSi - Locks Quest - Clockwork Phantom_94
+  - first:
+      213: -2502202920885631206
+    second: DS DSi - Locks Quest - Clockwork Phantom_95
+  - first:
+      213: 4189562829267222395
+    second: DS DSi - Locks Quest - Clockwork Phantom_96
+  - first:
+      213: 5875500168774440760
+    second: DS DSi - Locks Quest - Clockwork Phantom_97
+  - first:
+      213: -597941468313088588
+    second: DS DSi - Locks Quest - Clockwork Phantom_98
+  - first:
+      213: -7578142273770497943
+    second: DS DSi - Locks Quest - Clockwork Phantom_99
+  - first:
+      213: -7358164301827556828
+    second: DS DSi - Locks Quest - Clockwork Phantom_100
+  - first:
+      213: 2368510447993062580
+    second: DS DSi - Locks Quest - Clockwork Phantom_101
+  - first:
+      213: -1959875533577771978
+    second: DS DSi - Locks Quest - Clockwork Phantom_102
+  - first:
+      213: -5047790015584459488
+    second: DS DSi - Locks Quest - Clockwork Phantom_103
+  - first:
+      213: -1158294075724683305
+    second: DS DSi - Locks Quest - Clockwork Phantom_104
+  - first:
+      213: -3293538889718417453
+    second: DS DSi - Locks Quest - Clockwork Phantom_105
+  - first:
+      213: -1246764582434604184
+    second: DS DSi - Locks Quest - Clockwork Phantom_106
+  - first:
+      213: 4083314192068300170
+    second: DS DSi - Locks Quest - Clockwork Phantom_107
+  - first:
+      213: 2412728643882747730
+    second: DS DSi - Locks Quest - Clockwork Phantom_108
+  - first:
+      213: 6828821290670142056
+    second: DS DSi - Locks Quest - Clockwork Phantom_109
+  - first:
+      213: 4964150422335550601
+    second: DS DSi - Locks Quest - Clockwork Phantom_110
+  - first:
+      213: 6397490411681011087
+    second: DS DSi - Locks Quest - Clockwork Phantom_111
+  - first:
+      213: 2064980932804289612
+    second: DS DSi - Locks Quest - Clockwork Phantom_112
+  - first:
+      213: -8203214126614368063
+    second: DS DSi - Locks Quest - Clockwork Phantom_113
+  - first:
+      213: -3766453793922831430
+    second: DS DSi - Locks Quest - Clockwork Phantom_114
+  - first:
+      213: 8419522024674244394
+    second: DS DSi - Locks Quest - Clockwork Phantom_115
+  - first:
+      213: 7667361790681017107
+    second: DS DSi - Locks Quest - Clockwork Phantom_116
+  - first:
+      213: -6035672022883537320
+    second: DS DSi - Locks Quest - Clockwork Phantom_117
+  - first:
+      213: -3158608999197814532
+    second: DS DSi - Locks Quest - Clockwork Phantom_118
+  - first:
+      213: 6099934729110979924
+    second: DS DSi - Locks Quest - Clockwork Phantom_119
+  - first:
+      213: -4655367823274057008
+    second: DS DSi - Locks Quest - Clockwork Phantom_120
+  - first:
+      213: 6696754934259516285
+    second: DS DSi - Locks Quest - Clockwork Phantom_121
+  - first:
+      213: 3434724554443573967
+    second: DS DSi - Locks Quest - Clockwork Phantom_122
+  - first:
+      213: -2487069793732188457
+    second: DS DSi - Locks Quest - Clockwork Phantom_123
+  - first:
+      213: 6991698619680175353
+    second: DS DSi - Locks Quest - Clockwork Phantom_124
+  - first:
+      213: 8000110575924828574
+    second: DS DSi - Locks Quest - Clockwork Phantom_125
+  - first:
+      213: -1594974054366241197
+    second: DS DSi - Locks Quest - Clockwork Phantom_126
+  - first:
+      213: -4146045695159154051
+    second: DS DSi - Locks Quest - Clockwork Phantom_127
+  - first:
+      213: 7370285330124934388
+    second: DS DSi - Locks Quest - Clockwork Phantom_128
+  - first:
+      213: -7805590292110060414
+    second: DS DSi - Locks Quest - Clockwork Phantom_129
+  - first:
+      213: -3859981876150516780
+    second: DS DSi - Locks Quest - Clockwork Phantom_130
+  - first:
+      213: -1869452378976037462
+    second: DS DSi - Locks Quest - Clockwork Phantom_131
+  - first:
+      213: 7620591486957159970
+    second: DS DSi - Locks Quest - Clockwork Phantom_132
+  - first:
+      213: 2146195857057405786
+    second: DS DSi - Locks Quest - Clockwork Phantom_133
+  - first:
+      213: 3789916020167883868
+    second: DS DSi - Locks Quest - Clockwork Phantom_134
+  - first:
+      213: -2945034639743915282
+    second: DS DSi - Locks Quest - Clockwork Phantom_135
+  - first:
+      213: 5682016687876760313
+    second: DS DSi - Locks Quest - Clockwork Phantom_136
+  - first:
+      213: 3280426570693885348
+    second: DS DSi - Locks Quest - Clockwork Phantom_137
+  - first:
+      213: 300086976228784635
+    second: DS DSi - Locks Quest - Clockwork Phantom_138
+  - first:
+      213: -7543043135258161010
+    second: DS DSi - Locks Quest - Clockwork Phantom_139
+  - first:
+      213: -3551266410455634691
+    second: DS DSi - Locks Quest - Clockwork Phantom_140
+  - first:
+      213: 669864274454889882
+    second: DS DSi - Locks Quest - Clockwork Phantom_141
+  - first:
+      213: 5938939339940554670
+    second: DS DSi - Locks Quest - Clockwork Phantom_142
+  - first:
+      213: -1948797810798377181
+    second: DS DSi - Locks Quest - Clockwork Phantom_143
+  - first:
+      213: 1183636402611567993
+    second: DS DSi - Locks Quest - Clockwork Phantom_144
+  - first:
+      213: -3521619344078328867
+    second: DS DSi - Locks Quest - Clockwork Phantom_145
+  - first:
+      213: 2759739913469997584
+    second: DS DSi - Locks Quest - Clockwork Phantom_146
+  - first:
+      213: -2116443506221955694
+    second: DS DSi - Locks Quest - Clockwork Phantom_147
+  - first:
+      213: -8645392432139474956
+    second: DS DSi - Locks Quest - Clockwork Phantom_148
+  - first:
+      213: -4199830135633724504
+    second: DS DSi - Locks Quest - Clockwork Phantom_149
+  - first:
+      213: 8202444535747087997
+    second: DS DSi - Locks Quest - Clockwork Phantom_150
+  - first:
+      213: -3761308133798626552
+    second: DS DSi - Locks Quest - Clockwork Phantom_151
+  - first:
+      213: 2331436899331343801
+    second: DS DSi - Locks Quest - Clockwork Phantom_152
+  - first:
+      213: -3829051289035686877
+    second: DS DSi - Locks Quest - Clockwork Phantom_153
+  - first:
+      213: -6385200956773224151
+    second: DS DSi - Locks Quest - Clockwork Phantom_154
+  - first:
+      213: 7418066124559959124
+    second: DS DSi - Locks Quest - Clockwork Phantom_155
+  - first:
+      213: -3132085304045991381
+    second: DS DSi - Locks Quest - Clockwork Phantom_156
+  - first:
+      213: -8358401046015380592
+    second: DS DSi - Locks Quest - Clockwork Phantom_157
+  - first:
+      213: 1997295886310212642
+    second: DS DSi - Locks Quest - Clockwork Phantom_158
+  - first:
+      213: 5751359137344695983
+    second: DS DSi - Locks Quest - Clockwork Phantom_159
+  - first:
+      213: 5730985967273400527
+    second: DS DSi - Locks Quest - Clockwork Phantom_160
+  - first:
+      213: 3085327250516895070
+    second: DS DSi - Locks Quest - Clockwork Phantom_161
+  - first:
+      213: -5753339054168745246
+    second: DS DSi - Locks Quest - Clockwork Phantom_162
+  - first:
+      213: -2494671308824831515
+    second: DS DSi - Locks Quest - Clockwork Phantom_163
+  - first:
+      213: 5342517328511408638
+    second: DS DSi - Locks Quest - Clockwork Phantom_164
+  - first:
+      213: 290343392603646555
+    second: DS DSi - Locks Quest - Clockwork Phantom_165
+  - first:
+      213: 9206999737612981884
+    second: DS DSi - Locks Quest - Clockwork Phantom_166
+  - first:
+      213: 7456645612482811225
+    second: DS DSi - Locks Quest - Clockwork Phantom_167
+  - first:
+      213: 5240690362645405787
+    second: DS DSi - Locks Quest - Clockwork Phantom_168
+  - first:
+      213: 2147005256034057648
+    second: DS DSi - Locks Quest - Clockwork Phantom_169
+  - first:
+      213: -5873328384116336351
+    second: DS DSi - Locks Quest - Clockwork Phantom_170
+  - first:
+      213: -697927110563220168
+    second: DS DSi - Locks Quest - Clockwork Phantom_171
+  - first:
+      213: -4544781059575339060
+    second: DS DSi - Locks Quest - Clockwork Phantom_172
+  - first:
+      213: -6368996985723497485
+    second: DS DSi - Locks Quest - Clockwork Phantom_173
+  - first:
+      213: 9170388195375648286
+    second: DS DSi - Locks Quest - Clockwork Phantom_174
+  - first:
+      213: 8383822396307668272
+    second: DS DSi - Locks Quest - Clockwork Phantom_175
+  - first:
+      213: 5743284197114393514
+    second: DS DSi - Locks Quest - Clockwork Phantom_176
+  - first:
+      213: -968463927288945404
+    second: DS DSi - Locks Quest - Clockwork Phantom_177
+  - first:
+      213: -8093599595007043974
+    second: DS DSi - Locks Quest - Clockwork Phantom_178
+  - first:
+      213: 8960344811449466009
+    second: DS DSi - Locks Quest - Clockwork Phantom_179
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 55
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107028616b5b97760800000000000000
+      internalID: 7456190451754862337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62900919b6e9ce040800000000000000
+      internalID: 4678288297771927846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e082588896762c1f0800000000000000
+      internalID: -1026144062127396850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7f40b5123673e10800000000000000
+      internalID: 2177317939769047003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1cdabc61d259940800000000000000
+      internalID: 5302193712228319657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 513
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543c61fea90a2a400800000000000000
+      internalID: 334005909675492165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534a3590a6d716280800000000000000
+      internalID: -9051815881661504459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_7
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a384b0a933f56de0800000000000000
+      internalID: -1340397885237984347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_8
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756e07949c2d49990800000000000000
+      internalID: -7380042127391005097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_9
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2e17ac0ea4e8f70800000000000000
+      internalID: 9191366218839351969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_10
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6097a1f0688703b30800000000000000
+      internalID: 4265041364294203654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_11
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d496c215a385ca790800000000000000
+      internalID: -7517536670494987955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_13
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27524d2d7e73c7030800000000000000
+      internalID: 3493728879746753906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_14
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d46ac820b629390800000000000000
+      internalID: -7813064744840573630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_15
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f12efb489fd0bf0800000000000000
+      internalID: -356354446942134427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_16
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec7907cfb0d8f400800000000000000
+      internalID: 358265692472573153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_17
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4eaa7570246534a0800000000000000
+      internalID: -6614270387150999988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d33c1c59be04fa0800000000000000
+      internalID: -5818391690129228459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33359abea36844db0800000000000000
+      internalID: -4808570914504879309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ad163cb11a65c30800000000000000
+      internalID: 4347839630886951431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f5f8986054a8760800000000000000
+      internalID: 7460851627072642866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_22
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5168f9d297111d0800000000000000
+      internalID: -3381788608321677857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_23
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 456
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f77553d4e1613ea0800000000000000
+      internalID: -5894822801825237005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_24
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94923e0ec96a99840800000000000000
+      internalID: 5231395634885634377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_25
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b54de1e893fa0d0800000000000000
+      internalID: -3409443110330803358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_26
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7e9b9f34981ed80800000000000000
+      internalID: -8223140519556290593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_27
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62ddf81477328660800000000000000
+      internalID: 7386527310616056426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_28
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbb14e9a80b69690800000000000000
+      internalID: -7595689612106679363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_29
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d087e7de80fa6cef0800000000000000
+      internalID: -88190689808058355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_30
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872ba7e0f53779fd0800000000000000
+      internalID: -2335271029666303368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_31
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42910dedd331038e0800000000000000
+      internalID: -1715850301576046300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_32
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709c2c787b57bfa10800000000000000
+      internalID: 1944277095257655559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_33
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114bd3f9fbe1955e0800000000000000
+      internalID: -1920469957737597935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_34
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd81a0e81c7172c80800000000000000
+      internalID: -8347677264228771620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_35
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2752ade6c9c3fe0800000000000000
+      internalID: -1207918600121912581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b7fbc7b318e2210800000000000000
+      internalID: 1310126634107370247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_37
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572cf81b6b8d35770800000000000000
+      internalID: 8598454392755044981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_38
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d467aede4633d10800000000000000
+      internalID: 2104136423915801880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_39
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798aecc57ce384fd0800000000000000
+      internalID: -2357565378951993193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_40
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232ec4f1909b41a10800000000000000
+      internalID: 1879330393351316018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_41
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 399
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66646dba4833635a0800000000000000
+      internalID: -6541984763797420442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_42
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a22fad7df8e54da0800000000000000
+      internalID: -5961102356321983832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_44
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28543c8fca63195b0800000000000000
+      internalID: -5363445564685728382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_45
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6ec224a2c939020800000000000000
+      internalID: 2347391536102958768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_46
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e6222715594d770800000000000000
+      internalID: 8634690562615832103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_47
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7836af9cf894941b0800000000000000
+      internalID: -5671921373778648185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_48
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75d4f38fef01eec0800000000000000
+      internalID: -3539530310751038083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_49
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17631bd188abda00800000000000000
+      internalID: 782404235958642460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_50
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de906b478d8d45c0800000000000000
+      internalID: -4229568862806303017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_51
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf2b2098f57fa3e0800000000000000
+      internalID: -2040282395744456779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_52
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0f35b54020aeba0800000000000000
+      internalID: -6059028130938228541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_53
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b673de4a75e8b30800000000000000
+      internalID: 4291463860796746619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c558af01c8c12d260800000000000000
+      internalID: 7120785348732028252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_55
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83819558f9205b370800000000000000
+      internalID: 8337573169306605624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_56
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ec0dc681c321af0800000000000000
+      internalID: -427212939044270577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_57
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0c810b031601c50800000000000000
+      internalID: 6633909112857477370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_58
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9369ba386db8712b0800000000000000
+      internalID: -5613864657045711303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_59
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 342
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afc58e3e4b42ab90800000000000000
+      internalID: -7232135252175106144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_60
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790a6f475cfc23210800000000000000
+      internalID: 1311338888496062615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_61
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9bb5b99f9125d70800000000000000
+      internalID: 9030308762675296710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_62
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183224bc4d9ab8010800000000000000
+      internalID: 1192233257777898369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_63
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a5f73718b639fb0800000000000000
+      internalID: -4642248587156170215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_64
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fb39a599ef06070800000000000000
+      internalID: 8097752064615235353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_65
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b84275d902d613d0800000000000000
+      internalID: -3236168342541547344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_66
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e172d2d3e5ceaff0800000000000000
+      internalID: -22863365805018650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_67
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ecc535e622570e0800000000000000
+      internalID: -2272872579698209260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_68
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04ffe6c668831990800000000000000
+      internalID: -7416434186343418868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_69
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7c285ebfc731380800000000000000
+      internalID: -9001713808854300732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_70
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32144b4fbaac6d310800000000000000
+      internalID: 1429552771630383395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_71
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eee5ce06b4663ac0800000000000000
+      internalID: -3875799696211054877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b856718181471850800000000000000
+      internalID: 6347614224280606899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_73
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1011d1bddd5c9b0800000000000000
+      internalID: -5060394673125654079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_74
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dd0cbf4f45853c0800000000000000
+      internalID: -4370650027190592246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_75
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b599d61fe0c6097f0800000000000000
+      internalID: -607867138259183269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_76
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141a4589b28489730800000000000000
+      internalID: 4006031220622532929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_77
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 285
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c44c09906aa42a0800000000000000
+      internalID: -6752402131274937288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_78
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c496593a1cc1ff0800000000000000
+      internalID: -63963386359493602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_79
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee55050da17e2ae00800000000000000
+      internalID: 1054659365108209134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_80
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9f69b616bc9bc70800000000000000
+      internalID: 8987438150671858119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_81
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb67f7ad057ee300800000000000000
+      internalID: 283292528083954632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_82
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5424cb5050a7853a0800000000000000
+      internalID: -6676452285587111355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_83
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdb567eddcdedfa0800000000000000
+      internalID: -5773934826614309450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_84
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4244e4ae97573d0800000000000000
+      internalID: -3209525112189213482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_85
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6da2ade4d2f68650800000000000000
+      internalID: 6234937730474880365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_86
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d12da30f5e93a70800000000000000
+      internalID: 8807323366241475901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_87
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000f129251fd84bb0800000000000000
+      internalID: -4951462508316463104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_88
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62d91773fbe43e60800000000000000
+      internalID: 7941231473868788334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_89
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d6a8cbf3bad5110800000000000000
+      internalID: 1251344561713343886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8b5b86ba576a500800000000000000
+      internalID: 407142195380205746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_91
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79116887368ead10800000000000000
+      internalID: 2138794446116952444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_92
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ee6a2f322f667f0800000000000000
+      internalID: -619541662508061084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_93
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88ca72ed1135cd20800000000000000
+      internalID: 3298096306542266507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_94
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c96464f640de530800000000000000
+      internalID: 3885766929457519747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_95
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 228
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17caa063b3664dd0800000000000000
+      internalID: -2502202920885631206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_96
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f37aa2231542a30800000000000000
+      internalID: 4189562829267222395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_97
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8375c851648f98150800000000000000
+      internalID: 5875500168774440760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_98
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd09b0176fa3b7f0800000000000000
+      internalID: -597941468313088588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_99
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968d982b0c705d690800000000000000
+      internalID: -7578142273770497943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_100
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42abb9e7d8c82e990800000000000000
+      internalID: -7358164301827556828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_101
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b48d6b14b3aed020800000000000000
+      internalID: 2368510447993062580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_102
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6342e19069f1dc4e0800000000000000
+      internalID: -1959875533577771978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_103
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0252354a9b5a2f9b0800000000000000
+      internalID: -5047790015584459488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_104
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7adfecca9ecefe0800000000000000
+      internalID: -1158294075724683305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_105
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7366864dffa42d0800000000000000
+      internalID: -3293538889718417453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_106
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b7279c73a92bee0800000000000000
+      internalID: -1246764582434604184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_107
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8dca849f98daa830800000000000000
+      internalID: 4083314192068300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2578a0e1bebbb7120800000000000000
+      internalID: 2412728643882747730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_109
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862b40188c8d4ce50800000000000000
+      internalID: 6828821290670142056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_110
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9847ae6028434e440800000000000000
+      internalID: 4964150422335550601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_111
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85d63252a378c850800000000000000
+      internalID: 6397490411681011087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_112
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4421c7b73948ac10800000000000000
+      internalID: 2064980932804289612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_113
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 171
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c03faed634582e80800000000000000
+      internalID: -8203214126614368063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_114
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbae4eda3edabbc0800000000000000
+      internalID: -3766453793922831430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_115
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2739434ca628d470800000000000000
+      internalID: 8419522024674244394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_116
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31be1f9dce0f76a60800000000000000
+      internalID: 7667361790681017107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_117
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e6347064cfc3ca0800000000000000
+      internalID: -6035672022883537320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_118
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0567aa9dd5a24d0800000000000000
+      internalID: -3158608999197814532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_119
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4558ab9315257a450800000000000000
+      internalID: 6099934729110979924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_120
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d267f241afc46fb0800000000000000
+      internalID: -4655367823274057008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_121
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73026cb127afec50800000000000000
+      internalID: 6696754934259516285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_122
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcacbe8c8c79aaf20800000000000000
+      internalID: 3434724554443573967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_123
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d62dfc13372c7dd0800000000000000
+      internalID: -2487069793732188457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_124
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f430aad9d0870160800000000000000
+      internalID: 6991698619680175353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_125
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9958d1be2a160f60800000000000000
+      internalID: 8000110575924828574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e198f4c838dd9e0800000000000000
+      internalID: -1594974054366241197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_127
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a408d28694676c0800000000000000
+      internalID: -4146045695159154051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_128
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc8e535573884660800000000000000
+      internalID: 7370285330124934388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_129
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284da803cf8fca390800000000000000
+      internalID: -7805590292110060414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_130
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d34a984fe69e6ac0800000000000000
+      internalID: -3859981876150516780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_131
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 114
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5df9257fe5e06e0800000000000000
+      internalID: -1869452378976037462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_132
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226827ee497c1c960800000000000000
+      internalID: 7620591486957159970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_133
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b525ec2c1d8cd10800000000000000
+      internalID: 2146195857057405786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_134
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c3bae5a8c789430800000000000000
+      internalID: 3789916020167883868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_135
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeae7de39922127d0800000000000000
+      internalID: -2945034639743915282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_136
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f26cb0b2149ade40800000000000000
+      internalID: 5682016687876760313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_137
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad36f9e59a668d20800000000000000
+      internalID: 3280426570693885348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_138
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf976d3d38f1a2400800000000000000
+      internalID: 300086976228784635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_139
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e801d75bb3ab15790800000000000000
+      internalID: -7543043135258161010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_140
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfce30ed30e57bec0800000000000000
+      internalID: -3551266410455634691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_141
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95cb9e2206db4900800000000000000
+      internalID: 669864274454889882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_142
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7efb32dd95b6250800000000000000
+      internalID: 5938939339940554670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_143
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327cd4c57ba74f4e0800000000000000
+      internalID: -1948797810798377181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d32e8790f1d6010800000000000000
+      internalID: 1183636402611567993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_145
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb211a6dd1b02fc0800000000000000
+      internalID: -3521619344078328867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_146
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012b8de54d09c4620800000000000000
+      internalID: 2759739913469997584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_147
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295457038d1e0a2e0800000000000000
+      internalID: -2116443506221955694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_148
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7e9726365650880800000000000000
+      internalID: -8645392432139474956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_149
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 57
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab32984eb437b5c0800000000000000
+      internalID: -4199830135633724504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_150
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e8c0bc8dfe4d170800000000000000
+      internalID: 8202444535747087997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_151
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b352a3e262dcbc0800000000000000
+      internalID: -3761308133798626552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_152
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b502e8e18dea5020800000000000000
+      internalID: 2331436899331343801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_153
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cb64ac32a7cdac0800000000000000
+      internalID: -3829051289035686877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_154
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9213c006f853367a0800000000000000
+      internalID: -6385200956773224151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_155
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45441c276d342f660800000000000000
+      internalID: 7418066124559959124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_156
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a0e1ea2099884d0800000000000000
+      internalID: -3132085304045991381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_157
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093fff9888ef00c80800000000000000
+      internalID: -8358401046015380592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_158
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2248ed6c602d7bb10800000000000000
+      internalID: 1997295886310212642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_159
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faea025d9aee0df40800000000000000
+      internalID: 5751359137344695983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_160
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc854188f5d888f40800000000000000
+      internalID: 5730985967273400527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_161
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5564ee99c841da20800000000000000
+      internalID: 3085327250516895070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ead3ebdc980820b0800000000000000
+      internalID: -5753339054168745246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_163
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9132679a5216dd0800000000000000
+      internalID: -2494671308824831515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_168
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50ea435e1caab840800000000000000
+      internalID: 5240690362645405787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd7ec0b7e1bbcd10800000000000000
+      internalID: 2147005256034057648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_170
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 0
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129d68fe3febd7ea0800000000000000
+      internalID: -5873328384116336351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_174
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 0
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e0dc51a73c34f70800000000000000
+      internalID: 9170388195375648286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_175
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 0
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03df1efcc02595470800000000000000
+      internalID: 8383822396307668272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_176
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa33e1d4c8e34bf40800000000000000
+      internalID: 5743284197114393514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_180
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9414b71439bf8db50800000000000000
+      internalID: 6618316262298304841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_177
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed33b6a3fe4e2970800000000000000
+      internalID: 8732003535898754534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Phantom_178
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd6dca09c709f5d0800000000000000
+      internalID: -3028380714378891818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

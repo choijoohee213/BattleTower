@@ -1,0 +1,1862 @@
+fileFormatVersion: 2
+guid: 45f845aa39a0b454d86eb43ec5cb903c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9206119240348823103
+    second: DS DSi - Locks Quest - Phantom_0
+  - first:
+      213: -3227207549880841501
+    second: DS DSi - Locks Quest - Phantom_1
+  - first:
+      213: 4475690189147829160
+    second: DS DSi - Locks Quest - Phantom_2
+  - first:
+      213: 8308572808349394106
+    second: DS DSi - Locks Quest - Phantom_3
+  - first:
+      213: 6416234623381485491
+    second: DS DSi - Locks Quest - Phantom_4
+  - first:
+      213: -3869836581152613397
+    second: DS DSi - Locks Quest - Phantom_5
+  - first:
+      213: -6182013320232069671
+    second: DS DSi - Locks Quest - Phantom_6
+  - first:
+      213: 9193453687842790247
+    second: DS DSi - Locks Quest - Phantom_7
+  - first:
+      213: -7302220204974223320
+    second: DS DSi - Locks Quest - Phantom_8
+  - first:
+      213: -5918989151389781811
+    second: DS DSi - Locks Quest - Phantom_9
+  - first:
+      213: 2111309455102338579
+    second: DS DSi - Locks Quest - Phantom_10
+  - first:
+      213: -942680622114206348
+    second: DS DSi - Locks Quest - Phantom_11
+  - first:
+      213: -1412041960653011282
+    second: DS DSi - Locks Quest - Phantom_12
+  - first:
+      213: 4344717337519817568
+    second: DS DSi - Locks Quest - Phantom_13
+  - first:
+      213: -3631726108288857145
+    second: DS DSi - Locks Quest - Phantom_14
+  - first:
+      213: 5387474180657601873
+    second: DS DSi - Locks Quest - Phantom_15
+  - first:
+      213: -3323882320074646277
+    second: DS DSi - Locks Quest - Phantom_16
+  - first:
+      213: -1464229610701779931
+    second: DS DSi - Locks Quest - Phantom_17
+  - first:
+      213: -1221305431632540224
+    second: DS DSi - Locks Quest - Phantom_18
+  - first:
+      213: 349839364482902028
+    second: DS DSi - Locks Quest - Phantom_19
+  - first:
+      213: 5306723146248524833
+    second: DS DSi - Locks Quest - Phantom_20
+  - first:
+      213: -3749627853683067938
+    second: DS DSi - Locks Quest - Phantom_21
+  - first:
+      213: 9003805619303902977
+    second: DS DSi - Locks Quest - Phantom_22
+  - first:
+      213: -4355863133510707584
+    second: DS DSi - Locks Quest - Phantom_23
+  - first:
+      213: 8678469344825108023
+    second: DS DSi - Locks Quest - Phantom_24
+  - first:
+      213: 531350633797513868
+    second: DS DSi - Locks Quest - Phantom_25
+  - first:
+      213: -2032724809671348752
+    second: DS DSi - Locks Quest - Phantom_26
+  - first:
+      213: -7421344159008357403
+    second: DS DSi - Locks Quest - Phantom_27
+  - first:
+      213: -6328614497652661305
+    second: DS DSi - Locks Quest - Phantom_28
+  - first:
+      213: -118579334649641010
+    second: DS DSi - Locks Quest - Phantom_29
+  - first:
+      213: -448573460876931317
+    second: DS DSi - Locks Quest - Phantom_30
+  - first:
+      213: 2737911095038378261
+    second: DS DSi - Locks Quest - Phantom_31
+  - first:
+      213: 7871119214990571993
+    second: DS DSi - Locks Quest - Phantom_32
+  - first:
+      213: 8176386405358988244
+    second: DS DSi - Locks Quest - Phantom_33
+  - first:
+      213: 7782379702201269870
+    second: DS DSi - Locks Quest - Phantom_34
+  - first:
+      213: 4790423490592437731
+    second: DS DSi - Locks Quest - Phantom_35
+  - first:
+      213: 9185809283995986287
+    second: DS DSi - Locks Quest - Phantom_36
+  - first:
+      213: 4322533408831393833
+    second: DS DSi - Locks Quest - Phantom_37
+  - first:
+      213: 7448811655354924186
+    second: DS DSi - Locks Quest - Phantom_38
+  - first:
+      213: -4194533418062221548
+    second: DS DSi - Locks Quest - Phantom_39
+  - first:
+      213: 5596352749545129235
+    second: DS DSi - Locks Quest - Phantom_40
+  - first:
+      213: 2278843418817789146
+    second: DS DSi - Locks Quest - Phantom_41
+  - first:
+      213: 3908113059452426079
+    second: DS DSi - Locks Quest - Phantom_42
+  - first:
+      213: 628615248869368549
+    second: DS DSi - Locks Quest - Phantom_43
+  - first:
+      213: 560487497204024094
+    second: DS DSi - Locks Quest - Phantom_44
+  - first:
+      213: 3397206308476907553
+    second: DS DSi - Locks Quest - Phantom_45
+  - first:
+      213: -7965149115254392952
+    second: DS DSi - Locks Quest - Phantom_46
+  - first:
+      213: 6880636698908798989
+    second: DS DSi - Locks Quest - Phantom_47
+  - first:
+      213: 8485727851841334040
+    second: DS DSi - Locks Quest - Phantom_48
+  - first:
+      213: -8488152619883213686
+    second: DS DSi - Locks Quest - Phantom_49
+  - first:
+      213: 620643539412362602
+    second: DS DSi - Locks Quest - Phantom_50
+  - first:
+      213: 212583000395704478
+    second: DS DSi - Locks Quest - Phantom_51
+  - first:
+      213: -9109999058598690046
+    second: DS DSi - Locks Quest - Phantom_52
+  - first:
+      213: -7659267866072930485
+    second: DS DSi - Locks Quest - Phantom_53
+  - first:
+      213: -2801227017478375970
+    second: DS DSi - Locks Quest - Phantom_54
+  - first:
+      213: -7965335863336274270
+    second: DS DSi - Locks Quest - Phantom_55
+  - first:
+      213: 8588229013306882240
+    second: DS DSi - Locks Quest - Phantom_56
+  - first:
+      213: -3043709259403873636
+    second: DS DSi - Locks Quest - Phantom_57
+  - first:
+      213: -5480373300234255898
+    second: DS DSi - Locks Quest - Phantom_58
+  - first:
+      213: 5801958559195927748
+    second: DS DSi - Locks Quest - Phantom_59
+  - first:
+      213: 2528951008127375379
+    second: DS DSi - Locks Quest - Phantom_60
+  - first:
+      213: 5063600325458836857
+    second: DS DSi - Locks Quest - Phantom_61
+  - first:
+      213: 2546411977975751123
+    second: DS DSi - Locks Quest - Phantom_62
+  - first:
+      213: 6836192436342382805
+    second: DS DSi - Locks Quest - Phantom_63
+  - first:
+      213: 4065902292358324996
+    second: DS DSi - Locks Quest - Phantom_64
+  - first:
+      213: 2788358086790825166
+    second: DS DSi - Locks Quest - Phantom_65
+  - first:
+      213: 7075005899745433793
+    second: DS DSi - Locks Quest - Phantom_66
+  - first:
+      213: -5256904073283639570
+    second: DS DSi - Locks Quest - Phantom_67
+  - first:
+      213: -471284485628113357
+    second: DS DSi - Locks Quest - Phantom_68
+  - first:
+      213: 6579907402003305385
+    second: DS DSi - Locks Quest - Phantom_69
+  - first:
+      213: 7384681083052125645
+    second: DS DSi - Locks Quest - Phantom_70
+  - first:
+      213: 173835593639718861
+    second: DS DSi - Locks Quest - Phantom_71
+  - first:
+      213: 8588091895099084547
+    second: DS DSi - Locks Quest - Phantom_72
+  - first:
+      213: 8531032822354734370
+    second: DS DSi - Locks Quest - Phantom_73
+  - first:
+      213: -1743757969707451754
+    second: DS DSi - Locks Quest - Phantom_74
+  - first:
+      213: -4748487221055463990
+    second: DS DSi - Locks Quest - Phantom_75
+  - first:
+      213: 3019748198058986026
+    second: DS DSi - Locks Quest - Phantom_76
+  - first:
+      213: 3427217537293587657
+    second: DS DSi - Locks Quest - Phantom_77
+  - first:
+      213: -1872201927194472134
+    second: DS DSi - Locks Quest - Phantom_78
+  - first:
+      213: -2112519773733127423
+    second: DS DSi - Locks Quest - Phantom_79
+  - first:
+      213: -5350684320054016876
+    second: DS DSi - Locks Quest - Phantom_80
+  - first:
+      213: 7591140424062106806
+    second: DS DSi - Locks Quest - Phantom_81
+  - first:
+      213: 4387489291188762649
+    second: DS DSi - Locks Quest - Phantom_82
+  - first:
+      213: -3703975215006708108
+    second: DS DSi - Locks Quest - Phantom_83
+  - first:
+      213: -3080095685492142654
+    second: DS DSi - Locks Quest - Phantom_84
+  - first:
+      213: -1304533586653947500
+    second: DS DSi - Locks Quest - Phantom_85
+  - first:
+      213: 4439536762994600982
+    second: DS DSi - Locks Quest - Phantom_86
+  - first:
+      213: -933810432371228168
+    second: DS DSi - Locks Quest - Phantom_87
+  - first:
+      213: 6206376417902843451
+    second: DS DSi - Locks Quest - Phantom_88
+  - first:
+      213: -8353648796173859531
+    second: DS DSi - Locks Quest - Phantom_89
+  - first:
+      213: -8837704112966367387
+    second: DS DSi - Locks Quest - Phantom_90
+  - first:
+      213: -7408831406979948310
+    second: DS DSi - Locks Quest - Phantom_91
+  - first:
+      213: -4410378566227397020
+    second: DS DSi - Locks Quest - Phantom_92
+  - first:
+      213: -1421307507649796315
+    second: DS DSi - Locks Quest - Phantom_93
+  - first:
+      213: -525716801110381419
+    second: DS DSi - Locks Quest - Phantom_94
+  - first:
+      213: 6586348626540423772
+    second: DS DSi - Locks Quest - Phantom_95
+  - first:
+      213: -1151200943818973391
+    second: DS DSi - Locks Quest - Phantom_96
+  - first:
+      213: -7964769297293444795
+    second: DS DSi - Locks Quest - Phantom_97
+  - first:
+      213: 2503374661203700059
+    second: DS DSi - Locks Quest - Phantom_98
+  - first:
+      213: -7952716606187993165
+    second: DS DSi - Locks Quest - Phantom_99
+  - first:
+      213: 6655893720718078845
+    second: DS DSi - Locks Quest - Phantom_100
+  - first:
+      213: 6219333676678708854
+    second: DS DSi - Locks Quest - Phantom_101
+  - first:
+      213: 6624452481109401633
+    second: DS DSi - Locks Quest - Phantom_102
+  - first:
+      213: -2292597221321015718
+    second: DS DSi - Locks Quest - Phantom_103
+  - first:
+      213: -6914671679616080659
+    second: DS DSi - Locks Quest - Phantom_104
+  - first:
+      213: -539461450774930245
+    second: DS DSi - Locks Quest - Phantom_105
+  - first:
+      213: 477721763250612666
+    second: DS DSi - Locks Quest - Phantom_106
+  - first:
+      213: -1671370425896493722
+    second: DS DSi - Locks Quest - Phantom_107
+  - first:
+      213: -3062102980966197106
+    second: DS DSi - Locks Quest - Phantom_108
+  - first:
+      213: -8907919129728564432
+    second: DS DSi - Locks Quest - Phantom_109
+  - first:
+      213: -5110549285387057278
+    second: DS DSi - Locks Quest - Phantom_110
+  - first:
+      213: -3772334838696948921
+    second: DS DSi - Locks Quest - Phantom_111
+  - first:
+      213: 6617900970696957424
+    second: DS DSi - Locks Quest - Phantom_112
+  - first:
+      213: 1212856434329412266
+    second: DS DSi - Locks Quest - Phantom_113
+  - first:
+      213: 6800816377525787186
+    second: DS DSi - Locks Quest - Phantom_114
+  - first:
+      213: -5726428928612260761
+    second: DS DSi - Locks Quest - Phantom_115
+  - first:
+      213: -7526928986665974986
+    second: DS DSi - Locks Quest - Phantom_116
+  - first:
+      213: -6422379160563451837
+    second: DS DSi - Locks Quest - Phantom_117
+  - first:
+      213: -3939955053407330528
+    second: DS DSi - Locks Quest - Phantom_118
+  - first:
+      213: -7235348176861554973
+    second: DS DSi - Locks Quest - Phantom_119
+  - first:
+      213: 4006101144193151296
+    second: DS DSi - Locks Quest - Phantom_120
+  - first:
+      213: 226127829319009452
+    second: DS DSi - Locks Quest - Phantom_121
+  - first:
+      213: -2428382419510587843
+    second: DS DSi - Locks Quest - Phantom_122
+  - first:
+      213: -359645568419413267
+    second: DS DSi - Locks Quest - Phantom_123
+  - first:
+      213: -2625678361789128195
+    second: DS DSi - Locks Quest - Phantom_124
+  - first:
+      213: -4019888269598628413
+    second: DS DSi - Locks Quest - Phantom_125
+  - first:
+      213: 5630252878828388863
+    second: DS DSi - Locks Quest - Phantom_126
+  - first:
+      213: 3207382098980443591
+    second: DS DSi - Locks Quest - Phantom_127
+  - first:
+      213: 6786261885704007278
+    second: DS DSi - Locks Quest - Phantom_128
+  - first:
+      213: -5976375863125835170
+    second: DS DSi - Locks Quest - Phantom_129
+  - first:
+      213: 6652570449189801587
+    second: DS DSi - Locks Quest - Phantom_130
+  - first:
+      213: 2149431856557319926
+    second: DS DSi - Locks Quest - Phantom_131
+  - first:
+      213: 5562365821746358019
+    second: DS DSi - Locks Quest - Phantom_132
+  - first:
+      213: 542251866759490296
+    second: DS DSi - Locks Quest - Phantom_133
+  - first:
+      213: 5458464996278340741
+    second: DS DSi - Locks Quest - Phantom_134
+  - first:
+      213: -7132105828157057754
+    second: DS DSi - Locks Quest - Phantom_135
+  - first:
+      213: 3842174463207235876
+    second: DS DSi - Locks Quest - Phantom_136
+  - first:
+      213: 6163368465497391107
+    second: DS DSi - Locks Quest - Phantom_137
+  - first:
+      213: 5287064134202496192
+    second: DS DSi - Locks Quest - Phantom_138
+  - first:
+      213: -3395259940139166898
+    second: DS DSi - Locks Quest - Phantom_139
+  - first:
+      213: 5801562834843044920
+    second: DS DSi - Locks Quest - Phantom_140
+  - first:
+      213: -1127405153840064111
+    second: DS DSi - Locks Quest - Phantom_141
+  - first:
+      213: -8012019695487875769
+    second: DS DSi - Locks Quest - Phantom_142
+  - first:
+      213: 3830681269363478862
+    second: DS DSi - Locks Quest - Phantom_143
+  - first:
+      213: -2278941998994239300
+    second: DS DSi - Locks Quest - Phantom_144
+  - first:
+      213: -1453566057506632680
+    second: DS DSi - Locks Quest - Phantom_145
+  - first:
+      213: 2391053208203381189
+    second: DS DSi - Locks Quest - Phantom_146
+  - first:
+      213: -1373508072833060139
+    second: DS DSi - Locks Quest - Phantom_147
+  - first:
+      213: -537649142207211796
+    second: DS DSi - Locks Quest - Phantom_148
+  - first:
+      213: -1392722181047075639
+    second: DS DSi - Locks Quest - Phantom_149
+  - first:
+      213: 5405772262304884308
+    second: DS DSi - Locks Quest - Phantom_150
+  - first:
+      213: -5841795447571248300
+    second: DS DSi - Locks Quest - Phantom_151
+  - first:
+      213: 8356281019846973451
+    second: DS DSi - Locks Quest - Phantom_152
+  - first:
+      213: 7266909075561766680
+    second: DS DSi - Locks Quest - Phantom_153
+  - first:
+      213: 268034302524471376
+    second: DS DSi - Locks Quest - Phantom_154
+  - first:
+      213: -8257918466142523237
+    second: DS DSi - Locks Quest - Phantom_155
+  - first:
+      213: 8038677391802172870
+    second: DS DSi - Locks Quest - Phantom_156
+  - first:
+      213: 5315424951083185387
+    second: DS DSi - Locks Quest - Phantom_157
+  - first:
+      213: -8132911555849634278
+    second: DS DSi - Locks Quest - Phantom_158
+  - first:
+      213: -151318970753390112
+    second: DS DSi - Locks Quest - Phantom_159
+  - first:
+      213: 2344343171890709468
+    second: DS DSi - Locks Quest - Phantom_160
+  - first:
+      213: 4940421617909872706
+    second: DS DSi - Locks Quest - Phantom_161
+  - first:
+      213: 5986076598295627419
+    second: DS DSi - Locks Quest - Phantom_162
+  - first:
+      213: 5844469397383435078
+    second: DS DSi - Locks Quest - Phantom_163
+  - first:
+      213: -8624457837758429889
+    second: DS DSi - Locks Quest - Phantom_164
+  - first:
+      213: -4886873352522098054
+    second: DS DSi - Locks Quest - Phantom_165
+  - first:
+      213: -4022492755908044327
+    second: DS DSi - Locks Quest - Phantom_166
+  - first:
+      213: -5204752704136915537
+    second: DS DSi - Locks Quest - Phantom_167
+  - first:
+      213: -3861841108812993994
+    second: DS DSi - Locks Quest - Phantom_168
+  - first:
+      213: -563871822593220989
+    second: DS DSi - Locks Quest - Phantom_169
+  - first:
+      213: -1427498012510452304
+    second: DS DSi - Locks Quest - Phantom_170
+  - first:
+      213: 4599563706299784718
+    second: DS DSi - Locks Quest - Phantom_171
+  - first:
+      213: -5336763010971676517
+    second: DS DSi - Locks Quest - Phantom_172
+  - first:
+      213: -8045652949490231725
+    second: DS DSi - Locks Quest - Phantom_173
+  - first:
+      213: -9125998333770879424
+    second: DS DSi - Locks Quest - Phantom_174
+  - first:
+      213: 6592016017326384219
+    second: DS DSi - Locks Quest - Phantom_175
+  - first:
+      213: -8649953431663906223
+    second: DS DSi - Locks Quest - Phantom_176
+  - first:
+      213: 8878567498031995124
+    second: DS DSi - Locks Quest - Phantom_177
+  - first:
+      213: 4900425567156554768
+    second: DS DSi - Locks Quest - Phantom_178
+  - first:
+      213: 2965870704991503148
+    second: DS DSi - Locks Quest - Phantom_179
+  - first:
+      213: -6975541728505311694
+    second: DS DSi - Locks Quest - Phantom_180
+  - first:
+      213: 1241428219740140929
+    second: DS DSi - Locks Quest - Phantom_181
+  - first:
+      213: -6706978494721970391
+    second: DS DSi - Locks Quest - Phantom_182
+  - first:
+      213: -8790025931405212058
+    second: DS DSi - Locks Quest - Phantom_183
+  - first:
+      213: -8157610730743832808
+    second: DS DSi - Locks Quest - Phantom_184
+  - first:
+      213: -189218996885737706
+    second: DS DSi - Locks Quest - Phantom_185
+  - first:
+      213: -1417995113596025071
+    second: DS DSi - Locks Quest - Phantom_186
+  - first:
+      213: -6268172776535029162
+    second: DS DSi - Locks Quest - Phantom_187
+  - first:
+      213: 3238908342562647113
+    second: DS DSi - Locks Quest - Phantom_188
+  - first:
+      213: 2992312901368079908
+    second: DS DSi - Locks Quest - Phantom_189
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 55
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e61e84ca4b2cf70800000000000000
+      internalID: 9206119240348823103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eac4e4f4d7a633d0800000000000000
+      internalID: -3227207549880841501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a37bd88388dc1e30800000000000000
+      internalID: 4475690189147829160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4a220d2fafd4370800000000000000
+      internalID: 8308572808349394106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b73732356b0b0950800000000000000
+      internalID: 6416234623381485491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb1699f1249b4ac0800000000000000
+      internalID: -3869836581152613397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456.2
+        width: 31.833334
+        height: 55.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d595d293a3153aa0800000000000000
+      internalID: -6182013320232069671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_7
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bdfda8b65b59f70800000000000000
+      internalID: 9193453687842790247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820d4d2996d49aa90800000000000000
+      internalID: -7302220204974223320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_9
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0750a1ab68bdda0800000000000000
+      internalID: -5918989151389781811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_10
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3166c4263c0ec4d10800000000000000
+      internalID: 2111309455102338579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_11
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d0d3ef7fceae2f0800000000000000
+      internalID: -942680622114206348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6c45f615b676ce0800000000000000
+      internalID: -1412041960653011282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063895036698b4c30800000000000000
+      internalID: 4344717337519817568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_14
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb4ee1a854899dc0800000000000000
+      internalID: -3631726108288857145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_15
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d5fa6293724ca40800000000000000
+      internalID: 5387474180657601873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcdfbcf3a23fd1d0800000000000000
+      internalID: -3323882320074646277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c03884de20eabe0800000000000000
+      internalID: -1464229610701779931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd89414e2d0d0fe0800000000000000
+      internalID: -1221305431632540224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08a3786c01ead400800000000000000
+      internalID: 349839364482902028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1249c75d59445a940800000000000000
+      internalID: 5306723146248524833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed37f4d5555a6fbc0800000000000000
+      internalID: -3749627853683067938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_22
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f664da181f3fc70800000000000000
+      internalID: 9003805619303902977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_23
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086dfd4fe8ddc83c0800000000000000
+      internalID: -4355863133510707584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736ea6c73ed107870800000000000000
+      internalID: 8678469344825108023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_25
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82fda2169cbf5700800000000000000
+      internalID: 531350633797513868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_26
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd6a613e8f4ac3e0800000000000000
+      internalID: -2032724809671348752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_27
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3036eaec6120990800000000000000
+      internalID: -7421344159008357403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_28
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3a60315ae3c28a0800000000000000
+      internalID: -6328614497652661305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_29
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7818039b8ba5ef0800000000000000
+      internalID: -118579334649641010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f43c060d856c9f0800000000000000
+      internalID: -448573460876931317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_31
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5110d5682a30ff520800000000000000
+      internalID: 2737911095038378261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_32
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9b34a1935db3d60800000000000000
+      internalID: 7871119214990571993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_33
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db61c58d1c587170800000000000000
+      internalID: 8176386405358988244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_34
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ebae83b11900c60800000000000000
+      internalID: 7782379702201269870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_35
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5f270b8c00b7240800000000000000
+      internalID: 4790423490592437731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69e01310ec8a7f70800000000000000
+      internalID: 9185809283995986287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_37
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920572bcb39bcfb30800000000000000
+      internalID: 4322533408831393833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_38
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c383c2cbe7f5760800000000000000
+      internalID: 7448811655354924186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_39
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f65e174160ac5c0800000000000000
+      internalID: -4194533418062221548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_40
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3150b6acc2d3aad40800000000000000
+      internalID: 5596352749545129235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_41
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcfe5df30410af10800000000000000
+      internalID: 2278843418817789146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f571aba1f186c3630800000000000000
+      internalID: 3908113059452426079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_43
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2a0410d3a49b800800000000000000
+      internalID: 628615248869368549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_44
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13c4ebb86047c700800000000000000
+      internalID: 560487497204024094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_45
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1207b7d632d452f20800000000000000
+      internalID: 3397206308476907553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_46
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887be32b41b167190800000000000000
+      internalID: -7965149115254392952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_47
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00b9fa5f9eec7f50800000000000000
+      internalID: 6880636698908798989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b24ad958c53c570800000000000000
+      internalID: 8485727851841334040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_49
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c4f841a26043a80800000000000000
+      internalID: -8488152619883213686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_50
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65a0d2c208fc9800800000000000000
+      internalID: 620643539412362602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_51
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e986fdfcc1f33f200800000000000000
+      internalID: 212583000395704478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_52
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20305108f18c29180800000000000000
+      internalID: -9109999058598690046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_53
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47a823d470d4b590800000000000000
+      internalID: -7659267866072930485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed579ff7eda0029d0800000000000000
+      internalID: -2801227017478375970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Phantom_55
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a679250c31757190800000000000000
+      internalID: -7965335863336274270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
