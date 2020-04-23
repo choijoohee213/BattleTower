@@ -2,13 +2,14 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class GameManager : Singleton<GameManager> {
-    int selectBtnIndex;
-    bool islevelChanged;
+    int selectBtnIndex, wave, lives;
+    bool islevelChanged, gameOver = false;
 
     [SerializeField]
-    private GameObject spawnTowerUI, towerInformUI, okBtn, towerPriceUI, upgradePriceUI;
+    private GameObject spawnTowerUI, towerInformUI, okBtn, towerPriceUI, upgradePriceUI, waveBtn, gameOverUI;
 
     [SerializeField]
     private GameObject[] towerTypesBtn, towerPrefabs;
@@ -17,13 +18,32 @@ public class GameManager : Singleton<GameManager> {
     private Transform towerParent;
 
     [SerializeField]
-    private Text upgradePrice;
+    private Text upgradePrice, waveText, livesText;
 
     [SerializeField]
     private Sprite[] towerSprites;
 
     [SerializeField]
     private SpriteRenderer towerImg, towerRangeImg;
+
+    private List<Monster> activeMonsters = new List<Monster>();
+
+    public bool WaveActive{
+        get { return activeMonsters.Count > 0; }
+    }
+
+    public int Lives {
+        get { return lives; }
+        set {
+            this.lives = value;
+
+            if (lives <= 0) {
+                this.lives = 0;
+                GameOver();
+            }
+            livesText.text = value.ToString();
+        }
+    }
 
     public ObjectManager objectManager;
 
@@ -34,6 +54,7 @@ public class GameManager : Singleton<GameManager> {
 
     private void Start() {
         Towers = new Dictionary<Point, Tower>();
+        Lives = 10;
     }
 
 
@@ -145,7 +166,10 @@ public class GameManager : Singleton<GameManager> {
     /// </summary>
 
     public void StartWave() {
+        wave++;
+        waveText.text = "공격 " + wave.ToString() + "/10"; 
         StartCoroutine(SpawnWave());
+        waveBtn.SetActive(false);
     }
 
     IEnumerator SpawnWave() {
@@ -171,6 +195,33 @@ public class GameManager : Singleton<GameManager> {
         Monster monster = objectManager.GetObject(type).GetComponent<Monster>();
         monster.Spawn();
 
+        activeMonsters.Add(monster);
+
         yield return new WaitForSeconds(2.5f);
+    }
+
+    public void RemoveMonster(Monster monster) {
+        activeMonsters.Remove(monster);
+        if (!WaveActive && !gameOver) {
+            waveBtn.SetActive(true);
+        }
+    }
+
+
+    public void GameOver() {
+        if (!gameOver) {
+            gameOver = true;
+            Time.timeScale = 0;
+            gameOverUI.SetActive(true);
+        }
+    }
+
+    public void GameRetry() {
+        Time.timeScale = 1;
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+    }
+
+    public void GameQuit() {
+        Application.Quit();
     }
 }

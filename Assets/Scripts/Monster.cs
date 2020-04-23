@@ -2,8 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Monster : MonoBehaviour
-{
+public class Monster : MonoBehaviour {
     [SerializeField]
     private float speed;
 
@@ -18,7 +17,7 @@ public class Monster : MonoBehaviour
     public void Spawn() {
         transform.position = LevelManager.Instance.greenPortal.transform.position;
         anim = GetComponent<Animator>();
-        StartCoroutine(Scale(new Vector3(0.1f,0.1f), new Vector3(1,1),true));
+        StartCoroutine(Scale(new Vector3(0.1f, 0.1f), new Vector3(1, 1), true));
         SetPath(LevelManager.Instance.Path);
         StartCoroutine(MonsterMove());
     }
@@ -35,7 +34,12 @@ public class Monster : MonoBehaviour
         }
         //Make sure that is has the correct scale after scaling
         transform.localScale = to;
-        gameObject.SetActive(isActive);
+
+
+        if (!isActive)
+            Release();
+        else
+            gameObject.SetActive(true);
     }
 
 
@@ -53,7 +57,7 @@ public class Monster : MonoBehaviour
     IEnumerator MonsterMove() {
         while (true) {
             transform.position = Vector2.MoveTowards(transform.position, destination, speed);
-            
+
             //Checks if monster arrived at the destination
             if (transform.position == destination) {
                 if (path != null & path.Count > 0) {
@@ -63,23 +67,25 @@ public class Monster : MonoBehaviour
                     GridPosition = path.Peek().GridPosition;
                     destination = path.Pop().WorldPosition;
                 }
-                else break;
+                else
+                    break;
             }
             yield return new WaitForSeconds(0.03f);
         }
 
-        
-        if(GridPosition == LevelManager.Instance.purpleSpawn) {
+
+        if (GridPosition == LevelManager.Instance.purpleSpawn) {
             StartCoroutine(Scale(new Vector3(1, 1), new Vector3(0.1f, 0.1f), false));
+            GameManager.Instance.Lives--;
         }
     }
-    
+
 
     void Animate(Point currentPos, Point newPos) {
-        if(currentPos.y < newPos.y) { //Moving down
+        if (currentPos.y < newPos.y) { //Moving down
             anim.SetBool("MonsterDown", true);
         }
-        else if(currentPos.y > newPos.y) {  //Moving up
+        else if (currentPos.y > newPos.y) {  //Moving up
             anim.SetBool("MonsterDown", false);
         }
 
@@ -88,9 +94,15 @@ public class Monster : MonoBehaviour
             if (currentPos.x > newPos.x) {  //Move to left
                 transform.rotation = Quaternion.Euler(0, 180, 0);
             }
-            else if(currentPos.x < newPos.x) {  //Move to right
+            else if (currentPos.x < newPos.x) {  //Move to right
                 transform.rotation = Quaternion.Euler(0, 0, 0);
             }
         }
+    }
+
+    void Release() {
+        GridPosition = LevelManager.Instance.greenSpawn;
+        GameManager.Instance.objectManager.ReleaseObject(gameObject);
+        GameManager.Instance.RemoveMonster(this);
     }
 }
