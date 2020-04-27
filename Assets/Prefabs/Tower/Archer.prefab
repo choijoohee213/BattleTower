@@ -8,18 +8,20 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 2089412114207173144}
+  - component: {fileID: 3222021438759710795}
+  - component: {fileID: 4219961999367068001}
   - component: {fileID: 3092408415020929647}
-  - component: {fileID: 7572893202137830236}
-  m_Layer: 0
+  - component: {fileID: 8308121505551891804}
+  - component: {fileID: 5962530081558472636}
+  m_Layer: 9
   m_Name: TowerRange
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
---- !u!224 &2089412114207173144
-RectTransform:
+  m_IsActive: 1
+--- !u!4 &3222021438759710795
+Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -27,16 +29,23 @@ RectTransform:
   m_GameObject: {fileID: 2191253215180996688}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 6, y: 4.4444447, z: 1}
+  m_LocalScale: {x: 4, y: 4.5, z: 1}
   m_Children: []
   m_Father: {fileID: 8360061269323995830}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1, y: 1}
-  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &4219961999367068001
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2191253215180996688}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5602187b96cf5d418b29763a2524bb2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!212 &3092408415020929647
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -75,9 +84,9 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -1
   m_Sprite: {fileID: 21300000, guid: 29a24b9db2acea941b29c9e645ede043, type: 3}
-  m_Color: {r: 0.9622642, g: 0.7021637, b: 0.43120328, a: 0.23921569}
+  m_Color: {r: 0.4009434, g: 0.6100258, b: 1, a: 0.5529412}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -87,7 +96,28 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!60 &7572893202137830236
+--- !u!50 &8308121505551891804
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2191253215180996688}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!60 &5962530081558472636
 PolygonCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -269,7 +299,7 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.8, y: 0.7, z: 1}
   m_Children:
-  - {fileID: 2089412114207173144}
+  - {fileID: 3222021438759710795}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -318,11 +348,11 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1.28125, y: 2.1875}
+  m_Size: {x: 0.9, y: 1.4}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
+  m_MaskInteraction: 2
   m_SpriteSortPoint: 0
 --- !u!114 &6580666799059895072
 MonoBehaviour:
@@ -337,6 +367,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   towerPrice: 70
+  projectileSpeed: 4
+  attackCooldown: 1
+  projectileType: ArcherProjectile
   towerSprites:
   - {fileID: 3074545804424626175, guid: baef29a03bc597347985b09a991bf8e3, type: 3}
   - {fileID: 1821570372335185903, guid: baef29a03bc597347985b09a991bf8e3, type: 3}
@@ -345,3 +378,4 @@ MonoBehaviour:
   - {fileID: 8046462414437134484, guid: baef29a03bc597347985b09a991bf8e3, type: 3}
   - {fileID: -5670777032405931376, guid: baef29a03bc597347985b09a991bf8e3, type: 3}
   - {fileID: 6284578201527514330, guid: baef29a03bc597347985b09a991bf8e3, type: 3}
+  damage: 1

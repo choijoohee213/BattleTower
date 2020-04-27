@@ -4,23 +4,47 @@ using UnityEngine;
 
 public class Tower : MonoBehaviour
 {
+    private float attackTimer;
+    private bool canAttack = true;
+
     public int towerPrice;
 
+    [SerializeField]
+    private float projectileSpeed, attackCooldown;
+    public float ProjectileSpeed { get { return projectileSpeed; } }
+
+    [SerializeField]
+    private string projectileType;
+    
     [SerializeField]
     private Sprite[] towerSprites;
 
     private SpriteRenderer sr;
-        
+    private TowerRange range;
+    
+    private Monster target;
+    public Monster Target { get { return target; } }
+
+    private Queue<Monster> monsters = new Queue<Monster>();
+
+    [SerializeField]
+    private float damage;
+    public float Damage { get => damage; }
+
     public Point GridPosition { get; set; }
 
-    public GameObject towerRange {
-        get {
-            return transform.GetChild(0).gameObject;
-        }
+    public SpriteRenderer towerRange {
+        get { return range.GetComponent<SpriteRenderer>(); }
     }
 
+
+
     private void Start() {
-        sr = GetComponent<SpriteRenderer>();
+        sr = GetComponent<SpriteRenderer>();       
+    }
+
+    private void Update() {
+        Attack();
     }
 
     public void Setup(Point gridPos, Vector3 worldPos) {
@@ -29,6 +53,8 @@ public class Tower : MonoBehaviour
         GameManager.Instance.SetTowerParent(this);
         GameManager.Instance.Towers.Add(gridPos, this);
         LevelManager.Instance.Tiles[gridPos].towerLevel++;
+        range = transform.GetChild(0).GetComponent<TowerRange>();
+        range.GridPosition = GridPosition;
     }  
 
     public void LevelUp() {
@@ -40,5 +66,48 @@ public class Tower : MonoBehaviour
 
         //Replace with next level sprite
         sr.sprite = towerSprites[level];      
+    }
+
+    void Attack() {
+        if (!canAttack) {
+            attackTimer += Time.deltaTime;
+            if (attackTimer >= attackCooldown) {
+                canAttack = true;
+                attackTimer = 0;
+
+            }
+        }
+
+        if (target == null && monsters.Count > 0) {
+            target = monsters.Dequeue();
+        }
+        if (target != null && target.gameObject.activeSelf) {           
+            if (canAttack) {
+                Shoot();
+                canAttack = false;
+            }
+        }
+        else if(monsters.Count > 0) {
+            target = monsters.Dequeue();
+        }
+
+        if (target != null && target.isDie) {
+            target = null;
+        }
+
+    }
+
+    void Shoot() {
+        Projectile projectile = GameManager.Instance.objectManager.GetObject(projectileType).GetComponent<Projectile>();
+        projectile.transform.position = GameManager.Instance.Towers[GridPosition].transform.position;
+        projectile.Initialize(this);
+    }
+
+    public void MonsterInRange(Monster monster) {
+        monsters.Enqueue(monster);
+    }
+
+    public void MonsterOutRange() {
+        target = null;
     }
 }

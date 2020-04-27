@@ -80,7 +80,7 @@ public class LevelManager : Singleton<LevelManager>
         newTile.Setup(new Point(x, y), new Vector3(worldStart.x + TileSize * x, worldStart.y - TileSize * y, 0), map);
 
         if (tileIndex.Equals(1))
-            purpleSpawn = new Point(1, 1); //new Point(x, y);
+            purpleSpawn = new Point(x, y);
     }
 
     void SpawnPortal() {

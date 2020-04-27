@@ -132,7 +132,7 @@ GameObject:
   - component: {fileID: 24528567}
   m_Layer: 5
   m_Name: UpgradePriceUI
-  m_TagString: Untagged
+  m_TagString: UI
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -265,9 +265,9 @@ GameObject:
   m_Component:
   - component: {fileID: 95014503}
   - component: {fileID: 95014504}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: GameOverUI
-  m_TagString: Untagged
+  m_TagString: UI
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -454,7 +454,7 @@ GameObject:
   - component: {fileID: 251669161}
   - component: {fileID: 251669160}
   - component: {fileID: 251669159}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: RetryBtn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -582,9 +582,9 @@ GameObject:
   m_Component:
   - component: {fileID: 263452841}
   - component: {fileID: 263452842}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Wave
-  m_TagString: Untagged
+  m_TagString: UI
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -671,7 +671,7 @@ GameObject:
   - component: {fileID: 302388669}
   m_Layer: 5
   m_Name: Bar
-  m_TagString: Untagged
+  m_TagString: UI
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -862,7 +862,7 @@ GameObject:
   - component: {fileID: 451175106}
   - component: {fileID: 451175105}
   - component: {fileID: 451175107}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: GameOverText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -953,7 +953,7 @@ GameObject:
   m_Component:
   - component: {fileID: 487258008}
   - component: {fileID: 487258009}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: HeartImg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1331,7 +1331,7 @@ GameObject:
   - component: {fileID: 780588483}
   m_Layer: 5
   m_Name: UpgradeBtn
-  m_TagString: Untagged
+  m_TagString: UI
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1458,7 +1458,7 @@ GameObject:
   - component: {fileID: 786016725}
   - component: {fileID: 786016724}
   - component: {fileID: 786016723}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: QuitBtn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1703,15 +1703,15 @@ GameObject:
   m_Component:
   - component: {fileID: 925574690}
   - component: {fileID: 925574691}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: TowerRangeImg
-  m_TagString: Untagged
+  m_TagString: UI
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!224 &925574690
-RectTransform:
+--- !u!4 &925574690
+Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -1719,16 +1719,11 @@ RectTransform:
   m_GameObject: {fileID: 925574689}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 6, y: 4, z: 1}
+  m_LocalScale: {x: 4, y: 4.5, z: 1}
   m_Children: []
   m_Father: {fileID: 4374256209508196912}
-  m_RootOrder: 11
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1, y: 1}
-  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!212 &925574691
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1769,7 +1764,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 29a24b9db2acea941b29c9e645ede043, type: 3}
-  m_Color: {r: 0.9622642, g: 0.7021637, b: 0.43120328, a: 0.23921569}
+  m_Color: {r: 0.4009434, g: 0.6100258, b: 1, a: 0.5529412}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -1827,7 +1822,11 @@ MonoBehaviour:
   - {fileID: 2742999807900558807, guid: 765d1cde19071f34299638bf22b0c313, type: 3}
   - {fileID: 314793520817914590, guid: 2264db8ab3466a34ab28be73899d70ba, type: 3}
   - {fileID: 3183368651847475290, guid: db79a784913a90744862eba0f3a11678, type: 3}
+  - {fileID: 2647440539789592477, guid: 85f03058c64d92c409c963cd0ad52d1d, type: 3}
+  - {fileID: 4339563494021759476, guid: b3bdb9220cda85f41bf2a83394ae84a0, type: 3}
+  - {fileID: 6109913154038910821, guid: 596a1f105eafa284aa0a7263630bfa66, type: 3}
   monster: {fileID: 1799544975}
+  projectile: {fileID: 1543311035}
 --- !u!1 &954823123
 GameObject:
   m_ObjectHideFlags: 0
@@ -1919,7 +1918,7 @@ GameObject:
   - component: {fileID: 1007201283}
   m_Layer: 5
   m_Name: SellBtn
-  m_TagString: Untagged
+  m_TagString: UI
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2296,7 +2295,7 @@ GameObject:
   - component: {fileID: 1219785461}
   m_Layer: 5
   m_Name: TowerPriceUI
-  m_TagString: Untagged
+  m_TagString: UI
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2410,7 +2409,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1307341266}
   - component: {fileID: 1307341267}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: SkullImg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2881,7 +2880,7 @@ GameObject:
   - component: {fileID: 1471076936}
   m_Layer: 5
   m_Name: TowerInformUI
-  m_TagString: Untagged
+  m_TagString: UI
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2957,6 +2956,36 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1543311034
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1543311035}
+  m_Layer: 0
+  m_Name: Projectile
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1543311035
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1543311034}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1567763682
 GameObject:
   m_ObjectHideFlags: 0
@@ -3056,7 +3085,7 @@ GameObject:
   - component: {fileID: 1594391227}
   - component: {fileID: 1594391226}
   - component: {fileID: 1594391228}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: QuitText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3150,7 +3179,7 @@ GameObject:
   - component: {fileID: 1647885412}
   m_Layer: 5
   m_Name: SkullImg
-  m_TagString: Untagged
+  m_TagString: UI
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3224,7 +3253,7 @@ GameObject:
   - component: {fileID: 1667982847}
   m_Layer: 5
   m_Name: StartWaveBtn
-  m_TagString: Untagged
+  m_TagString: UI
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3510,7 +3539,7 @@ GameObject:
   - component: {fileID: 1872228664}
   - component: {fileID: 1872228663}
   - component: {fileID: 1872228665}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: RetryText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3702,7 +3731,7 @@ GameObject:
   - component: {fileID: 1975096763}
   m_Layer: 5
   m_Name: TowerImg
-  m_TagString: Untagged
+  m_TagString: UI
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3719,7 +3748,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 0.88, z: 1}
   m_Children: []
   m_Father: {fileID: 4374256209508196912}
-  m_RootOrder: 12
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -3764,7 +3793,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -6781790539752713843, guid: baef29a03bc597347985b09a991bf8e3,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 0.7019608}
@@ -3861,9 +3890,9 @@ GameObject:
   m_Component:
   - component: {fileID: 2099980331}
   - component: {fileID: 2099980332}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Live
-  m_TagString: Untagged
+  m_TagString: UI
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4095,7 +4124,7 @@ GameObject:
   - component: {fileID: 4374256208420377955}
   m_Layer: 5
   m_Name: ArcherBtn
-  m_TagString: Untagged
+  m_TagString: UI
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4205,7 +4234,7 @@ GameObject:
   - component: {fileID: 4374256209106314724}
   m_Layer: 5
   m_Name: BarracksBtn
-  m_TagString: Untagged
+  m_TagString: UI
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4353,7 +4382,7 @@ GameObject:
   - component: {fileID: 4374256209244481589}
   m_Layer: 5
   m_Name: BombBtn
-  m_TagString: Untagged
+  m_TagString: UI
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4463,7 +4492,7 @@ GameObject:
   - component: {fileID: 4374256209323809860}
   m_Layer: 5
   m_Name: OkBtn
-  m_TagString: Untagged
+  m_TagString: UI
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4604,8 +4633,8 @@ RectTransform:
   - {fileID: 24528567}
   - {fileID: 1007201282}
   - {fileID: 4374256209323809863}
-  - {fileID: 925574690}
   - {fileID: 1975096762}
+  - {fileID: 925574690}
   m_Father: {fileID: 1706140039}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -4625,11 +4654,11 @@ GameObject:
   - component: {fileID: 4374256209508196912}
   m_Layer: 5
   m_Name: SpawnTower
-  m_TagString: Untagged
+  m_TagString: UI
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!222 &4374256210230791794
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4907,7 +4936,7 @@ GameObject:
   - component: {fileID: 4374256210409444449}
   m_Layer: 5
   m_Name: WizardBtn
-  m_TagString: Untagged
+  m_TagString: UI
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

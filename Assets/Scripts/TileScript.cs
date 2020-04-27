@@ -34,25 +34,6 @@ public class TileScript : MonoBehaviour
         y = GridPosition.y;
     }
 
-    /*
-    private void Update() {
-        if (Input.GetMouseButtonDown(0)) {
-            Vector2 pos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-            Ray2D ray = new Ray2D(pos, Vector2.zero);
-            RaycastHit2D hit = Physics2D.Raycast(ray.origin, ray.direction);
-
-
-            if (tileIndex != 2 || towerLevelMax.Equals(true))
-                return;
-            print("not return");
-
-            TileScript tile;
-            tile = hit.collider.gameObject.GetComponent<TileScript>();
-            GameManager.Instance.ShowTowerTypeBtn(
-                tile.GridPosition, tile.towerLevel);
-        }
-    }
-    */
 
     public void Setup(Point gridPos, Vector3 worldPos, Transform parent) {
         GridPosition = gridPos;
@@ -60,11 +41,14 @@ public class TileScript : MonoBehaviour
         transform.SetParent(parent);
         LevelManager.Instance.Tiles.Add(gridPos, this);       
     }
+    
 
+    
+    /*
     //Makes the UI visible when the tower spawn point is pressed
     private void OnMouseDown() {
         if (tileIndex != 2 || towerLevelMax.Equals(true))
             return;
         GameManager.Instance.ShowTowerTypeBtn(GridPosition, towerLevel);
-    }
+    }*/
 }

@@ -10,7 +10,7 @@ public class ObjectManager : MonoBehaviour
     List<GameObject> pooledObjs = new List<GameObject>();
 
     [SerializeField]
-    Transform monster;
+    Transform monster, projectile;
 
    
     public GameObject GetObject(string type) {
@@ -23,7 +23,13 @@ public class ObjectManager : MonoBehaviour
 
         for(int i=0; i<objectPrefabs.Length; i++) {
             if(objectPrefabs[i].name.Equals(type)) {
-                GameObject newObject = Instantiate(objectPrefabs[i],monster);
+                GameObject newObject = Instantiate(objectPrefabs[i]);
+                
+                if (objectPrefabs[i].name.Contains("Monster"))
+                    newObject.transform.SetParent(monster);
+                else if (objectPrefabs[i].name.Contains("Projectile"))
+                    newObject.transform.SetParent(projectile);
+                
                 pooledObjs.Add(newObject);
                 newObject.name = type;
                 return newObject;

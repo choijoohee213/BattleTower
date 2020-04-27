@@ -1,0 +1,518 @@
+fileFormatVersion: 2
+guid: b040cfd3e49188844bc02e8686b529e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1164167592527760124
+    second: Effect_more_red_0
+  - first:
+      213: 7760717786345890123
+    second: Effect_more_red_1
+  - first:
+      213: 190652487587729269
+    second: Effect_more_red_2
+  - first:
+      213: -4405168486100483241
+    second: Effect_more_red_3
+  - first:
+      213: 8317483438680723192
+    second: Effect_more_red_4
+  - first:
+      213: -1804764683562134242
+    second: Effect_more_red_5
+  - first:
+      213: -624974868817913330
+    second: Effect_more_red_6
+  - first:
+      213: 8102118560902587275
+    second: Effect_more_red_7
+  - first:
+      213: 6225298997747497685
+    second: Effect_more_red_8
+  - first:
+      213: -8130760652230541009
+    second: Effect_more_red_9
+  - first:
+      213: 5633460880808563063
+    second: Effect_more_red_10
+  - first:
+      213: -4769544148683677254
+    second: Effect_more_red_11
+  - first:
+      213: -6910381319449388891
+    second: Effect_more_red_12
+  - first:
+      213: 966787785772177500
+    second: Effect_more_red_13
+  - first:
+      213: -2258494183906106468
+    second: Effect_more_red_14
+  - first:
+      213: 1555804159265421489
+    second: Effect_more_red_15
+  - first:
+      213: 8107742601739327875
+    second: Effect_more_red_16
+  - first:
+      213: -8051807930491583058
+    second: Effect_more_red_17
+  - first:
+      213: -4988507058454179448
+    second: Effect_more_red_18
+  - first:
+      213: -7841803033124718542
+    second: Effect_more_red_19
+  - first:
+      213: 8245924952745656925
+    second: Effect_more_red_20
+  - first:
+      213: -42350167489210093
+    second: Effect_more_red_21
+  - first:
+      213: 5993427455074749010
+    second: Effect_more_red_22
+  - first:
+      213: 6746222420817939549
+    second: Effect_more_red_23
+  - first:
+      213: 6345558500356578605
+    second: Effect_more_red_24
+  - first:
+      213: -5201149754775445218
+    second: Effect_more_red_25
+  - first:
+      213: 8479023278052401327
+    second: Effect_more_red_26
+  - first:
+      213: 7664172236527950343
+    second: Effect_more_red_27
+  - first:
+      213: 5591434503255354765
+    second: Effect_more_red_28
+  - first:
+      213: 6444660741335965879
+    second: Effect_more_red_29
+  - first:
+      213: 2881500012030513871
+    second: Effect_more_red_30
+  - first:
+      213: -4060946733282246989
+    second: Effect_more_red_31
+  - first:
+      213: 3077972433620096344
+    second: Effect_more_red_32
+  - first:
+      213: 2753258091671712876
+    second: Effect_more_red_33
+  - first:
+      213: -8349560154352857021
+    second: Effect_more_red_34
+  - first:
+      213: -830911883200758596
+    second: Effect_more_red_35
+  - first:
+      213: -8479446316845642203
+    second: Effect_more_red_36
+  - first:
+      213: -3019337766029044287
+    second: Effect_more_red_37
+  - first:
+      213: -720634333523323434
+    second: Effect_more_red_38
+  - first:
+      213: -8179878482084325979
+    second: Effect_more_red_39
+  - first:
+      213: -4874784172078937617
+    second: Effect_more_red_40
+  - first:
+      213: 9013898388909273656
+    second: Effect_more_red_41
+  - first:
+      213: -7319254474805859551
+    second: Effect_more_red_42
+  - first:
+      213: -7524271832905349948
+    second: Effect_more_red_43
+  - first:
+      213: 2264980649392033633
+    second: Effect_more_red_44
+  - first:
+      213: -4712980700681112932
+    second: Effect_more_red_45
+  - first:
+      213: 7375811617435645212
+    second: Effect_more_red_46
+  - first:
+      213: -3254456403380027109
+    second: Effect_more_red_47
+  - first:
+      213: -2699611427125084997
+    second: Effect_more_red_48
+  - first:
+      213: 8082967063003193975
+    second: Effect_more_red_49
+  - first:
+      213: -729107803716890810
+    second: Effect_more_red_50
+  - first:
+      213: 6504915656351690096
+    second: Effect_more_red_51
+  - first:
+      213: 173020117774337523
+    second: Effect_more_red_52
+  - first:
+      213: 7964177204267393043
+    second: Effect_more_red_53
+  - first:
+      213: 3327921848091947266
+    second: Effect_more_red_54
+  - first:
+      213: -3184916841650140459
+    second: Effect_more_red_55
+  - first:
+      213: -1835898364914004102
+    second: Effect_more_red_56
+  - first:
+      213: -8060015890952165176
+    second: Effect_more_red_57
+  - first:
+      213: 4349557593506277430
+    second: Effect_more_red_58
+  - first:
+      213: 1167095812246756252
+    second: Effect_more_red_59
+  - first:
+      213: 6133467936872591032
+    second: Effect_more_red_60
+  - first:
+      213: 5602831398359638416
+    second: Effect_more_red_61
+  - first:
+      213: 4061189675484965255
+    second: Effect_more_red_62
+  - first:
+      213: 2899164367735145008
+    second: Effect_more_red_63
+  - first:
+      213: 9153827160781370049
+    second: Effect_more_red_64
+  - first:
+      213: -1437529647125905372
+    second: Effect_more_red_65
+  - first:
+      213: 5346469833014311284
+    second: Effect_more_red_66
+  - first:
+      213: 1099325613916401721
+    second: Effect_more_red_67
+  - first:
+      213: 211393570710715816
+    second: Effect_more_red_68
+  - first:
+      213: 7801716228810720635
+    second: Effect_more_red_69
+  - first:
+      213: 4673236205317649327
+    second: Effect_more_red_70
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Effect_more_red_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 682.6666
+        width: 341.33334
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa83a3e144f72010800000000000000
+      internalID: 1164167592527760124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_more_red_1
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 682.6666
+        width: 341.33334
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41e33965bb93bb60800000000000000
+      internalID: 7760717786345890123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_more_red_2
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 682.6666
+        width: 341.33334
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f06366d6555a200800000000000000
+      internalID: 190652487587729269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_more_red_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 341.66666
+        width: 341.33334
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7534c3af992bdd2c0800000000000000
+      internalID: -4405168486100483241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_more_red_4
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 341.66666
+        width: 341.33334
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe42cb9e13ad6370800000000000000
+      internalID: 8317483438680723192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_more_red_5
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 341.66666
+        width: 341.33334
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15db15151034f6e0800000000000000
+      internalID: -1804764683562134242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_more_red_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.6666565
+        width: 341.33334
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0adf860ba4a357f0800000000000000
+      internalID: -624974868817913330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_more_red_7
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 0.6666565
+        width: 341.33334
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83a2be77e1807070800000000000000
+      internalID: 8102118560902587275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_more_red_8
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 0.6666565
+        width: 341.33334
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dab5559474b46650800000000000000
+      internalID: 6225298997747497685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
