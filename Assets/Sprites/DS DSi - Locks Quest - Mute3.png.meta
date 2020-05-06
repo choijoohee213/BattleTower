@@ -1,0 +1,752 @@
+fileFormatVersion: 2
+guid: 73c72857070fbde4ebd31e7dae07dc05
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3281907321840418845
+    second: DS DSi - Locks Quest - Mute3_0
+  - first:
+      213: -8360146831198242102
+    second: DS DSi - Locks Quest - Mute3_1
+  - first:
+      213: 2588639758999381714
+    second: DS DSi - Locks Quest - Mute3_2
+  - first:
+      213: -6729129708480427850
+    second: DS DSi - Locks Quest - Mute3_3
+  - first:
+      213: -5352076302890357484
+    second: DS DSi - Locks Quest - Mute3_4
+  - first:
+      213: 713674545520685308
+    second: DS DSi - Locks Quest - Mute3_5
+  - first:
+      213: -4580052625316393751
+    second: DS DSi - Locks Quest - Mute3_6
+  - first:
+      213: 3048413198775420185
+    second: DS DSi - Locks Quest - Mute3_7
+  - first:
+      213: -7132160238223635131
+    second: DS DSi - Locks Quest - Mute3_8
+  - first:
+      213: 6782638105669173684
+    second: DS DSi - Locks Quest - Mute3_9
+  - first:
+      213: -7961478919310824478
+    second: DS DSi - Locks Quest - Mute3_10
+  - first:
+      213: -4909630000663098174
+    second: DS DSi - Locks Quest - Mute3_11
+  - first:
+      213: -8235698630996759382
+    second: DS DSi - Locks Quest - Mute3_12
+  - first:
+      213: 8054692142795883480
+    second: DS DSi - Locks Quest - Mute3_13
+  - first:
+      213: 5094032472563383763
+    second: DS DSi - Locks Quest - Mute3_14
+  - first:
+      213: -7479152555578822553
+    second: DS DSi - Locks Quest - Mute3_15
+  - first:
+      213: -7111782804851351527
+    second: DS DSi - Locks Quest - Mute3_16
+  - first:
+      213: 1197842599812223176
+    second: DS DSi - Locks Quest - Mute3_17
+  - first:
+      213: 341228141932534577
+    second: DS DSi - Locks Quest - Mute3_18
+  - first:
+      213: 479428195674546005
+    second: DS DSi - Locks Quest - Mute3_19
+  - first:
+      213: -3035135063405139323
+    second: DS DSi - Locks Quest - Mute3_20
+  - first:
+      213: 6837369525766958019
+    second: DS DSi - Locks Quest - Mute3_21
+  - first:
+      213: 977237078358572542
+    second: DS DSi - Locks Quest - Mute3_22
+  - first:
+      213: 5383771497630222714
+    second: DS DSi - Locks Quest - Mute3_23
+  - first:
+      213: 2897248600274582327
+    second: DS DSi - Locks Quest - Mute3_24
+  - first:
+      213: -5797983891772178053
+    second: DS DSi - Locks Quest - Mute3_25
+  - first:
+      213: 7478192676047260459
+    second: DS DSi - Locks Quest - Mute3_26
+  - first:
+      213: 5943673188678191323
+    second: DS DSi - Locks Quest - Mute3_27
+  - first:
+      213: 8437093518595852397
+    second: DS DSi - Locks Quest - Mute3_28
+  - first:
+      213: 2604695825661385527
+    second: DS DSi - Locks Quest - Mute3_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Mute3_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 292
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efb2f7dda25472d0800000000000000
+      internalID: -3281907321840418845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Mute3_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 292
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca325040cacafb80800000000000000
+      internalID: -8360146831198242102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Mute3_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 292
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d66c964522bce320800000000000000
+      internalID: 2588639758999381714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Mute3_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 292
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b80f7ebe245d92a0800000000000000
+      internalID: -6729129708480427850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Mute3_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 292
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d2f6385fa99b5b0800000000000000
+      internalID: -5352076302890357484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Mute3_5
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 292
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0bffac73b77e900800000000000000
+      internalID: 713674545520685308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Mute3_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 219
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eccb6747626070c0800000000000000
+      internalID: -4580052625316393751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Mute3_7
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 219
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9150f9137a32e4a20800000000000000
+      internalID: 3048413198775420185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Mute3_8
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 219
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54dc3871d0a750d90800000000000000
+      internalID: -7132160238223635131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Mute3_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 219
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b18070db65c02e50800000000000000
+      internalID: 6782638105669173684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Mute3_10
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 219
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eba7b7ca15238190800000000000000
+      internalID: -7961478919310824478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Mute3_11
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 219
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc00e7d68d7ddbb0800000000000000
+      internalID: -4909630000663098174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Mute3_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 146
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac644ecabbe4bd80800000000000000
+      internalID: -8235698630996759382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Mute3_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 146
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d38a7a04d308cf60800000000000000
+      internalID: 8054692142795883480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Mute3_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 146
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddf1716b83a1b640800000000000000
+      internalID: 5094032472563383763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Mute3_15
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 146
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760f4cf7066b43890800000000000000
+      internalID: -7479152555578822553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Mute3_16
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 146
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910aa15083fdd4d90800000000000000
+      internalID: -7111782804851351527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Mute3_17
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 146
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c053a28f779f9010800000000000000
+      internalID: 1197842599812223176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Mute3_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 73
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b514bef294cb400800000000000000
+      internalID: 341228141932534577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Mute3_19
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 73
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fdc72676547a600800000000000000
+      internalID: 479428195674546005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Mute3_20
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 73
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a676c9db801e5d0800000000000000
+      internalID: -3035135063405139323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Mute3_21
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 73
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbab659b5733ee50800000000000000
+      internalID: 6837369525766958019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Mute3_22
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 73
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd37e4f1f7df8d00800000000000000
+      internalID: 977237078358572542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Mute3_23
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 73
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a794f1417aff6ba40800000000000000
+      internalID: 5383771497630222714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Mute3_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b3d5d6048153820800000000000000
+      internalID: 2897248600274582327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Mute3_25
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b718b759e5c698fa0800000000000000
+      internalID: -5797983891772178053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

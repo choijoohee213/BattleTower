@@ -1,0 +1,1796 @@
+fileFormatVersion: 2
+guid: 7bf3aa438add0b443b897b7d846c2886
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 851590969048608679
+    second: DS DSi - Locks Quest - Clockwork Brute3_0
+  - first:
+      213: 5948873721380726900
+    second: DS DSi - Locks Quest - Clockwork Brute3_1
+  - first:
+      213: -5261850125866894477
+    second: DS DSi - Locks Quest - Clockwork Brute3_2
+  - first:
+      213: -6312544140016728075
+    second: DS DSi - Locks Quest - Clockwork Brute3_3
+  - first:
+      213: -1979508897845924453
+    second: DS DSi - Locks Quest - Clockwork Brute3_4
+  - first:
+      213: -1088090386729966691
+    second: DS DSi - Locks Quest - Clockwork Brute3_5
+  - first:
+      213: 66558546011499713
+    second: DS DSi - Locks Quest - Clockwork Brute3_6
+  - first:
+      213: 1959835282447599627
+    second: DS DSi - Locks Quest - Clockwork Brute3_7
+  - first:
+      213: 3547281282681153474
+    second: DS DSi - Locks Quest - Clockwork Brute3_8
+  - first:
+      213: -5095779350338393982
+    second: DS DSi - Locks Quest - Clockwork Brute3_9
+  - first:
+      213: 4497934832593850140
+    second: DS DSi - Locks Quest - Clockwork Brute3_10
+  - first:
+      213: 1436454115942982022
+    second: DS DSi - Locks Quest - Clockwork Brute3_11
+  - first:
+      213: 6857308701968631687
+    second: DS DSi - Locks Quest - Clockwork Brute3_12
+  - first:
+      213: 3674869999394775320
+    second: DS DSi - Locks Quest - Clockwork Brute3_13
+  - first:
+      213: -4977962924544378174
+    second: DS DSi - Locks Quest - Clockwork Brute3_14
+  - first:
+      213: -2205701655067831884
+    second: DS DSi - Locks Quest - Clockwork Brute3_15
+  - first:
+      213: -1732000551903613269
+    second: DS DSi - Locks Quest - Clockwork Brute3_16
+  - first:
+      213: 920004485651873759
+    second: DS DSi - Locks Quest - Clockwork Brute3_17
+  - first:
+      213: -8777587675351351722
+    second: DS DSi - Locks Quest - Clockwork Brute3_18
+  - first:
+      213: 650079261380481029
+    second: DS DSi - Locks Quest - Clockwork Brute3_19
+  - first:
+      213: -901305615907346150
+    second: DS DSi - Locks Quest - Clockwork Brute3_20
+  - first:
+      213: 1399428055202447968
+    second: DS DSi - Locks Quest - Clockwork Brute3_21
+  - first:
+      213: 1281360966832383710
+    second: DS DSi - Locks Quest - Clockwork Brute3_22
+  - first:
+      213: 8814455580731037045
+    second: DS DSi - Locks Quest - Clockwork Brute3_23
+  - first:
+      213: 4056189841694721270
+    second: DS DSi - Locks Quest - Clockwork Brute3_24
+  - first:
+      213: 6039369144466773977
+    second: DS DSi - Locks Quest - Clockwork Brute3_25
+  - first:
+      213: -3321871424950472255
+    second: DS DSi - Locks Quest - Clockwork Brute3_26
+  - first:
+      213: 561742799494316457
+    second: DS DSi - Locks Quest - Clockwork Brute3_27
+  - first:
+      213: 8564904339424045199
+    second: DS DSi - Locks Quest - Clockwork Brute3_28
+  - first:
+      213: 1540885834365987688
+    second: DS DSi - Locks Quest - Clockwork Brute3_29
+  - first:
+      213: -7198049627991117687
+    second: DS DSi - Locks Quest - Clockwork Brute3_30
+  - first:
+      213: -4028317510295067634
+    second: DS DSi - Locks Quest - Clockwork Brute3_31
+  - first:
+      213: -3600350985969348691
+    second: DS DSi - Locks Quest - Clockwork Brute3_32
+  - first:
+      213: 7251902717043269409
+    second: DS DSi - Locks Quest - Clockwork Brute3_33
+  - first:
+      213: 3160244865326928947
+    second: DS DSi - Locks Quest - Clockwork Brute3_34
+  - first:
+      213: -5666748620418904365
+    second: DS DSi - Locks Quest - Clockwork Brute3_35
+  - first:
+      213: 5855630290658984248
+    second: DS DSi - Locks Quest - Clockwork Brute3_36
+  - first:
+      213: 5840583099082606290
+    second: DS DSi - Locks Quest - Clockwork Brute3_37
+  - first:
+      213: -8334690424325070183
+    second: DS DSi - Locks Quest - Clockwork Brute3_38
+  - first:
+      213: 961294564362498590
+    second: DS DSi - Locks Quest - Clockwork Brute3_39
+  - first:
+      213: 2510509943418196128
+    second: DS DSi - Locks Quest - Clockwork Brute3_40
+  - first:
+      213: 8876122320345467027
+    second: DS DSi - Locks Quest - Clockwork Brute3_41
+  - first:
+      213: -1941939492394960275
+    second: DS DSi - Locks Quest - Clockwork Brute3_42
+  - first:
+      213: 27583587568538045
+    second: DS DSi - Locks Quest - Clockwork Brute3_43
+  - first:
+      213: 6037146648500438808
+    second: DS DSi - Locks Quest - Clockwork Brute3_44
+  - first:
+      213: -2230321408747348258
+    second: DS DSi - Locks Quest - Clockwork Brute3_45
+  - first:
+      213: -5881504504515472922
+    second: DS DSi - Locks Quest - Clockwork Brute3_46
+  - first:
+      213: 5646210624646660487
+    second: DS DSi - Locks Quest - Clockwork Brute3_47
+  - first:
+      213: -3708032510835108929
+    second: DS DSi - Locks Quest - Clockwork Brute3_48
+  - first:
+      213: -7725755889927560288
+    second: DS DSi - Locks Quest - Clockwork Brute3_49
+  - first:
+      213: -3430530845454861422
+    second: DS DSi - Locks Quest - Clockwork Brute3_50
+  - first:
+      213: 2214933201998761661
+    second: DS DSi - Locks Quest - Clockwork Brute3_51
+  - first:
+      213: 154226010092010081
+    second: DS DSi - Locks Quest - Clockwork Brute3_52
+  - first:
+      213: 1662205687593531496
+    second: DS DSi - Locks Quest - Clockwork Brute3_53
+  - first:
+      213: 1378654101804500893
+    second: DS DSi - Locks Quest - Clockwork Brute3_54
+  - first:
+      213: 2184362916679442390
+    second: DS DSi - Locks Quest - Clockwork Brute3_55
+  - first:
+      213: 8797375205923259619
+    second: DS DSi - Locks Quest - Clockwork Brute3_56
+  - first:
+      213: -3625857907540602670
+    second: DS DSi - Locks Quest - Clockwork Brute3_57
+  - first:
+      213: 7272723354250916020
+    second: DS DSi - Locks Quest - Clockwork Brute3_58
+  - first:
+      213: -3170246698657915207
+    second: DS DSi - Locks Quest - Clockwork Brute3_59
+  - first:
+      213: 2250960873299542964
+    second: DS DSi - Locks Quest - Clockwork Brute3_60
+  - first:
+      213: -7994077281451867220
+    second: DS DSi - Locks Quest - Clockwork Brute3_61
+  - first:
+      213: -8070412845640055885
+    second: DS DSi - Locks Quest - Clockwork Brute3_62
+  - first:
+      213: -1198300775065516837
+    second: DS DSi - Locks Quest - Clockwork Brute3_63
+  - first:
+      213: -7743288506392620110
+    second: DS DSi - Locks Quest - Clockwork Brute3_64
+  - first:
+      213: 2756961745883451993
+    second: DS DSi - Locks Quest - Clockwork Brute3_65
+  - first:
+      213: -3190219486783702588
+    second: DS DSi - Locks Quest - Clockwork Brute3_66
+  - first:
+      213: 5033956034546818553
+    second: DS DSi - Locks Quest - Clockwork Brute3_67
+  - first:
+      213: 8595725759785170285
+    second: DS DSi - Locks Quest - Clockwork Brute3_68
+  - first:
+      213: -2093274950450869815
+    second: DS DSi - Locks Quest - Clockwork Brute3_69
+  - first:
+      213: 4419347900290042525
+    second: DS DSi - Locks Quest - Clockwork Brute3_70
+  - first:
+      213: -5894656050812268544
+    second: DS DSi - Locks Quest - Clockwork Brute3_71
+  - first:
+      213: -838377850559396893
+    second: DS DSi - Locks Quest - Clockwork Brute3_72
+  - first:
+      213: 8009737235870448041
+    second: DS DSi - Locks Quest - Clockwork Brute3_73
+  - first:
+      213: -5720598380751664671
+    second: DS DSi - Locks Quest - Clockwork Brute3_74
+  - first:
+      213: 838661284407339263
+    second: DS DSi - Locks Quest - Clockwork Brute3_75
+  - first:
+      213: -8299643157790463993
+    second: DS DSi - Locks Quest - Clockwork Brute3_76
+  - first:
+      213: 2150633272563545759
+    second: DS DSi - Locks Quest - Clockwork Brute3_77
+  - first:
+      213: -49383300177763815
+    second: DS DSi - Locks Quest - Clockwork Brute3_78
+  - first:
+      213: 4279163025806440549
+    second: DS DSi - Locks Quest - Clockwork Brute3_79
+  - first:
+      213: 2662056255413536376
+    second: DS DSi - Locks Quest - Clockwork Brute3_80
+  - first:
+      213: 1552936851710757060
+    second: DS DSi - Locks Quest - Clockwork Brute3_81
+  - first:
+      213: 8428974638833618031
+    second: DS DSi - Locks Quest - Clockwork Brute3_82
+  - first:
+      213: 3519611963251531543
+    second: DS DSi - Locks Quest - Clockwork Brute3_83
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 699
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afa214797571db00800000000000000
+      internalID: 851590969048608679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 699
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478ed809125ae8250800000000000000
+      internalID: 5948873721380726900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 699
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bfb5260372af6b0800000000000000
+      internalID: -5261850125866894477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 699
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f74459cc865568a0800000000000000
+      internalID: -6312544140016728075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 699
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d2b22352f5784e0800000000000000
+      internalID: -1979508897845924453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 699
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d936177ee8356e0f0800000000000000
+      internalID: -1088090386729966691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 634
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0801944ecbb23b10800000000000000
+      internalID: 1959835282447599627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_8
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 634
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c72a9448897a3130800000000000000
+      internalID: 3547281282681153474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_9
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 634
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2882f41fda72849b0800000000000000
+      internalID: -5095779350338393982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 634
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fcc9f26efdb6e30800000000000000
+      internalID: 4497934832593850140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_11
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 634
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681ede4686f4fe310800000000000000
+      internalID: 1436454115942982022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_12
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 634
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7870900deed0a2f50800000000000000
+      internalID: 6857308701968631687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 569
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cab7713819baeab0800000000000000
+      internalID: -4977962924544378174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_15
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 570
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1d031f706c361e0800000000000000
+      internalID: -2205701655067831884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_16
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 569
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae2101bca2b6f7e0800000000000000
+      internalID: -1732000551903613269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_17
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 569
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfbb0f843384cc00800000000000000
+      internalID: 920004485651873759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_18
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 569
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ef5d1d38ebf2680800000000000000
+      internalID: -8777587675351351722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_19
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 569
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5009e6ad4ab850900800000000000000
+      internalID: 650079261380481029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 504
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062ce07d664cb6310800000000000000
+      internalID: 1399428055202447968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_22
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 504
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed66819a20f48c110800000000000000
+      internalID: 1281360966832383710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_23
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 504
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575dee156ac335a70800000000000000
+      internalID: 8814455580731037045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_24
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 504
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f403cf9b2b7a4830800000000000000
+      internalID: 4056189841694721270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_25
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 504
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7956b2d3620d350800000000000000
+      internalID: 6039369144466773977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_26
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 504
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c17e4ef98756e1d0800000000000000
+      internalID: -3321871424950472255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 439
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88629e2e17acd670800000000000000
+      internalID: 8564904339424045199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_29
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 439
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86be0dc9083526510800000000000000
+      internalID: 1540885834365987688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_30
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 439
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980f4ff00046b1c90800000000000000
+      internalID: -7198049627991117687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 439
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04606c319a8818c0800000000000000
+      internalID: -4028317510295067634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_32
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 439
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafc19e8adbf80ec0800000000000000
+      internalID: -3600350985969348691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_33
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 439
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fdd03591fe3a460800000000000000
+      internalID: 7251902717043269409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 374
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de0f78472aab51b0800000000000000
+      internalID: -5666748620418904365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_36
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 374
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8310fb299b0634150800000000000000
+      internalID: 5855630290658984248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_37
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 374
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d608f5426bed0150800000000000000
+      internalID: 5840583099082606290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_38
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 374
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9922149d73b355c80800000000000000
+      internalID: -8334690424325070183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_39
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 374
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1237592054375d00800000000000000
+      internalID: 961294564362498590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_40
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 374
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a017860e7f17d220800000000000000
+      internalID: 2510509943418196128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 309
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6afe7c0258dc05e0800000000000000
+      internalID: -1941939492394960275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_43
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 309
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db157a2702ff16000800000000000000
+      internalID: 27583587568538045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_44
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 309
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8170fc004e048c350800000000000000
+      internalID: 6037146648500438808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_45
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 309
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede5aa8de7e4c01e0800000000000000
+      internalID: -2230321408747348258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_46
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 309
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1de7f80d2b06ea0800000000000000
+      internalID: -5881504504515472922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_47
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 309
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781c911f5ae5b5e40800000000000000
+      internalID: 5646210624646660487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_49
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 244
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a36c7f63f998c490800000000000000
+      internalID: -7725755889927560288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_50
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 244
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b74ad2f5e4460d0800000000000000
+      internalID: -3430530845454861422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_51
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 244
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbeca5213060dbe10800000000000000
+      internalID: 2214933201998761661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_52
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 244
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16af8a23dbbe32200800000000000000
+      internalID: 154226010092010081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_53
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 244
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86875a02447511710800000000000000
+      internalID: 1662205687593531496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_54
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 244
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d974136e996f12310800000000000000
+      internalID: 1378654101804500893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_56
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 179
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e482e8a32e861a70800000000000000
+      internalID: 8797375205923259619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_57
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 179
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d05007917d5eadc0800000000000000
+      internalID: -3625857907540602670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_58
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 179
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b030dfab57ede460800000000000000
+      internalID: 7272723354250916020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_59
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 179
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bed32c9c650104d0800000000000000
+      internalID: -3170246698657915207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_60
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 179
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b38258fcf40d3f10800000000000000
+      internalID: 2250960873299542964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_61
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 179
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca38a0421155f0190800000000000000
+      internalID: -7994077281451867220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_64
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 123
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b35a1f01205a8490800000000000000
+      internalID: -7743288506392620110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_65
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 123
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95259b2d912b24620800000000000000
+      internalID: 2756961745883451993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_66
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 123
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c97abe77401ab3d0800000000000000
+      internalID: -3190219486783702588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_67
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 122
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdd816a7543cd540800000000000000
+      internalID: 5033956034546818553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_68
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 121
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d657ba259072a4770800000000000000
+      internalID: 8595725759785170285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_70
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 65
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a08a7208da45d30800000000000000
+      internalID: 4419347900290042525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_71
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 65
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0005a329d89f13ea0800000000000000
+      internalID: -5894656050812268544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_72
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 65
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e30add69cb7d54f0800000000000000
+      internalID: -838377850559396893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_73
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 65
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9f640249d482f60800000000000000
+      internalID: 8009737235870448041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_75
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 65
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8e8f7aef583ab00800000000000000
+      internalID: 838661284407339263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_76
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 65
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708e569758eb1dc80800000000000000
+      internalID: -8299643157790463993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_77
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96394d119598dd10800000000000000
+      internalID: 2150633272563545759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_78
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912611f662e805ff0800000000000000
+      internalID: -49383300177763815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Brute3_6
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 122
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc28cb15a67ce000800000000000000
+      internalID: 66558546011499713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

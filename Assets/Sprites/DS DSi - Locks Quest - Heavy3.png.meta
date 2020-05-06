@@ -1,0 +1,608 @@
+fileFormatVersion: 2
+guid: 21c83728d98ced241bebc4ee2646a8e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4488438704554994283
+    second: DS DSi - Locks Quest - Heavy3_0
+  - first:
+      213: -5801991472140251305
+    second: DS DSi - Locks Quest - Heavy3_1
+  - first:
+      213: 3567110731692721716
+    second: DS DSi - Locks Quest - Heavy3_2
+  - first:
+      213: -7044446064223454797
+    second: DS DSi - Locks Quest - Heavy3_3
+  - first:
+      213: 3110875961399579530
+    second: DS DSi - Locks Quest - Heavy3_4
+  - first:
+      213: 3713802248114098652
+    second: DS DSi - Locks Quest - Heavy3_5
+  - first:
+      213: -7836220645200875773
+    second: DS DSi - Locks Quest - Heavy3_6
+  - first:
+      213: 3666831693509913719
+    second: DS DSi - Locks Quest - Heavy3_7
+  - first:
+      213: 9044336856088368080
+    second: DS DSi - Locks Quest - Heavy3_8
+  - first:
+      213: -8197476423074039135
+    second: DS DSi - Locks Quest - Heavy3_9
+  - first:
+      213: -560235035987791928
+    second: DS DSi - Locks Quest - Heavy3_10
+  - first:
+      213: 6405312078799970686
+    second: DS DSi - Locks Quest - Heavy3_11
+  - first:
+      213: 7733430108904325748
+    second: DS DSi - Locks Quest - Heavy3_12
+  - first:
+      213: -1722850381042323433
+    second: DS DSi - Locks Quest - Heavy3_13
+  - first:
+      213: 2661413124127559434
+    second: DS DSi - Locks Quest - Heavy3_14
+  - first:
+      213: -4189646322170297049
+    second: DS DSi - Locks Quest - Heavy3_15
+  - first:
+      213: 8285413186338199596
+    second: DS DSi - Locks Quest - Heavy3_16
+  - first:
+      213: 5483776862526846849
+    second: DS DSi - Locks Quest - Heavy3_17
+  - first:
+      213: -1183496180497340697
+    second: DS DSi - Locks Quest - Heavy3_18
+  - first:
+      213: -2924180759191007650
+    second: DS DSi - Locks Quest - Heavy3_19
+  - first:
+      213: 843862192613909421
+    second: DS DSi - Locks Quest - Heavy3_20
+  - first:
+      213: 3599455725408784717
+    second: DS DSi - Locks Quest - Heavy3_21
+  - first:
+      213: -7611947038806948892
+    second: DS DSi - Locks Quest - Heavy3_22
+  - first:
+      213: 7830092938961647664
+    second: DS DSi - Locks Quest - Heavy3_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Heavy3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 211
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a6d1598332a4e30800000000000000
+      internalID: 4488438704554994283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Heavy3_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 211
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f0c311f7f2b7fa0800000000000000
+      internalID: -5801991472140251305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Heavy3_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 211
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4364705af4ce08130800000000000000
+      internalID: 3567110731692721716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Heavy3_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 211
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9ff8ea0a91d3e90800000000000000
+      internalID: -7044446064223454797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Heavy3_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 211
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83168b643d0c2b20800000000000000
+      internalID: 3110875961399579530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Heavy3_5
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 211
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd153e4d7731a8330800000000000000
+      internalID: 3713802248114098652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Heavy3_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f283d57d6204390800000000000000
+      internalID: -7836220645200875773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Heavy3_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 130
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c6dce5ff333e230800000000000000
+      internalID: 3666831693509913719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Heavy3_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 131
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3de10a370f38d70800000000000000
+      internalID: 9044336856088368080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Heavy3_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 130
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa380410a6bc3e80800000000000000
+      internalID: -8197476423074039135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Heavy3_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 130
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf2839f335a938f0800000000000000
+      internalID: -560235035987791928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Heavy3_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 131
+        width: 74
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71246c166d34e850800000000000000
+      internalID: 6405312078799970686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Heavy3_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4728d88e5b9a25b60800000000000000
+      internalID: 7733430108904325748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Heavy3_13
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 65
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71073dcd4b43718e0800000000000000
+      internalID: -1722850381042323433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Heavy3_14
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 65
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f8f28b22d3fe420800000000000000
+      internalID: 2661413124127559434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Heavy3_15
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 65
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72584802ed26bd5c0800000000000000
+      internalID: -4189646322170297049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Heavy3_16
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 65
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28960d1563bbf270800000000000000
+      internalID: 8285413186338199596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Heavy3_17
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 65
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1873b6e800a4a1c40800000000000000
+      internalID: 5483776862526846849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Heavy3_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6ac688e70639fe0800000000000000
+      internalID: -1183496180497340697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Heavy3_19
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e436da7193b67d0800000000000000
+      internalID: -2924180759191007650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

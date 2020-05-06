@@ -6,12 +6,6 @@ public class TileScript : MonoBehaviour
 {
     public int tileIndex;
 
-    //****This is only for debugging needs to be removed later!*****
-    public int GScore;
-    public int HScore;
-    public int FScore;
-    //*/
-
     //Tower
     public int towerLevel;
     public bool towerLevelMax = false;
@@ -42,13 +36,4 @@ public class TileScript : MonoBehaviour
         LevelManager.Instance.Tiles.Add(gridPos, this);       
     }
     
-
-    
-    /*
-    //Makes the UI visible when the tower spawn point is pressed
-    private void OnMouseDown() {
-        if (tileIndex != 2 || towerLevelMax.Equals(true))
-            return;
-        GameManager.Instance.ShowTowerTypeBtn(GridPosition, towerLevel);
-    }*/
 }

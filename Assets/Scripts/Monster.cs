@@ -6,6 +6,13 @@ using UnityEngine.UI;
 public class Monster : MonoBehaviour {   
     [SerializeField]
     private float speed;
+    public bool moveStop = false;
+
+    [SerializeField]
+    private int price;
+
+    [SerializeField]
+    private Element elementType;
 
     private Stack<Node> path;
     private Vector3 destination;
@@ -13,11 +20,10 @@ public class Monster : MonoBehaviour {
 
     [SerializeField]
     private float health;
-    public float currentHealth;
+    private float currentHealth;
 
-    [SerializeField]
-    private Image gaugeBar;
-    private GameObject canvas;
+    public GameObject healthBar;
+    public Image gaugeBar;
 
     public bool isDie {
         get { return currentHealth <= 0; }
@@ -34,7 +40,6 @@ public class Monster : MonoBehaviour {
     /// 
     private void Awake() {
         anim = GetComponent<Animator>();
-        canvas = transform.GetChild(0).gameObject;
     }
 
     //Spawns the monster in our world
@@ -87,10 +92,12 @@ public class Monster : MonoBehaviour {
         }
     }
 
+
     //Makes the monster move along the given path
     IEnumerator MonsterMove() {
-        while (!isDie) {
+        while (!isDie && !moveStop) {
             transform.position = Vector2.MoveTowards(transform.position, destination, speed);
+            healthBar.transform.position = transform.position + new Vector3(0, 0.43f, 0);
 
             //Checks if monster arrived at the destination
             if (transform.position == destination) {
@@ -134,20 +141,25 @@ public class Monster : MonoBehaviour {
         }
     }
 
-    public void TakeDamage(float damage) {
-        currentHealth -= damage;        
-        if(currentHealth <= 0) {  //Monster death
+    public void TakeDamage(float damage, Element dmgSource) {
+        if (dmgSource.Equals(elementType)) 
+            damage /= 2;
+        currentHealth -= damage;
+
+        //Monster Die
+        if(currentHealth <= 0) {  
             currentHealth = 0;
-            canvas.SetActive(false);
+            GameManager.Instance.Money = price;
+            GameManager.Instance.objectManager.ReleaseObject(healthBar);
             anim.SetTrigger("MonsterDie");
         }
         gaugeBar.fillAmount = currentHealth / health;
     }
 
     public void Release() {
-        GridPosition = LevelManager.Instance.greenSpawn;
-        canvas.SetActive(true);
+        moveStop = false;
         GameManager.Instance.objectManager.ReleaseObject(gameObject);
+        GridPosition = LevelManager.Instance.greenSpawn;
         GameManager.Instance.RemoveMonster(this);
     }
 }

@@ -1,0 +1,1844 @@
+fileFormatVersion: 2
+guid: c124228c0368af840bc5218d997fd3d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6693590083524959686
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_0
+  - first:
+      213: -8007362185112498696
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_1
+  - first:
+      213: 6367207325021887721
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_2
+  - first:
+      213: 9022218360321279435
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_3
+  - first:
+      213: -435920292114087485
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_4
+  - first:
+      213: 8741464232247992368
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_5
+  - first:
+      213: 7610943727634294163
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_6
+  - first:
+      213: -1320539587463214185
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_7
+  - first:
+      213: -8779573221838227588
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_8
+  - first:
+      213: 1259923965873504938
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_9
+  - first:
+      213: 679027328988958157
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_10
+  - first:
+      213: 3020561948857829967
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_11
+  - first:
+      213: 7591069268432643286
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_12
+  - first:
+      213: -8371658531416348480
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_13
+  - first:
+      213: 3531699313126673014
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_14
+  - first:
+      213: 3225456546976643431
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_15
+  - first:
+      213: -4416686177124853866
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_16
+  - first:
+      213: -2164042678347908253
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_17
+  - first:
+      213: 7718503917838842146
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_18
+  - first:
+      213: -7091250581444205601
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_19
+  - first:
+      213: 3222677329779744557
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_20
+  - first:
+      213: 6624740070414755273
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_21
+  - first:
+      213: 214642063858647589
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_22
+  - first:
+      213: 6929760765161441427
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_23
+  - first:
+      213: -3805213826757141652
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_24
+  - first:
+      213: 419861373520397432
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_25
+  - first:
+      213: 4231122749696582282
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_26
+  - first:
+      213: 6994205190858146763
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_27
+  - first:
+      213: 7478703284578232164
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_28
+  - first:
+      213: -1526111384368014282
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_29
+  - first:
+      213: 5413462181717236168
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_30
+  - first:
+      213: -33376492549899440
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_31
+  - first:
+      213: -1782502199681473116
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_32
+  - first:
+      213: -8903817198923131843
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_33
+  - first:
+      213: -2356729797678254510
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_34
+  - first:
+      213: 8366576329885851874
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_35
+  - first:
+      213: -6825518458802128255
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_36
+  - first:
+      213: -2373227219838621627
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_37
+  - first:
+      213: -1033854559289322758
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_38
+  - first:
+      213: 8041588064372672802
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_39
+  - first:
+      213: 3440243235551347977
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_40
+  - first:
+      213: 1298393968447347906
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_41
+  - first:
+      213: 4301738721450566542
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_42
+  - first:
+      213: -7946745549899746636
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_43
+  - first:
+      213: -3780361731854118606
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_44
+  - first:
+      213: -8013736227238783536
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_45
+  - first:
+      213: -3313219056737343269
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_46
+  - first:
+      213: 7134167578847869576
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_47
+  - first:
+      213: -3268311195222582131
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_48
+  - first:
+      213: 3248700200913409987
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_49
+  - first:
+      213: 5683133309789601785
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_50
+  - first:
+      213: 2797068344368713223
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_51
+  - first:
+      213: 1920772345802655432
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_52
+  - first:
+      213: 7878288138671810155
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_53
+  - first:
+      213: -3940834641607152199
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_54
+  - first:
+      213: 7967399898766297452
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_55
+  - first:
+      213: 1844815692785254630
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_56
+  - first:
+      213: 3773362389826959469
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_57
+  - first:
+      213: 2481539153126391697
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_58
+  - first:
+      213: 4544887360493166766
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_59
+  - first:
+      213: 1682794782060986495
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_60
+  - first:
+      213: -5901484944701420597
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_61
+  - first:
+      213: -2889805310298603729
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_62
+  - first:
+      213: 6400253325665607740
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_63
+  - first:
+      213: 1538060653982128178
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_64
+  - first:
+      213: 299133675372775225
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_65
+  - first:
+      213: 6616761120723333890
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_66
+  - first:
+      213: 7300545477047031660
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_67
+  - first:
+      213: -3789400966684002718
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_68
+  - first:
+      213: 1778368610039929736
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_69
+  - first:
+      213: -5302785107572846602
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_70
+  - first:
+      213: -7106370281936565497
+    second: DS DSi - Locks Quest - Clockwork Burrower (2)_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 702.1667
+        width: 32.833332
+        height: 63.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd159087b864ec50800000000000000
+      internalID: 6693590083524959686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 702.1667
+        width: 32.833332
+        height: 63.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd4978748220e090800000000000000
+      internalID: -8007362185112498696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 702.1667
+        width: 32.833332
+        height: 63.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecd133c35ddc5850800000000000000
+      internalID: 6367207325021887721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 702.1667
+        width: 32.833332
+        height: 63.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc505f40ccb553d70800000000000000
+      internalID: 9022218360321279435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 702.1667
+        width: 32.833332
+        height: 63.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1c72ecdcc43f9f0800000000000000
+      internalID: -435920292114087485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 702
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030aceba76bef4970800000000000000
+      internalID: 8741464232247992368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 639
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395212beef08f9960800000000000000
+      internalID: 7610943727634294163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_7
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 639
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b0a61ed308cade0800000000000000
+      internalID: -1320539587463214185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 639
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77fcc0cba0b82680800000000000000
+      internalID: -8779573221838227588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_9
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 639
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa244edeb262c7110800000000000000
+      internalID: 1259923965873504938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_10
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 639
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd4b2112c36c6900800000000000000
+      internalID: 679027328988958157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_11
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 639
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a8bbfb6113be920800000000000000
+      internalID: 3020561948857829967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576.1667
+        width: 32.833332
+        height: 63.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4ef4ac745e85960800000000000000
+      internalID: 7591069268432643286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 576
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c86f0eabe4e1db80800000000000000
+      internalID: -8371658531416348480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_14
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 576
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a086440dd130130800000000000000
+      internalID: 3531699313126673014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_15
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 576
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7693009e3af13cc20800000000000000
+      internalID: 3225456546976643431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 576
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69758109257c4b2c0800000000000000
+      internalID: -4416686177124853866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_17
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 576
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bb94e46a6c7f1e0800000000000000
+      internalID: -2164042678347908253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 513.1667
+        width: 32.833332
+        height: 63.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229be3c3b62ad1b60800000000000000
+      internalID: 7718503917838842146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 513
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd36cbfca21d69d90800000000000000
+      internalID: -7091250581444205601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_20
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 513
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fd93bf4ff39bc20800000000000000
+      internalID: 3222677329779744557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_21
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 513
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c52e52aefdcfeb50800000000000000
+      internalID: 6624740070414755273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_22
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 513
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522c622e1df8af200800000000000000
+      internalID: 214642063858647589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_23
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 513
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39803e153b47b2060800000000000000
+      internalID: 6929760765161441427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450.16666
+        width: 32.833332
+        height: 63.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b5cb97f2a213bc0800000000000000
+      internalID: -3805213826757141652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_25
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 450
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8744797d1b5a3d500800000000000000
+      internalID: 419861373520397432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_26
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 450
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a822db039b7f7ba30800000000000000
+      internalID: 4231122749696582282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_27
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 450
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc30b4f6098601160800000000000000
+      internalID: 6994205190858146763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_28
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 450
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46725d17301b9c760800000000000000
+      internalID: 7478703284578232164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_29
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 450
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c901718c922dae0800000000000000
+      internalID: -1526111384368014282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 387.16666
+        width: 32.833332
+        height: 63.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9544a2c2b702b40800000000000000
+      internalID: 5413462181717236168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 387
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bf6b1c14c698ff0800000000000000
+      internalID: -33376492549899440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_32
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 387
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a522a881b74347e0800000000000000
+      internalID: -1782502199681473116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_33
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 387
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d345c299e694f6480800000000000000
+      internalID: -8903817198923131843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_34
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 387
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2563fc94cb63b4fd0800000000000000
+      internalID: -2356729797678254510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_35
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 387
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0a90118dc0c1470800000000000000
+      internalID: 8366576329885851874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324.16666
+        width: 32.833332
+        height: 63.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a3a37ff13e641a0800000000000000
+      internalID: -6825518458802128255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 324.16666
+        width: 32.833332
+        height: 63.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5482b3eda6a901fd0800000000000000
+      internalID: -2373227219838621627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_38
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 324
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2542481c207a1f0800000000000000
+      internalID: -1033854559289322758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_39
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 324
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22944f60db5799f60800000000000000
+      internalID: 8041588064372672802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_40
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 324
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9058afbdef23ebf20800000000000000
+      internalID: 3440243235551347977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_41
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 325
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc50d36f62d40210800000000000000
+      internalID: 1298393968447347906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261.16666
+        width: 32.833332
+        height: 63.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83aa985398d2bb30800000000000000
+      internalID: 4301738721450566542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_43
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 261
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b23fc9a60d77b190800000000000000
+      internalID: -7946745549899746636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_44
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 261
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231da5ab805798bc0800000000000000
+      internalID: -3780361731854118606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_45
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 261
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5d0c32c5d79c090800000000000000
+      internalID: -8013736227238783536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_46
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 261
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8ad1472d41502d0800000000000000
+      internalID: -3313219056737343269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_47
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 261
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88af5515d97a10360800000000000000
+      internalID: 7134167578847869576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c5351c840a4a2d0800000000000000
+      internalID: -3268311195222582131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_49
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 196
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c71f21de93b51d20800000000000000
+      internalID: 3248700200913409987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_50
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 198
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fff23d72ab8ede40800000000000000
+      internalID: 5683133309789601785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_51
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 196
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e4696f6de21d620800000000000000
+      internalID: 2797068344368713223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_52
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 196
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c606f59544f7aa10800000000000000
+      internalID: 1920772345802655432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_53
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 197
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66e4b7325d455d60800000000000000
+      internalID: 7878288138671810155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bda37cd5c75f49c0800000000000000
+      internalID: -3940834641607152199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_55
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 132
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69c27daef3e19e60800000000000000
+      internalID: 7967399898766297452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_56
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 132
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0088c291a1a9910800000000000000
+      internalID: 1844815692785254630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_57
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 133
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d687476f91dad5430800000000000000
+      internalID: 3773362389826959469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_58
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 133
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f725646b2307220800000000000000
+      internalID: 2481539153126391697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_59
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 133
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0ab5a79fea21f30800000000000000
+      internalID: 4544887360493166766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7040ae30fc7a5710800000000000000
+      internalID: 1682794782060986495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_61
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 66
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb81cfc5b6b91ea0800000000000000
+      internalID: -5901484944701420597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_62
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 66
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f3d91916955e7d0800000000000000
+      internalID: -2889805310298603729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_63
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 68
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30afcc5d7442d850800000000000000
+      internalID: 6400253325665607740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_64
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 68
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2381c9b040a485510800000000000000
+      internalID: 1538060653982128178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_65
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 67
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93783fc2e7cb62400800000000000000
+      internalID: 299133675372775225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2037454ae2573db50800000000000000
+      internalID: 6616761120723333890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_67
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6719f17e6fb05560800000000000000
+      internalID: 7300545477047031660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_68
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266374dd5e7596bc0800000000000000
+      internalID: -3789400966684002718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_69
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 9.166668
+        width: 32.833332
+        height: 63.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b922124d80ea810800000000000000
+      internalID: 1778368610039929736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_70
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 9.166668
+        width: 32.833332
+        height: 63.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff83ee3a09b866b0800000000000000
+      internalID: -5302785107572846602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Burrower (2)_71
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 9.166668
+        width: 32.833332
+        height: 63.833332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b47c631e9116d90800000000000000
+      internalID: -7106370281936565497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

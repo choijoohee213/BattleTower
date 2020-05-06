@@ -6,6 +6,9 @@ TagManager:
   tags:
   - UI
   - Monster
+  - Projectile
+  - Soldier
+  - Soil
   layers:
   - Default
   - TransparentFX
@@ -17,8 +20,8 @@ TagManager:
   - 
   - SpawnTower
   - TowerRange
-  - 
-  - 
+  - Projectile
+  - Soldier
   - 
   - 
   - 
@@ -42,4 +45,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 1659567621
     locked: 0

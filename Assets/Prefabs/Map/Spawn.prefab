@@ -97,9 +97,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tileIndex: 2
-  GScore: 0
-  HScore: 0
-  FScore: 0
   towerLevel: 0
   towerLevelMax: 0
   SpriteRenderer: {fileID: 1247671059205265651}

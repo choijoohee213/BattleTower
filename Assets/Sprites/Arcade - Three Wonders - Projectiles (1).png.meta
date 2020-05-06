@@ -20,6 +20,78 @@ TextureImporter:
   - first:
       213: -2988413198127087768
     second: Arcade - Three Wonders - Projectiles (1)_5
+  - first:
+      213: -7262690898186198821
+    second: Arcade - Three Wonders - Projectiles (1)_6
+  - first:
+      213: 4629982557859598255
+    second: Arcade - Three Wonders - Projectiles (1)_7
+  - first:
+      213: -7504046786913023260
+    second: Arcade - Three Wonders - Projectiles (1)_8
+  - first:
+      213: -3797806616174639471
+    second: Arcade - Three Wonders - Projectiles (1)_9
+  - first:
+      213: -7031038698973966573
+    second: Arcade - Three Wonders - Projectiles (1)_10
+  - first:
+      213: 7999049868037573723
+    second: Arcade - Three Wonders - Projectiles (1)_11
+  - first:
+      213: -7069438244980210998
+    second: Arcade - Three Wonders - Projectiles (1)_12
+  - first:
+      213: -2688367717817397348
+    second: Arcade - Three Wonders - Projectiles (1)_13
+  - first:
+      213: 553181630206433312
+    second: Arcade - Three Wonders - Projectiles (1)_14
+  - first:
+      213: 217392162883431142
+    second: Arcade - Three Wonders - Projectiles (1)_15
+  - first:
+      213: 2709900468545821344
+    second: Arcade - Three Wonders - Projectiles (1)_16
+  - first:
+      213: -6442179229488927370
+    second: Arcade - Three Wonders - Projectiles (1)_17
+  - first:
+      213: -3212107001538195967
+    second: Arcade - Three Wonders - Projectiles (1)_18
+  - first:
+      213: 5583955303246250509
+    second: Arcade - Three Wonders - Projectiles (1)_19
+  - first:
+      213: -555961607821646750
+    second: Arcade - Three Wonders - Projectiles (1)_20
+  - first:
+      213: -4283473227063005399
+    second: Arcade - Three Wonders - Projectiles (1)_21
+  - first:
+      213: 2961798685659154369
+    second: Arcade - Three Wonders - Projectiles (1)_22
+  - first:
+      213: 6610659752944383495
+    second: Arcade - Three Wonders - Projectiles (1)_23
+  - first:
+      213: -262368666211272766
+    second: Arcade - Three Wonders - Projectiles (1)_24
+  - first:
+      213: -2781613333035225434
+    second: Arcade - Three Wonders - Projectiles (1)_25
+  - first:
+      213: -5629953881622213148
+    second: Arcade - Three Wonders - Projectiles (1)_26
+  - first:
+      213: 467738190010457068
+    second: Arcade - Three Wonders - Projectiles (1)_27
+  - first:
+      213: -748543654076961593
+    second: Arcade - Three Wonders - Projectiles (1)_28
+  - first:
+      213: 1627033419766767292
+    second: Arcade - Three Wonders - Projectiles (1)_29
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -209,7 +281,7 @@ TextureImporter:
         width: 24
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -230,7 +302,7 @@ TextureImporter:
         width: 17
         height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -238,6 +310,510 @@ TextureImporter:
       bones: []
       spriteID: 86fbb8397060786d0800000000000000
       internalID: -2988413198127087768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Three Wonders - Projectiles (1)_6
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1002
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd026248b1db53b90800000000000000
+      internalID: -7262690898186198821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Three Wonders - Projectiles (1)_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1002
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafc97d0b90014040800000000000000
+      internalID: 4629982557859598255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Three Wonders - Projectiles (1)_8
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1000
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea432894354cd790800000000000000
+      internalID: -7504046786913023260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Three Wonders - Projectiles (1)_9
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 837
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1964845110b7b4bc0800000000000000
+      internalID: -3797806616174639471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Three Wonders - Projectiles (1)_10
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 839
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fc1a92e8bbc6e90800000000000000
+      internalID: -7031038698973966573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Three Wonders - Projectiles (1)_11
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 840
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cc3056975520f60800000000000000
+      internalID: 7999049868037573723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Three Wonders - Projectiles (1)_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 900
+        width: 122
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2c4662f5f44ed90800000000000000
+      internalID: -7069438244980210998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Three Wonders - Projectiles (1)_13
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 904
+        width: 92
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fcdd1edcff0bad0800000000000000
+      internalID: -2688367717817397348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Three Wonders - Projectiles (1)_14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 905
+        width: 75
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028d9b403cb4da700800000000000000
+      internalID: 553181630206433312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Three Wonders - Projectiles (1)_15
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1109
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eaee953505540300800000000000000
+      internalID: 217392162883431142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Three Wonders - Projectiles (1)_16
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1107
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa96545e108b9520800000000000000
+      internalID: 2709900468545821344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Three Wonders - Projectiles (1)_17
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1107
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67da9e67f18c896a0800000000000000
+      internalID: -6442179229488927370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Three Wonders - Projectiles (1)_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1108
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e45c853bd4c63d0800000000000000
+      internalID: -3212107001538195967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Three Wonders - Projectiles (1)_19
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1110
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02c6a363c13e7d40800000000000000
+      internalID: 5583955303246250509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Three Wonders - Projectiles (1)_20
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1326
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26429010dd3d848f0800000000000000
+      internalID: -555961607821646750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Three Wonders - Projectiles (1)_21
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1326
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f63087bcb0e84c0800000000000000
+      internalID: -4283473227063005399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Three Wonders - Projectiles (1)_22
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1118
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7ceea563c6a1920800000000000000
+      internalID: 2961798685659154369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Three Wonders - Projectiles (1)_23
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1122
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706b8314508cdbb50800000000000000
+      internalID: 6610659752944383495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Three Wonders - Projectiles (1)_24
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1123
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7b8429611eb5cf0800000000000000
+      internalID: -262368666211272766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Three Wonders - Projectiles (1)_25
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1232
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aee1f54969b569d0800000000000000
+      internalID: -2781613333035225434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Three Wonders - Projectiles (1)_26
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1232
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed831006c26ed1b0800000000000000
+      internalID: -5629953881622213148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Three Wonders - Projectiles (1)_27
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1232
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb1577d76dbd7600800000000000000
+      internalID: 467738190010457068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Three Wonders - Projectiles (1)_28
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1232
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccaed73383ac95f0800000000000000
+      internalID: -748543654076961593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Three Wonders - Projectiles (1)_29
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1232
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe13ee5642649610800000000000000
+      internalID: 1627033419766767292
       vertices: []
       indices: 
       edges: []

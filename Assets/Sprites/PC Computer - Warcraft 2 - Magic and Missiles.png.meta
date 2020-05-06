@@ -1,0 +1,1139 @@
+fileFormatVersion: 2
+guid: e764d2fc5776a6c4ca74a6a89a8c9c7a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7383875153214006392
+    second: PC Computer - Warcraft 2 - Magic and Missiles_0
+  - first:
+      213: -1064837247186912889
+    second: PC Computer - Warcraft 2 - Magic and Missiles_1
+  - first:
+      213: 7865487142317556617
+    second: PC Computer - Warcraft 2 - Magic and Missiles_2
+  - first:
+      213: -3843658320941296043
+    second: PC Computer - Warcraft 2 - Magic and Missiles_3
+  - first:
+      213: 2824479546470522846
+    second: PC Computer - Warcraft 2 - Magic and Missiles_4
+  - first:
+      213: -3266656791359522727
+    second: PC Computer - Warcraft 2 - Magic and Missiles_5
+  - first:
+      213: -5853883237966204131
+    second: PC Computer - Warcraft 2 - Magic and Missiles_6
+  - first:
+      213: -3638862418810230199
+    second: PC Computer - Warcraft 2 - Magic and Missiles_7
+  - first:
+      213: 1302584995394602611
+    second: PC Computer - Warcraft 2 - Magic and Missiles_8
+  - first:
+      213: 1838689236773533688
+    second: PC Computer - Warcraft 2 - Magic and Missiles_9
+  - first:
+      213: -7387785946013562553
+    second: PC Computer - Warcraft 2 - Magic and Missiles_10
+  - first:
+      213: -4826576279935061279
+    second: PC Computer - Warcraft 2 - Magic and Missiles_11
+  - first:
+      213: -5360429046285451691
+    second: PC Computer - Warcraft 2 - Magic and Missiles_12
+  - first:
+      213: 3464051574841182554
+    second: PC Computer - Warcraft 2 - Magic and Missiles_13
+  - first:
+      213: -8322715048385180786
+    second: PC Computer - Warcraft 2 - Magic and Missiles_14
+  - first:
+      213: 8321243914387403463
+    second: PC Computer - Warcraft 2 - Magic and Missiles_15
+  - first:
+      213: -707467354676739193
+    second: PC Computer - Warcraft 2 - Magic and Missiles_16
+  - first:
+      213: -625725646592826223
+    second: PC Computer - Warcraft 2 - Magic and Missiles_17
+  - first:
+      213: -793645924050835722
+    second: PC Computer - Warcraft 2 - Magic and Missiles_18
+  - first:
+      213: -1864339917402882321
+    second: PC Computer - Warcraft 2 - Magic and Missiles_19
+  - first:
+      213: 2874013745673378480
+    second: PC Computer - Warcraft 2 - Magic and Missiles_20
+  - first:
+      213: -7374229760200838423
+    second: PC Computer - Warcraft 2 - Magic and Missiles_21
+  - first:
+      213: -4650322839643814674
+    second: PC Computer - Warcraft 2 - Magic and Missiles_22
+  - first:
+      213: 3387733552627525116
+    second: PC Computer - Warcraft 2 - Magic and Missiles_23
+  - first:
+      213: 2199325107140577317
+    second: PC Computer - Warcraft 2 - Magic and Missiles_24
+  - first:
+      213: 449368387557750932
+    second: PC Computer - Warcraft 2 - Magic and Missiles_25
+  - first:
+      213: -5906432231778098902
+    second: PC Computer - Warcraft 2 - Magic and Missiles_26
+  - first:
+      213: 2441271159292180683
+    second: PC Computer - Warcraft 2 - Magic and Missiles_27
+  - first:
+      213: 4413486787738995489
+    second: PC Computer - Warcraft 2 - Magic and Missiles_28
+  - first:
+      213: -4277221072239476670
+    second: PC Computer - Warcraft 2 - Magic and Missiles_29
+  - first:
+      213: -1698843606867497356
+    second: PC Computer - Warcraft 2 - Magic and Missiles_30
+  - first:
+      213: -7333122616665933697
+    second: PC Computer - Warcraft 2 - Magic and Missiles_31
+  - first:
+      213: -8965907987342403970
+    second: PC Computer - Warcraft 2 - Magic and Missiles_32
+  - first:
+      213: -5000587827942054615
+    second: PC Computer - Warcraft 2 - Magic and Missiles_33
+  - first:
+      213: 8398273440355683155
+    second: PC Computer - Warcraft 2 - Magic and Missiles_34
+  - first:
+      213: -3024911940036206638
+    second: PC Computer - Warcraft 2 - Magic and Missiles_35
+  - first:
+      213: -1793801799129307647
+    second: PC Computer - Warcraft 2 - Magic and Missiles_36
+  - first:
+      213: 7260586546112229344
+    second: PC Computer - Warcraft 2 - Magic and Missiles_37
+  - first:
+      213: 2872838506416356405
+    second: PC Computer - Warcraft 2 - Magic and Missiles_38
+  - first:
+      213: 883802704126332439
+    second: PC Computer - Warcraft 2 - Magic and Missiles_39
+  - first:
+      213: 2543151606879323755
+    second: PC Computer - Warcraft 2 - Magic and Missiles_40
+  - first:
+      213: -1126747623686042473
+    second: PC Computer - Warcraft 2 - Magic and Missiles_41
+  - first:
+      213: -5608728864038120976
+    second: PC Computer - Warcraft 2 - Magic and Missiles_42
+  - first:
+      213: -743671923468540361
+    second: PC Computer - Warcraft 2 - Magic and Missiles_43
+  - first:
+      213: -1175553252392005052
+    second: PC Computer - Warcraft 2 - Magic and Missiles_44
+  - first:
+      213: -917279455956755577
+    second: PC Computer - Warcraft 2 - Magic and Missiles_45
+  - first:
+      213: 5783110830331541931
+    second: PC Computer - Warcraft 2 - Magic and Missiles_46
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 45
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Magic and Missiles_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 333
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8746725945bc87660800000000000000
+      internalID: 7383875153214006392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Magic and Missiles_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 333
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789b1d95a20f831f0800000000000000
+      internalID: -1064837247186912889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Magic and Missiles_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 333
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9838d3ff1e2d72d60800000000000000
+      internalID: 7865487142317556617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Magic and Missiles_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 330
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556d1562f1598aac0800000000000000
+      internalID: -3843658320941296043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Magic and Missiles_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 330
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf5bbace21923720800000000000000
+      internalID: 2824479546470522846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Magic and Missiles_5
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 330
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958f5eba4f08aa2d0800000000000000
+      internalID: -3266656791359522727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Magic and Missiles_6
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 330
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d133964d534d2cea0800000000000000
+      internalID: -5853883237966204131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Magic and Missiles_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 296
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a2c4cd8e9208dc0800000000000000
+      internalID: -3638862418810230199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Magic and Missiles_8
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 296
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376cf34e626b31210800000000000000
+      internalID: 1302584995394602611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Magic and Missiles_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 296
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7783a7e16548910800000000000000
+      internalID: 1838689236773533688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Magic and Missiles_10
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 296
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7490d3303df497990800000000000000
+      internalID: -7387785946013562553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Magic and Missiles_11
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 212
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2f429127e840db0800000000000000
+      internalID: -4826576279935061279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Magic and Missiles_12
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 211
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e3874ee2eeb95b0800000000000000
+      internalID: -5360429046285451691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Magic and Missiles_13
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 211
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a598a02dd88c21030800000000000000
+      internalID: 3464051574841182554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Magic and Missiles_14
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 210
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b043652c6cf7c80800000000000000
+      internalID: -8322715048385180786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Magic and Missiles_15
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 212
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c23176904ffa7370800000000000000
+      internalID: 8321243914387403463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Magic and Missiles_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 212
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783ce4270329e26f0800000000000000
+      internalID: -707467354676739193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Magic and Missiles_17
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 138
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194abf3f6d9f057f0800000000000000
+      internalID: -625725646592826223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Magic and Missiles_18
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 140
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6638bac376cf4f0800000000000000
+      internalID: -793645924050835722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Magic and Missiles_19
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 137
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feebe9a09b88026e0800000000000000
+      internalID: -1864339917402882321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Magic and Missiles_20
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 136
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba9376464c82e720800000000000000
+      internalID: 2874013745673378480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Magic and Missiles_21
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 135
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e27d1b7a1979a990800000000000000
+      internalID: -7374229760200838423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Magic and Missiles_22
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 131
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4052c040cb67fb0800000000000000
+      internalID: -4650322839643814674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Magic and Missiles_23
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 131
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5290697b5a30f20800000000000000
+      internalID: 3387733552627525116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Magic and Missiles_24
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 130
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52846bc4882958e10800000000000000
+      internalID: 2199325107140577317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Magic and Missiles_25
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 131
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4987ba9ea2a7c3600800000000000000
+      internalID: 449368387557750932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Magic and Missiles_26
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 130
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21e2f6cd23280ea0800000000000000
+      internalID: -5906432231778098902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Magic and Missiles_27
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 131
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8340a5f2321e120800000000000000
+      internalID: 2441271159292180683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Magic and Missiles_28
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 131
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b001c89dadf3d30800000000000000
+      internalID: 4413486787738995489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Magic and Missiles_29
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 133
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240c953b81244a4c0800000000000000
+      internalID: -4277221072239476670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Magic and Missiles_30
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 135
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e28bb8dbe7c68e0800000000000000
+      internalID: -1698843606867497356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Magic and Missiles_31
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 134
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f787e3b25d38b3a90800000000000000
+      internalID: -7333122616665933697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Magic and Missiles_32
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 135
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e765e9d5032b29380800000000000000
+      internalID: -8965907987342403970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Magic and Missiles_38
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 207
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cb200966f5ed720800000000000000
+      internalID: 2872838506416356405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Magic and Missiles_39
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 208
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ecaf670e5e34c00800000000000000
+      internalID: 883802704126332439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Magic and Missiles_40
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 206
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66810a89e61b4320800000000000000
+      internalID: 2543151606879323755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Magic and Missiles_41
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 215
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c8daa810dfc50f0800000000000000
+      internalID: -1126747623686042473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Magic and Missiles_42
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 209
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1178180dac922b0800000000000000
+      internalID: -5608728864038120976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Magic and Missiles_43
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 203
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736e9346352fda5f0800000000000000
+      internalID: -743671923468540361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Magic and Missiles_44
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 202
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4429e989b889fafe0800000000000000
+      internalID: -1175553252392005052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Magic and Missiles_45
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 200
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b1febd13b2543f0800000000000000
+      internalID: -917279455956755577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Warcraft 2 - Magic and Missiles_46
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 198
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba930a2f8acb14050800000000000000
+      internalID: 5783110830331541931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

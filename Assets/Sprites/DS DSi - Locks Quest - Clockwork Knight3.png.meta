@@ -1,0 +1,1409 @@
+fileFormatVersion: 2
+guid: 94717e097ac09be4da77f6b2e38fa5c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6750596529061351510
+    second: DS DSi - Locks Quest - Clockwork Knight3_0
+  - first:
+      213: -5214342025316996334
+    second: DS DSi - Locks Quest - Clockwork Knight3_1
+  - first:
+      213: 5532393427519810615
+    second: DS DSi - Locks Quest - Clockwork Knight3_2
+  - first:
+      213: -2623736583190038174
+    second: DS DSi - Locks Quest - Clockwork Knight3_3
+  - first:
+      213: -4720995180337362466
+    second: DS DSi - Locks Quest - Clockwork Knight3_4
+  - first:
+      213: -6099041436896338189
+    second: DS DSi - Locks Quest - Clockwork Knight3_5
+  - first:
+      213: -2234748037075318184
+    second: DS DSi - Locks Quest - Clockwork Knight3_6
+  - first:
+      213: -4971327388104890457
+    second: DS DSi - Locks Quest - Clockwork Knight3_7
+  - first:
+      213: -5807282242011124609
+    second: DS DSi - Locks Quest - Clockwork Knight3_8
+  - first:
+      213: 1215913118059312279
+    second: DS DSi - Locks Quest - Clockwork Knight3_9
+  - first:
+      213: 4314652011671910757
+    second: DS DSi - Locks Quest - Clockwork Knight3_10
+  - first:
+      213: -1465178961951443783
+    second: DS DSi - Locks Quest - Clockwork Knight3_11
+  - first:
+      213: -9042321167792364933
+    second: DS DSi - Locks Quest - Clockwork Knight3_12
+  - first:
+      213: 7258940479448378232
+    second: DS DSi - Locks Quest - Clockwork Knight3_13
+  - first:
+      213: 6993177058753023615
+    second: DS DSi - Locks Quest - Clockwork Knight3_14
+  - first:
+      213: -6299561036828963981
+    second: DS DSi - Locks Quest - Clockwork Knight3_15
+  - first:
+      213: -4502747083174046071
+    second: DS DSi - Locks Quest - Clockwork Knight3_16
+  - first:
+      213: -7292631651682880612
+    second: DS DSi - Locks Quest - Clockwork Knight3_17
+  - first:
+      213: 3840759454229656784
+    second: DS DSi - Locks Quest - Clockwork Knight3_18
+  - first:
+      213: -5152379433056239177
+    second: DS DSi - Locks Quest - Clockwork Knight3_19
+  - first:
+      213: -2053419626340285282
+    second: DS DSi - Locks Quest - Clockwork Knight3_20
+  - first:
+      213: -944546791557923847
+    second: DS DSi - Locks Quest - Clockwork Knight3_21
+  - first:
+      213: -5756731267571662328
+    second: DS DSi - Locks Quest - Clockwork Knight3_22
+  - first:
+      213: -2696823207148652733
+    second: DS DSi - Locks Quest - Clockwork Knight3_23
+  - first:
+      213: 7488447350295237072
+    second: DS DSi - Locks Quest - Clockwork Knight3_24
+  - first:
+      213: 3880731878801879528
+    second: DS DSi - Locks Quest - Clockwork Knight3_25
+  - first:
+      213: -4454772555906463616
+    second: DS DSi - Locks Quest - Clockwork Knight3_26
+  - first:
+      213: 4333616032352396873
+    second: DS DSi - Locks Quest - Clockwork Knight3_27
+  - first:
+      213: -5649294913267653513
+    second: DS DSi - Locks Quest - Clockwork Knight3_28
+  - first:
+      213: 1039057829382435889
+    second: DS DSi - Locks Quest - Clockwork Knight3_29
+  - first:
+      213: -6770570821950520559
+    second: DS DSi - Locks Quest - Clockwork Knight3_30
+  - first:
+      213: -1157456564972794767
+    second: DS DSi - Locks Quest - Clockwork Knight3_31
+  - first:
+      213: -145201075103441694
+    second: DS DSi - Locks Quest - Clockwork Knight3_32
+  - first:
+      213: -432131972308672900
+    second: DS DSi - Locks Quest - Clockwork Knight3_33
+  - first:
+      213: -2491492557997087194
+    second: DS DSi - Locks Quest - Clockwork Knight3_34
+  - first:
+      213: 9015905636308797140
+    second: DS DSi - Locks Quest - Clockwork Knight3_35
+  - first:
+      213: -8888389124842861002
+    second: DS DSi - Locks Quest - Clockwork Knight3_36
+  - first:
+      213: 3921526409881715330
+    second: DS DSi - Locks Quest - Clockwork Knight3_37
+  - first:
+      213: -123374159979261281
+    second: DS DSi - Locks Quest - Clockwork Knight3_38
+  - first:
+      213: -2799388292730814999
+    second: DS DSi - Locks Quest - Clockwork Knight3_39
+  - first:
+      213: -500458589561078499
+    second: DS DSi - Locks Quest - Clockwork Knight3_40
+  - first:
+      213: 4107428371861221795
+    second: DS DSi - Locks Quest - Clockwork Knight3_41
+  - first:
+      213: 6906790219925874650
+    second: DS DSi - Locks Quest - Clockwork Knight3_42
+  - first:
+      213: -3158592351800177846
+    second: DS DSi - Locks Quest - Clockwork Knight3_43
+  - first:
+      213: 5052635560851372185
+    second: DS DSi - Locks Quest - Clockwork Knight3_44
+  - first:
+      213: 255262465271065560
+    second: DS DSi - Locks Quest - Clockwork Knight3_45
+  - first:
+      213: 3401193168890995414
+    second: DS DSi - Locks Quest - Clockwork Knight3_46
+  - first:
+      213: -8582223693892855967
+    second: DS DSi - Locks Quest - Clockwork Knight3_47
+  - first:
+      213: 4449438794639623352
+    second: DS DSi - Locks Quest - Clockwork Knight3_48
+  - first:
+      213: -9113071663433962530
+    second: DS DSi - Locks Quest - Clockwork Knight3_49
+  - first:
+      213: 1172307245876361056
+    second: DS DSi - Locks Quest - Clockwork Knight3_50
+  - first:
+      213: -811768423434408920
+    second: DS DSi - Locks Quest - Clockwork Knight3_51
+  - first:
+      213: 7987026299491967622
+    second: DS DSi - Locks Quest - Clockwork Knight3_52
+  - first:
+      213: -5942750343847662047
+    second: DS DSi - Locks Quest - Clockwork Knight3_53
+  - first:
+      213: 6278764091826188769
+    second: DS DSi - Locks Quest - Clockwork Knight3_54
+  - first:
+      213: 7894902361808691832
+    second: DS DSi - Locks Quest - Clockwork Knight3_55
+  - first:
+      213: 3255874807518099464
+    second: DS DSi - Locks Quest - Clockwork Knight3_56
+  - first:
+      213: 1485968364829976917
+    second: DS DSi - Locks Quest - Clockwork Knight3_57
+  - first:
+      213: -9098237401337782194
+    second: DS DSi - Locks Quest - Clockwork Knight3_58
+  - first:
+      213: 3664233401157393244
+    second: DS DSi - Locks Quest - Clockwork Knight3_59
+  - first:
+      213: 1964697690766893574
+    second: DS DSi - Locks Quest - Clockwork Knight3_60
+  - first:
+      213: -614489669000893333
+    second: DS DSi - Locks Quest - Clockwork Knight3_61
+  - first:
+      213: -3078035357411222315
+    second: DS DSi - Locks Quest - Clockwork Knight3_62
+  - first:
+      213: -458367037376604462
+    second: DS DSi - Locks Quest - Clockwork Knight3_63
+  - first:
+      213: -6490058883499032455
+    second: DS DSi - Locks Quest - Clockwork Knight3_64
+  - first:
+      213: -5778614147798665876
+    second: DS DSi - Locks Quest - Clockwork Knight3_65
+  - first:
+      213: -219376223667045078
+    second: DS DSi - Locks Quest - Clockwork Knight3_66
+  - first:
+      213: 1131365745632401594
+    second: DS DSi - Locks Quest - Clockwork Knight3_67
+  - first:
+      213: 8130082409201960972
+    second: DS DSi - Locks Quest - Clockwork Knight3_68
+  - first:
+      213: -6989533644096687324
+    second: DS DSi - Locks Quest - Clockwork Knight3_69
+  - first:
+      213: 479506119961303345
+    second: DS DSi - Locks Quest - Clockwork Knight3_70
+  - first:
+      213: -6349836869791552587
+    second: DS DSi - Locks Quest - Clockwork Knight3_71
+  - first:
+      213: -5239937495490096322
+    second: DS DSi - Locks Quest - Clockwork Knight3_72
+  - first:
+      213: -7368018233612305196
+    second: DS DSi - Locks Quest - Clockwork Knight3_73
+  - first:
+      213: -15006304451913996
+    second: DS DSi - Locks Quest - Clockwork Knight3_74
+  - first:
+      213: 2390227520281269566
+    second: DS DSi - Locks Quest - Clockwork Knight3_75
+  - first:
+      213: -454767382535404427
+    second: DS DSi - Locks Quest - Clockwork Knight3_76
+  - first:
+      213: 7089158309079025761
+    second: DS DSi - Locks Quest - Clockwork Knight3_77
+  - first:
+      213: 2829368522521126787
+    second: DS DSi - Locks Quest - Clockwork Knight3_78
+  - first:
+      213: -996605089315077892
+    second: DS DSi - Locks Quest - Clockwork Knight3_79
+  - first:
+      213: -6857456193040607379
+    second: DS DSi - Locks Quest - Clockwork Knight3_80
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650dfa8e6cfeead50800000000000000
+      internalID: 6750596529061351510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 424
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21be6930e8fe2a7b0800000000000000
+      internalID: -5214342025316996334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 424
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c260da28207cc40800000000000000
+      internalID: 5532393427519810615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 424
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269b2ce8a7d969bd0800000000000000
+      internalID: -2623736583190038174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 424
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed909a975e7ab7eb0800000000000000
+      internalID: -4720995180337362466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 424
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fed763902adb5ba0800000000000000
+      internalID: -6099041436896338189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 375
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794b9a7e98acfd010800000000000000
+      internalID: 1215913118059312279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 375
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569f0250529b0eb30800000000000000
+      internalID: 4314652011671910757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 375
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b432883f73aaabe0800000000000000
+      internalID: -1465178961951443783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_12
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 375
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72adb06ec8338280800000000000000
+      internalID: -9042321167792364933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_13
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 375
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b693318efecb460800000000000000
+      internalID: 7258940479448378232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_14
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 375
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e8266cb71cc0160800000000000000
+      internalID: 6993177058753023615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 326
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4f419df5e1d4530800000000000000
+      internalID: 3840759454229656784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 326
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b187a044321f78b0800000000000000
+      internalID: -5152379433056239177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_20
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 326
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e940c25bab9c083e0800000000000000
+      internalID: -2053419626340285282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_21
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 326
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb747f82bb44e2f0800000000000000
+      internalID: -944546791557923847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_22
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 326
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802c101a96bfb10b0800000000000000
+      internalID: -5756731267571662328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_23
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 326
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347ffdbd495f29ad0800000000000000
+      internalID: -2696823207148652733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 277
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9466d4922d8142c30800000000000000
+      internalID: 4333616032352396873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 277
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774a247253ca991b0800000000000000
+      internalID: -5649294913267653513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_29
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 277
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134bd6537997b6e00800000000000000
+      internalID: 1039057829382435889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_30
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 277
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113c30f95b91a02a0800000000000000
+      internalID: -6770570821950520559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_31
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 277
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c4ad9f263efefe0800000000000000
+      internalID: -1157456564972794767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_32
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 277
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec547934642cfdf0800000000000000
+      internalID: -145201075103441694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ecb440f2916a480800000000000000
+      internalID: -8888389124842861002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_37
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 220
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282005e1e7f0c6630800000000000000
+      internalID: 3921526409881715330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_39
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 220
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed7467fd239629d0800000000000000
+      internalID: -2799388292730814999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_40
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 220
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d3b6870930e09f0800000000000000
+      internalID: -500458589561078499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_41
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 220
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a136259754800930800000000000000
+      internalID: 4107428371861221795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_43
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 220
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b4fa0bdfc6a24d0800000000000000
+      internalID: -3158592351800177846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbe8f61cdfda8300800000000000000
+      internalID: 255262465271065560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_47
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 163
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167539e5501d5e880800000000000000
+      internalID: -8582223693892855967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_49
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 163
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb2750fa9dd78180800000000000000
+      internalID: -9113071663433962530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_50
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 163
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067b31e9a3fd44010800000000000000
+      internalID: 1172307245876361056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_52
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 163
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682ebe03a1e97de60800000000000000
+      internalID: 7987026299491967622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_53
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 163
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e212e5c0c178da0800000000000000
+      internalID: -5942750343847662047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e137c9dca6a22750800000000000000
+      internalID: 6278764091826188769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_56
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 106
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808724713e03f2d20800000000000000
+      internalID: 3255874807518099464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_57
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 106
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559a825da583f9410800000000000000
+      internalID: 1485968364829976917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_59
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 106
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b9b1a4dd8f9d230800000000000000
+      internalID: 3664233401157393244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_61
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 106
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ced09d6e4e877f0800000000000000
+      internalID: -614489669000893333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_62
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 106
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc596b862f9845d0800000000000000
+      internalID: -3078035357411222315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d65b68ab9d83a9f0800000000000000
+      internalID: -458367037376604462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_64
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 49
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9700cadc4ddaee5a0800000000000000
+      internalID: -6490058883499032455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_65
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 49
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65f96a8c0d3ecfa0800000000000000
+      internalID: -5778614147798665876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_66
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 49
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2db824ac7e94fcf0800000000000000
+      internalID: -219376223667045078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_67
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 49
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8d673c62b63bf00800000000000000
+      internalID: 1131365745632401594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_68
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 49
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08822b40ead3d070800000000000000
+      internalID: 8130082409201960972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3310183c900847b0800000000000000
+      internalID: -5239937495490096322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Knight3_73
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcffe6347a8fb990800000000000000
+      internalID: -7368018233612305196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

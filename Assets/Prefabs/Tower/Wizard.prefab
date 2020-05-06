@@ -366,9 +366,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e274a3a08ce73d54a9c14428319f348a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  towerIndex: 1
   towerPrice: 80
-  projectileSpeed: 3
-  attackCooldown: 1
   projectileType: WizardProjectile
   towerSprites:
   - {fileID: -6781790539752713843, guid: baef29a03bc597347985b09a991bf8e3, type: 3}
@@ -378,4 +377,5 @@ MonoBehaviour:
   - {fileID: -2535046061026775248, guid: baef29a03bc597347985b09a991bf8e3, type: 3}
   - {fileID: 8964924953716312055, guid: baef29a03bc597347985b09a991bf8e3, type: 3}
   - {fileID: -5769295240381031883, guid: baef29a03bc597347985b09a991bf8e3, type: 3}
-  damage: 2
+  elementType: 1
+  towerRange: {fileID: 3789049221576815366}

@@ -1,0 +1,4433 @@
+fileFormatVersion: 2
+guid: e176a0d5b0ac4a4458c94a5a17529b60
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5743461979105000328
+    second: DS DSi - Locks Quest - Kingdom Force_0
+  - first:
+      213: 2152146996207593456
+    second: DS DSi - Locks Quest - Kingdom Force_1
+  - first:
+      213: -5846686768862773635
+    second: DS DSi - Locks Quest - Kingdom Force_2
+  - first:
+      213: -7600443953468336953
+    second: DS DSi - Locks Quest - Kingdom Force_3
+  - first:
+      213: -4329508645931376543
+    second: DS DSi - Locks Quest - Kingdom Force_4
+  - first:
+      213: 2737569621811316894
+    second: DS DSi - Locks Quest - Kingdom Force_5
+  - first:
+      213: 1825601182732821741
+    second: DS DSi - Locks Quest - Kingdom Force_6
+  - first:
+      213: 7934987927629961999
+    second: DS DSi - Locks Quest - Kingdom Force_7
+  - first:
+      213: -31060349046690470
+    second: DS DSi - Locks Quest - Kingdom Force_8
+  - first:
+      213: -7957003550308521036
+    second: DS DSi - Locks Quest - Kingdom Force_9
+  - first:
+      213: -7024211089622198583
+    second: DS DSi - Locks Quest - Kingdom Force_10
+  - first:
+      213: -4960535274388069909
+    second: DS DSi - Locks Quest - Kingdom Force_11
+  - first:
+      213: 6428279302988826866
+    second: DS DSi - Locks Quest - Kingdom Force_12
+  - first:
+      213: -4139996016432338989
+    second: DS DSi - Locks Quest - Kingdom Force_13
+  - first:
+      213: 4929562001621947585
+    second: DS DSi - Locks Quest - Kingdom Force_14
+  - first:
+      213: 238407980663214306
+    second: DS DSi - Locks Quest - Kingdom Force_15
+  - first:
+      213: -7294718916518565737
+    second: DS DSi - Locks Quest - Kingdom Force_16
+  - first:
+      213: 5937383854197816555
+    second: DS DSi - Locks Quest - Kingdom Force_17
+  - first:
+      213: 5478765790420364755
+    second: DS DSi - Locks Quest - Kingdom Force_18
+  - first:
+      213: -633597369639393107
+    second: DS DSi - Locks Quest - Kingdom Force_19
+  - first:
+      213: -5431325998099363623
+    second: DS DSi - Locks Quest - Kingdom Force_20
+  - first:
+      213: 813679623736107541
+    second: DS DSi - Locks Quest - Kingdom Force_21
+  - first:
+      213: 423149242350464212
+    second: DS DSi - Locks Quest - Kingdom Force_22
+  - first:
+      213: -3800138932856732680
+    second: DS DSi - Locks Quest - Kingdom Force_23
+  - first:
+      213: 5605966940907473258
+    second: DS DSi - Locks Quest - Kingdom Force_24
+  - first:
+      213: 7626750234957537248
+    second: DS DSi - Locks Quest - Kingdom Force_25
+  - first:
+      213: -8800206204089573775
+    second: DS DSi - Locks Quest - Kingdom Force_26
+  - first:
+      213: -76013157107651729
+    second: DS DSi - Locks Quest - Kingdom Force_27
+  - first:
+      213: -7361620665807651884
+    second: DS DSi - Locks Quest - Kingdom Force_28
+  - first:
+      213: -58914248349920269
+    second: DS DSi - Locks Quest - Kingdom Force_29
+  - first:
+      213: -2448615123084389717
+    second: DS DSi - Locks Quest - Kingdom Force_30
+  - first:
+      213: -6115461444220541600
+    second: DS DSi - Locks Quest - Kingdom Force_31
+  - first:
+      213: -7828692976931637174
+    second: DS DSi - Locks Quest - Kingdom Force_32
+  - first:
+      213: 8246620281635818743
+    second: DS DSi - Locks Quest - Kingdom Force_33
+  - first:
+      213: -691515888082663758
+    second: DS DSi - Locks Quest - Kingdom Force_34
+  - first:
+      213: -565423156122436092
+    second: DS DSi - Locks Quest - Kingdom Force_35
+  - first:
+      213: -54318527274442288
+    second: DS DSi - Locks Quest - Kingdom Force_36
+  - first:
+      213: -3919590615555314647
+    second: DS DSi - Locks Quest - Kingdom Force_37
+  - first:
+      213: -7877510645776593217
+    second: DS DSi - Locks Quest - Kingdom Force_38
+  - first:
+      213: 8265887829036848007
+    second: DS DSi - Locks Quest - Kingdom Force_39
+  - first:
+      213: 4507935925439928549
+    second: DS DSi - Locks Quest - Kingdom Force_40
+  - first:
+      213: -8214305784185043204
+    second: DS DSi - Locks Quest - Kingdom Force_41
+  - first:
+      213: -312477222549759520
+    second: DS DSi - Locks Quest - Kingdom Force_42
+  - first:
+      213: 1568806037151922152
+    second: DS DSi - Locks Quest - Kingdom Force_43
+  - first:
+      213: -3510180882042941274
+    second: DS DSi - Locks Quest - Kingdom Force_44
+  - first:
+      213: 3291756914699788113
+    second: DS DSi - Locks Quest - Kingdom Force_45
+  - first:
+      213: 2468715933345666875
+    second: DS DSi - Locks Quest - Kingdom Force_46
+  - first:
+      213: -2665411723588714725
+    second: DS DSi - Locks Quest - Kingdom Force_47
+  - first:
+      213: 3393549056812390672
+    second: DS DSi - Locks Quest - Kingdom Force_48
+  - first:
+      213: 1355725520903933202
+    second: DS DSi - Locks Quest - Kingdom Force_49
+  - first:
+      213: 8154395270781170437
+    second: DS DSi - Locks Quest - Kingdom Force_50
+  - first:
+      213: 2344271275976565779
+    second: DS DSi - Locks Quest - Kingdom Force_51
+  - first:
+      213: -2919103558339177770
+    second: DS DSi - Locks Quest - Kingdom Force_52
+  - first:
+      213: -8117453142795413859
+    second: DS DSi - Locks Quest - Kingdom Force_53
+  - first:
+      213: -3219935689676277903
+    second: DS DSi - Locks Quest - Kingdom Force_54
+  - first:
+      213: -3987917791867383045
+    second: DS DSi - Locks Quest - Kingdom Force_55
+  - first:
+      213: -2648404352482722338
+    second: DS DSi - Locks Quest - Kingdom Force_56
+  - first:
+      213: 3826993900910760570
+    second: DS DSi - Locks Quest - Kingdom Force_57
+  - first:
+      213: -8590276917721990985
+    second: DS DSi - Locks Quest - Kingdom Force_58
+  - first:
+      213: 7595822647607925475
+    second: DS DSi - Locks Quest - Kingdom Force_59
+  - first:
+      213: -2276770896988558500
+    second: DS DSi - Locks Quest - Kingdom Force_60
+  - first:
+      213: 1670001710199281056
+    second: DS DSi - Locks Quest - Kingdom Force_61
+  - first:
+      213: -3833896935073411534
+    second: DS DSi - Locks Quest - Kingdom Force_62
+  - first:
+      213: -9193231426161652921
+    second: DS DSi - Locks Quest - Kingdom Force_63
+  - first:
+      213: 8394536642016055594
+    second: DS DSi - Locks Quest - Kingdom Force_64
+  - first:
+      213: 7199567277661739405
+    second: DS DSi - Locks Quest - Kingdom Force_65
+  - first:
+      213: -6588762044987452919
+    second: DS DSi - Locks Quest - Kingdom Force_66
+  - first:
+      213: 9074230705220608860
+    second: DS DSi - Locks Quest - Kingdom Force_67
+  - first:
+      213: 5628181050180865624
+    second: DS DSi - Locks Quest - Kingdom Force_68
+  - first:
+      213: -8985115656360038327
+    second: DS DSi - Locks Quest - Kingdom Force_69
+  - first:
+      213: -2485404218971159445
+    second: DS DSi - Locks Quest - Kingdom Force_70
+  - first:
+      213: -26106216425286208
+    second: DS DSi - Locks Quest - Kingdom Force_71
+  - first:
+      213: 6130086874638338197
+    second: DS DSi - Locks Quest - Kingdom Force_72
+  - first:
+      213: -4217665468051660889
+    second: DS DSi - Locks Quest - Kingdom Force_73
+  - first:
+      213: 2522928932313698428
+    second: DS DSi - Locks Quest - Kingdom Force_74
+  - first:
+      213: 8148416299028715381
+    second: DS DSi - Locks Quest - Kingdom Force_75
+  - first:
+      213: -3770704470628621015
+    second: DS DSi - Locks Quest - Kingdom Force_76
+  - first:
+      213: 7120994959137251541
+    second: DS DSi - Locks Quest - Kingdom Force_77
+  - first:
+      213: 4357636231375054957
+    second: DS DSi - Locks Quest - Kingdom Force_78
+  - first:
+      213: 8541006370050700100
+    second: DS DSi - Locks Quest - Kingdom Force_79
+  - first:
+      213: 7215403928801779995
+    second: DS DSi - Locks Quest - Kingdom Force_80
+  - first:
+      213: -2947858686491793295
+    second: DS DSi - Locks Quest - Kingdom Force_81
+  - first:
+      213: 680894964555052986
+    second: DS DSi - Locks Quest - Kingdom Force_82
+  - first:
+      213: 3697413768452308807
+    second: DS DSi - Locks Quest - Kingdom Force_83
+  - first:
+      213: -7868457619399328272
+    second: DS DSi - Locks Quest - Kingdom Force_84
+  - first:
+      213: 6683353202193678745
+    second: DS DSi - Locks Quest - Kingdom Force_85
+  - first:
+      213: -1055427985979177792
+    second: DS DSi - Locks Quest - Kingdom Force_86
+  - first:
+      213: -6172258871056281752
+    second: DS DSi - Locks Quest - Kingdom Force_87
+  - first:
+      213: 2396331590431093130
+    second: DS DSi - Locks Quest - Kingdom Force_88
+  - first:
+      213: 9204089368147692249
+    second: DS DSi - Locks Quest - Kingdom Force_89
+  - first:
+      213: 2217431891491830520
+    second: DS DSi - Locks Quest - Kingdom Force_90
+  - first:
+      213: 1675367232984813277
+    second: DS DSi - Locks Quest - Kingdom Force_91
+  - first:
+      213: -6051257058183935480
+    second: DS DSi - Locks Quest - Kingdom Force_92
+  - first:
+      213: -7062643993253533387
+    second: DS DSi - Locks Quest - Kingdom Force_93
+  - first:
+      213: -6855239723339345260
+    second: DS DSi - Locks Quest - Kingdom Force_94
+  - first:
+      213: 5631079299032801126
+    second: DS DSi - Locks Quest - Kingdom Force_95
+  - first:
+      213: -39837537822100393
+    second: DS DSi - Locks Quest - Kingdom Force_96
+  - first:
+      213: -5961197972521125813
+    second: DS DSi - Locks Quest - Kingdom Force_97
+  - first:
+      213: -5425637851511058858
+    second: DS DSi - Locks Quest - Kingdom Force_98
+  - first:
+      213: 4546954531591936412
+    second: DS DSi - Locks Quest - Kingdom Force_99
+  - first:
+      213: -4991913745457580576
+    second: DS DSi - Locks Quest - Kingdom Force_100
+  - first:
+      213: -7016192849405026466
+    second: DS DSi - Locks Quest - Kingdom Force_101
+  - first:
+      213: 2424532036257857709
+    second: DS DSi - Locks Quest - Kingdom Force_102
+  - first:
+      213: -6631339268682467164
+    second: DS DSi - Locks Quest - Kingdom Force_103
+  - first:
+      213: 6523793528033928004
+    second: DS DSi - Locks Quest - Kingdom Force_104
+  - first:
+      213: 4319451270730025441
+    second: DS DSi - Locks Quest - Kingdom Force_105
+  - first:
+      213: -49414231624960937
+    second: DS DSi - Locks Quest - Kingdom Force_106
+  - first:
+      213: 41470000870842397
+    second: DS DSi - Locks Quest - Kingdom Force_107
+  - first:
+      213: -8015132207004070825
+    second: DS DSi - Locks Quest - Kingdom Force_108
+  - first:
+      213: -5615465051839955310
+    second: DS DSi - Locks Quest - Kingdom Force_109
+  - first:
+      213: 30155174484343703
+    second: DS DSi - Locks Quest - Kingdom Force_110
+  - first:
+      213: -6157829008952852230
+    second: DS DSi - Locks Quest - Kingdom Force_111
+  - first:
+      213: -1378759070960954504
+    second: DS DSi - Locks Quest - Kingdom Force_112
+  - first:
+      213: 4129223335473558546
+    second: DS DSi - Locks Quest - Kingdom Force_113
+  - first:
+      213: -6595188120533980008
+    second: DS DSi - Locks Quest - Kingdom Force_114
+  - first:
+      213: 4153016067655476474
+    second: DS DSi - Locks Quest - Kingdom Force_115
+  - first:
+      213: 1166481807882955069
+    second: DS DSi - Locks Quest - Kingdom Force_116
+  - first:
+      213: -3075623321221839420
+    second: DS DSi - Locks Quest - Kingdom Force_117
+  - first:
+      213: -7081920090917496424
+    second: DS DSi - Locks Quest - Kingdom Force_118
+  - first:
+      213: 5206441633811528562
+    second: DS DSi - Locks Quest - Kingdom Force_119
+  - first:
+      213: -2132537697633141071
+    second: DS DSi - Locks Quest - Kingdom Force_120
+  - first:
+      213: -3131151067156672167
+    second: DS DSi - Locks Quest - Kingdom Force_121
+  - first:
+      213: 2756374912613004879
+    second: DS DSi - Locks Quest - Kingdom Force_122
+  - first:
+      213: -7500981016247116618
+    second: DS DSi - Locks Quest - Kingdom Force_123
+  - first:
+      213: 627410643812938757
+    second: DS DSi - Locks Quest - Kingdom Force_124
+  - first:
+      213: -8447254186043013896
+    second: DS DSi - Locks Quest - Kingdom Force_125
+  - first:
+      213: -4331274852301554178
+    second: DS DSi - Locks Quest - Kingdom Force_126
+  - first:
+      213: 8673659296576343514
+    second: DS DSi - Locks Quest - Kingdom Force_127
+  - first:
+      213: -1645020215672495721
+    second: DS DSi - Locks Quest - Kingdom Force_128
+  - first:
+      213: -6228950751718616464
+    second: DS DSi - Locks Quest - Kingdom Force_129
+  - first:
+      213: -4930482665789268208
+    second: DS DSi - Locks Quest - Kingdom Force_130
+  - first:
+      213: 1378863545674948527
+    second: DS DSi - Locks Quest - Kingdom Force_131
+  - first:
+      213: 4238758243516190149
+    second: DS DSi - Locks Quest - Kingdom Force_132
+  - first:
+      213: 163518114292460159
+    second: DS DSi - Locks Quest - Kingdom Force_133
+  - first:
+      213: 1288432468454421626
+    second: DS DSi - Locks Quest - Kingdom Force_134
+  - first:
+      213: 4718918719970533933
+    second: DS DSi - Locks Quest - Kingdom Force_135
+  - first:
+      213: -2791089459973625748
+    second: DS DSi - Locks Quest - Kingdom Force_136
+  - first:
+      213: 4785091921232259967
+    second: DS DSi - Locks Quest - Kingdom Force_137
+  - first:
+      213: -3997770254879714126
+    second: DS DSi - Locks Quest - Kingdom Force_138
+  - first:
+      213: 1513986500088399229
+    second: DS DSi - Locks Quest - Kingdom Force_139
+  - first:
+      213: 4714901857383062374
+    second: DS DSi - Locks Quest - Kingdom Force_140
+  - first:
+      213: 8879730300316050621
+    second: DS DSi - Locks Quest - Kingdom Force_141
+  - first:
+      213: -3469351572038134212
+    second: DS DSi - Locks Quest - Kingdom Force_142
+  - first:
+      213: 2554074392091160895
+    second: DS DSi - Locks Quest - Kingdom Force_143
+  - first:
+      213: 7834780274089444663
+    second: DS DSi - Locks Quest - Kingdom Force_144
+  - first:
+      213: 5386777745595674220
+    second: DS DSi - Locks Quest - Kingdom Force_145
+  - first:
+      213: -2505589297199888392
+    second: DS DSi - Locks Quest - Kingdom Force_146
+  - first:
+      213: -3575567628175422827
+    second: DS DSi - Locks Quest - Kingdom Force_147
+  - first:
+      213: 6332120688455133263
+    second: DS DSi - Locks Quest - Kingdom Force_148
+  - first:
+      213: 260664154147584103
+    second: DS DSi - Locks Quest - Kingdom Force_149
+  - first:
+      213: 7141740059469387356
+    second: DS DSi - Locks Quest - Kingdom Force_150
+  - first:
+      213: 1014474963525912329
+    second: DS DSi - Locks Quest - Kingdom Force_151
+  - first:
+      213: -429270558630779483
+    second: DS DSi - Locks Quest - Kingdom Force_152
+  - first:
+      213: 1183332946439634
+    second: DS DSi - Locks Quest - Kingdom Force_153
+  - first:
+      213: 2129662997697799099
+    second: DS DSi - Locks Quest - Kingdom Force_154
+  - first:
+      213: -8469915876125908358
+    second: DS DSi - Locks Quest - Kingdom Force_155
+  - first:
+      213: -2062236416878954507
+    second: DS DSi - Locks Quest - Kingdom Force_156
+  - first:
+      213: -420878760124104317
+    second: DS DSi - Locks Quest - Kingdom Force_157
+  - first:
+      213: 2100859406248552550
+    second: DS DSi - Locks Quest - Kingdom Force_158
+  - first:
+      213: 1970905157937706593
+    second: DS DSi - Locks Quest - Kingdom Force_159
+  - first:
+      213: -4355485269834692190
+    second: DS DSi - Locks Quest - Kingdom Force_160
+  - first:
+      213: -7806940776769946605
+    second: DS DSi - Locks Quest - Kingdom Force_161
+  - first:
+      213: 6836731077349912763
+    second: DS DSi - Locks Quest - Kingdom Force_162
+  - first:
+      213: -2478794371386815978
+    second: DS DSi - Locks Quest - Kingdom Force_163
+  - first:
+      213: 8001781518492103828
+    second: DS DSi - Locks Quest - Kingdom Force_164
+  - first:
+      213: -7245349626601271866
+    second: DS DSi - Locks Quest - Kingdom Force_165
+  - first:
+      213: 3859304301385930916
+    second: DS DSi - Locks Quest - Kingdom Force_166
+  - first:
+      213: -7440862027571437885
+    second: DS DSi - Locks Quest - Kingdom Force_167
+  - first:
+      213: 8417280992009014054
+    second: DS DSi - Locks Quest - Kingdom Force_168
+  - first:
+      213: 8998107625580602529
+    second: DS DSi - Locks Quest - Kingdom Force_169
+  - first:
+      213: 5782637623978333650
+    second: DS DSi - Locks Quest - Kingdom Force_170
+  - first:
+      213: -6598261145817014952
+    second: DS DSi - Locks Quest - Kingdom Force_171
+  - first:
+      213: 1485456818798022375
+    second: DS DSi - Locks Quest - Kingdom Force_172
+  - first:
+      213: -8890031852149181254
+    second: DS DSi - Locks Quest - Kingdom Force_173
+  - first:
+      213: 3588976332932440992
+    second: DS DSi - Locks Quest - Kingdom Force_174
+  - first:
+      213: 9107784401316027321
+    second: DS DSi - Locks Quest - Kingdom Force_175
+  - first:
+      213: 769534851540979794
+    second: DS DSi - Locks Quest - Kingdom Force_176
+  - first:
+      213: 8776233400171777936
+    second: DS DSi - Locks Quest - Kingdom Force_177
+  - first:
+      213: -3658083657069471011
+    second: DS DSi - Locks Quest - Kingdom Force_178
+  - first:
+      213: -3918418345170056842
+    second: DS DSi - Locks Quest - Kingdom Force_179
+  - first:
+      213: 1822365145572173328
+    second: DS DSi - Locks Quest - Kingdom Force_180
+  - first:
+      213: -7658298773672618373
+    second: DS DSi - Locks Quest - Kingdom Force_181
+  - first:
+      213: -6210032854943624641
+    second: DS DSi - Locks Quest - Kingdom Force_182
+  - first:
+      213: -5200154400437049361
+    second: DS DSi - Locks Quest - Kingdom Force_183
+  - first:
+      213: 4177404054055346386
+    second: DS DSi - Locks Quest - Kingdom Force_184
+  - first:
+      213: -384949848974270581
+    second: DS DSi - Locks Quest - Kingdom Force_185
+  - first:
+      213: 7524385340508611628
+    second: DS DSi - Locks Quest - Kingdom Force_186
+  - first:
+      213: -6335759436799070138
+    second: DS DSi - Locks Quest - Kingdom Force_187
+  - first:
+      213: -7518670934292422141
+    second: DS DSi - Locks Quest - Kingdom Force_188
+  - first:
+      213: 351140772270134330
+    second: DS DSi - Locks Quest - Kingdom Force_189
+  - first:
+      213: 8639689544283412182
+    second: DS DSi - Locks Quest - Kingdom Force_190
+  - first:
+      213: -6306022339032255529
+    second: DS DSi - Locks Quest - Kingdom Force_191
+  - first:
+      213: -5631365837199612213
+    second: DS DSi - Locks Quest - Kingdom Force_192
+  - first:
+      213: 9025010127291613040
+    second: DS DSi - Locks Quest - Kingdom Force_193
+  - first:
+      213: 7897101563789186960
+    second: DS DSi - Locks Quest - Kingdom Force_194
+  - first:
+      213: -9144904227763073629
+    second: DS DSi - Locks Quest - Kingdom Force_195
+  - first:
+      213: -1409650979375234249
+    second: DS DSi - Locks Quest - Kingdom Force_196
+  - first:
+      213: -7710372533542978864
+    second: DS DSi - Locks Quest - Kingdom Force_197
+  - first:
+      213: -9089829110465912079
+    second: DS DSi - Locks Quest - Kingdom Force_198
+  - first:
+      213: -8468230732930398929
+    second: DS DSi - Locks Quest - Kingdom Force_199
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 787
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8740c7a92cf1b40b0800000000000000
+      internalID: -5743461979105000328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 787
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7a06d5a46fddd10800000000000000
+      internalID: 2152146996207593456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 787
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e35fc5c556cdea0800000000000000
+      internalID: -5846686768862773635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_3
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 787
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c411424e7cc58690800000000000000
+      internalID: -7600443953468336953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_4
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 787
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160274343de7ae3c0800000000000000
+      internalID: -4329508645931376543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 787
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98c6f7111dcdf520800000000000000
+      internalID: 2737569621811316894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 782
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4a25e6a96d55910800000000000000
+      internalID: 1825601182732821741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 782
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b95639a7dbe1e60800000000000000
+      internalID: 7934987927629961999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_8
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 782
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5de870f6c6a19ff0800000000000000
+      internalID: -31060349046690470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 782
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bba653dd6b039190800000000000000
+      internalID: -7957003550308521036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_10
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 782
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c695b7da3df48e90800000000000000
+      internalID: -7024211089622198583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_11
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 782
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1ed423373a82bb0800000000000000
+      internalID: -4960535274388069909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 743
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f805a3b7f5d53950800000000000000
+      internalID: 6428279302988826866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 743
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7a405ce87cb86c0800000000000000
+      internalID: -4139996016432338989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_14
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 743
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c490f4c582596440800000000000000
+      internalID: 4929562001621947585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_15
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 743
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e09c079bcefe4300800000000000000
+      internalID: 238407980663214306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_16
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 743
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798a6946bc3f3ca90800000000000000
+      internalID: -7294718916518565737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_17
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 743
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becb9946823d56250800000000000000
+      internalID: 5937383854197816555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_18
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 737
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd6199657c780c40800000000000000
+      internalID: 5478765790420364755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_19
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 737
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8a50c9c820537f0800000000000000
+      internalID: -633597369639393107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_20
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 737
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d881f7f7cd00a4b0800000000000000
+      internalID: -5431325998099363623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_21
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 737
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512a3c58e45ca4b00800000000000000
+      internalID: 813679623736107541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 737
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc66457ef35fd500800000000000000
+      internalID: 423149242350464212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_23
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 737
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f341f946c1334bc0800000000000000
+      internalID: -3800138932856732680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 697
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a698f572b356ccd40800000000000000
+      internalID: 5605966940907473258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 697
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef55413ee8a7d960800000000000000
+      internalID: 7626750234957537248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_26
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 697
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e5d0735136fd580800000000000000
+      internalID: -8800206204089573775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_27
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 697
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ba754bf62f1fef0800000000000000
+      internalID: -76013157107651729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_28
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 697
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db3c5b020546d990800000000000000
+      internalID: -7361620665807651884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 697
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3d4e2adc1be2ff0800000000000000
+      internalID: -58914248349920269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_30
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 693
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2d7e4d485c40ed0800000000000000
+      internalID: -2448615123084389717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_31
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 693
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06523a3b734812ba0800000000000000
+      internalID: -6115461444220541600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_32
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 693
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48f4663735ea5390800000000000000
+      internalID: -7828692976931637174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_33
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 693
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc4f642471e17270800000000000000
+      internalID: 8246620281635818743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_34
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 693
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b64b4ea6fd3766f0800000000000000
+      internalID: -691515888082663758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_35
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 688
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40eba8f92a63728f0800000000000000
+      internalID: -565423156122436092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 654
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1a51556950f3ff0800000000000000
+      internalID: -54318527274442288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_37
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 654
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ceede1a11da99c0800000000000000
+      internalID: -3919590615555314647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_38
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 654
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbec024fdc57da290800000000000000
+      internalID: -7877510645776593217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_39
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 654
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78357fa9f2556b270800000000000000
+      internalID: 8265887829036848007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_40
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 654
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8911217d76f8e30800000000000000
+      internalID: 4507935925439928549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_41
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 654
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6c639196ce00e80800000000000000
+      internalID: -8214305784185043204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_42
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 650
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e955852f9bd9abf0800000000000000
+      internalID: -312477222549759520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 650
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7bde567c485c510800000000000000
+      internalID: 1568806037151922152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_44
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 589
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a09674e515594fc0800000000000000
+      internalID: -3510180882042941274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_45
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 589
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fdd93397baead20800000000000000
+      internalID: 3291756914699788113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_46
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 589
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b375a62cf04a24220800000000000000
+      internalID: 2468715933345666875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_47
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 589
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f355bc82e820bd0800000000000000
+      internalID: -2665411723588714725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_48
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 589
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0191a2b23ee481f20800000000000000
+      internalID: 3393549056812390672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_49
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 589
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d0966ad2180d210800000000000000
+      internalID: 1355725520903933202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_50
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 590
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50379018b4b3a2170800000000000000
+      internalID: 8154395270781170437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_51
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 590
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3142cb51e46888020800000000000000
+      internalID: 2344271275976565779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_52
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 588
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d25d9e97c24d77d0800000000000000
+      internalID: -2919103558339177770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_53
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 588
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d961dceef53095f80800000000000000
+      internalID: -8117453142795413859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_54
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 588
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1773e39dc8d7053d0800000000000000
+      internalID: -3219935689676277903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 590
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2d84ea5e118a8c0800000000000000
+      internalID: -3987917791867383045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_56
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 541
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd3ba4f54afe3bd0800000000000000
+      internalID: -2648404352482722338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_57
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 541
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a725f553da63c1530800000000000000
+      internalID: 3826993900910760570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_58
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 541
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b871f418a439c880800000000000000
+      internalID: -8590276917721990985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_59
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 541
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea998f1478c96960800000000000000
+      internalID: 7595822647607925475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_60
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 541
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bac0a9ee84760e0800000000000000
+      internalID: -2276770896988558500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_61
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 541
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a519b615b90d2710800000000000000
+      internalID: 1670001710199281056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_62
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 539
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e8d77ec034bcac0800000000000000
+      internalID: -3833896935073411534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_63
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 539
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b4da9c9b41b6080800000000000000
+      internalID: -9193231426161652921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_64
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 539
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a211e5989926f7470800000000000000
+      internalID: 8394536642016055594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_65
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 539
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89dd894b400ae360800000000000000
+      internalID: 7199567277661739405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_66
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 539
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90252fe24d30094a0800000000000000
+      internalID: -6588762044987452919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_67
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 539
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53ed92cfb42eed70800000000000000
+      internalID: 9074230705220608860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_68
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 492
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e8d9388d05b1e40800000000000000
+      internalID: 5628181050180865624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_69
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 492
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940fbdc6ae47e4380800000000000000
+      internalID: -8985115656360038327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_70
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 492
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6487f4f702128dd0800000000000000
+      internalID: -2485404218971159445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_71
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 492
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c59a83d88043aff0800000000000000
+      internalID: -26106216425286208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_72
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 492
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5984a1da881721550800000000000000
+      internalID: 6130086874638338197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_73
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 492
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af595b5a97d775c0800000000000000
+      internalID: -4217665468051660889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_74
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 491
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c701d143f7e330320800000000000000
+      internalID: 2522928932313698428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_75
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 491
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5771c99a37df41170800000000000000
+      internalID: 8148416299028715381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_76
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 491
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92524331344cbabc0800000000000000
+      internalID: -3770704470628621015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_77
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 491
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d029bacf2bd2d260800000000000000
+      internalID: 7120994959137251541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_78
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 491
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d686b7f801f697c30800000000000000
+      internalID: 4357636231375054957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_79
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 491
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44378379a00c78670800000000000000
+      internalID: 8541006370050700100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_80
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 447
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b112037f4a3422460800000000000000
+      internalID: 7215403928801779995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_81
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 447
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1786b9f942a1717d0800000000000000
+      internalID: -2947858686491793295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_82
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 447
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7f7abdc56037900800000000000000
+      internalID: 680894964555052986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_83
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 447
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ffc309b3adf4330800000000000000
+      internalID: 3697413768452308807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_84
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 447
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdbc79eb7f9dc290800000000000000
+      internalID: -7868457619399328272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_85
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 447
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9914935d35a00cc50800000000000000
+      internalID: 6683353202193678745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_86
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 442
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c484b1b6dd5a51f0800000000000000
+      internalID: -1055427985979177792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_87
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 442
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fcfe0424bb75aa0800000000000000
+      internalID: -6172258871056281752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_88
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 384
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8131bb92ea714120800000000000000
+      internalID: 2396331590431093130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_89
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 384
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da8465d38e7bbf70800000000000000
+      internalID: 9204089368147692249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_90
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 384
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa3efd8e86e5ce10800000000000000
+      internalID: 2217431891491830520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_91
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 384
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde83663f99104710800000000000000
+      internalID: 1675367232984813277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_92
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 384
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a0f5a34cd950ca0800000000000000
+      internalID: -6051257058183935480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_93
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 384
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539a31725b27cfd90800000000000000
+      internalID: -7062643993253533387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_94
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 391
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4921630dacb4dd0a0800000000000000
+      internalID: -6855239723339345260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_95
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 385
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fd7e8a9cc952e40800000000000000
+      internalID: 5631079299032801126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_96
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 387
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754336d68f7727ff0800000000000000
+      internalID: -39837537822100393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_97
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 387
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48791c1702954da0800000000000000
+      internalID: -5961197972521125813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_98
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 391
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e05ccce1344b4b0800000000000000
+      internalID: -5425637851511058858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_99
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 391
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99d3614e070a1f30800000000000000
+      internalID: 4546954531591936412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_100
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 338
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e57c9495e829bab0800000000000000
+      internalID: -4991913745457580576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_101
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 338
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fd39fd6c971ae90800000000000000
+      internalID: -7016192849405026466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_102
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 338
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da044bf8a0ba5a120800000000000000
+      internalID: 2424532036257857709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_103
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 338
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a83519c110c8f3a0800000000000000
+      internalID: -6631339268682467164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_104
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 338
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443647236ab298a50800000000000000
+      internalID: 6523793528033928004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_105
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 338
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e909789b06c1fb30800000000000000
+      internalID: 4319451270730025441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_106
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 332
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7543525a402705ff0800000000000000
+      internalID: -49414231624960937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_107
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 330
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10edbefeb4539000800000000000000
+      internalID: 41470000870842397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_108
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 331
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ccab549b784c090800000000000000
+      internalID: -8015132207004070825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_109
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 332
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e7570994cd112b0800000000000000
+      internalID: -5615465051839955310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_110
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 332
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b774fa8f12b6000800000000000000
+      internalID: 30155174484343703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_111
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 332
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af005c5542ffa8aa0800000000000000
+      internalID: -6157829008952852230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_112
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 290
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87356801ee9addce0800000000000000
+      internalID: -1378759070960954504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_113
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 290
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214b72dfeb2fd4930800000000000000
+      internalID: 4129223335473558546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_114
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 290
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c22b0e85f2974a0800000000000000
+      internalID: -6595188120533980008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_115
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 290
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af428132c1a72a930800000000000000
+      internalID: 4153016067655476474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_116
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 290
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39a1d3260d203010800000000000000
+      internalID: 1166481807882955069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_117
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 290
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c54aab72e03155d0800000000000000
+      internalID: -3075623321221839420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_118
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 280
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899192de237f7bd90800000000000000
+      internalID: -7081920090917496424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_119
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 280
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bf32fb41ff04840800000000000000
+      internalID: 5206441633811528562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_120
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 279
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be727e3344b762e0800000000000000
+      internalID: -2132537697633141071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_121
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 279
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9519a08a1baeb84d0800000000000000
+      internalID: -3131151067156672167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_122
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 279
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46b81e016c904620800000000000000
+      internalID: 2756374912613004879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_123
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 277
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc54a3f18927e790800000000000000
+      internalID: -7500981016247116618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_124
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 244
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504f4c808a205b800800000000000000
+      internalID: 627410643812938757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_125
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 244
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f48971c21355ca80800000000000000
+      internalID: -8447254186043013896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_126
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 244
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdbbfb487834e3c0800000000000000
+      internalID: -4331274852301554178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_127
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 244
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add823bdc270f5870800000000000000
+      internalID: 8673659296576343514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_128
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 244
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791218c54d6bb29e0800000000000000
+      internalID: -1645020215672495721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_129
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 244
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072d8603b425e89a0800000000000000
+      internalID: -6228950751718616464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_130
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 226
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fd8666328639bb0800000000000000
+      internalID: -4930482665789268208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_131
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 226
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafd0b9d615b22310800000000000000
+      internalID: 1378863545674948527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_132
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 167
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd8a812a2813da30800000000000000
+      internalID: 4238758243516190149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_133
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 167
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a6ebccbdee44200800000000000000
+      internalID: 163518114292460159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_134
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 167
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a743e4fe08e61e110800000000000000
+      internalID: 1288432468454421626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_135
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 167
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22e8cbe297fc7140800000000000000
+      internalID: 4718918719970533933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_136
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 167
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c686fe98cee0449d0800000000000000
+      internalID: -2791089459973625748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_137
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 167
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7be3a6ffbf086240800000000000000
+      internalID: 4785091921232259967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_138
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 164
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4954062211588c0800000000000000
+      internalID: -3997770254879714126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_139
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 164
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75818c43b2c20510800000000000000
+      internalID: 1513986500088399229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_140
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 164
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b95283242be6140800000000000000
+      internalID: 4714901857383062374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_141
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 164
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db46c9b49a32b3b70800000000000000
+      internalID: 8879730300316050621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_142
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 164
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3659bb60236adfc0800000000000000
+      internalID: -3469351572038134212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_143
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 163
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31f386a025e17320800000000000000
+      internalID: 2554074392091160895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_144
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 118
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735c65a162bbabc60800000000000000
+      internalID: 7834780274089444663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_145
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 118
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ea53ab1dda1ca40800000000000000
+      internalID: 5386777745595674220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_146
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 118
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f741633fcb5a3dd0800000000000000
+      internalID: -2505589297199888392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_147
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 118
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ac734bf28016ec0800000000000000
+      internalID: -3575567628175422827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_148
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 118
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f482546973630e750800000000000000
+      internalID: 6332120688455133263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_149
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 118
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768f4a9caa01e9300800000000000000
+      internalID: 260664154147584103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_150
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 111
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5699dadebe8c1360800000000000000
+      internalID: 7141740059469387356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_151
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 111
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9074d7aba93241e00800000000000000
+      internalID: 1014474963525912329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_152
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 109
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5674883bcea0af0800000000000000
+      internalID: -429270558630779483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_153
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 109
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd6ceb2c34340000800000000000000
+      internalID: 1183332946439634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_154
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 109
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3221586351e8d10800000000000000
+      internalID: 2129662997697799099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_155
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 111
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72e21ed260d47a80800000000000000
+      internalID: -8469915876125908358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_156
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 69
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f73e01b7e67163e0800000000000000
+      internalID: -2062236416878954507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_157
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 69
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381cb416ffcb82af0800000000000000
+      internalID: -420878760124104317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_158
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 69
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668ab78cf70c72d10800000000000000
+      internalID: 2100859406248552550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_159
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 69
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166bcd08ccf0a5b10800000000000000
+      internalID: 1970905157937706593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_160
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 69
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a98e0339353e83c0800000000000000
+      internalID: -4355485269834692190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_161
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 69
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c7d1af9bc28a390800000000000000
+      internalID: -7806940776769946605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_162
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 61
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0b05a31b2f0ee50800000000000000
+      internalID: 6836731077349912763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_163
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 61
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a404607ad899dd0800000000000000
+      internalID: -2478794371386815978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_164
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 61
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494f10455e90c0f60800000000000000
+      internalID: 8001781518492103828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_165
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 61
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd0ce0f6e8537b90800000000000000
+      internalID: -7245349626601271866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_166
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 55
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8de3c80d00f8530800000000000000
+      internalID: 3859304301385930916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_167
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 58
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce59e7c86fbcb890800000000000000
+      internalID: -7440862027571437885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_168
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 15
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b485f277030d470800000000000000
+      internalID: 8417280992009014054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_169
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 15
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a427712633bfdc70800000000000000
+      internalID: 8998107625580602529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_170
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 15
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d59902084e004050800000000000000
+      internalID: 5782637623978333650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_171
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 15
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d905c62744e64a0800000000000000
+      internalID: -6598261145817014952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_172
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 15
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee43ad3b176d9410800000000000000
+      internalID: 1485456818798022375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_173
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 15
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab47db2c12340a480800000000000000
+      internalID: -8890031852149181254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_174
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 8
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3e8b7a5fa9ec130800000000000000
+      internalID: 3588976332932440992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_175
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 7
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb194b68a9556e70800000000000000
+      internalID: 9107784401316027321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Kingdom Force_197
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 20
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dafd3438014ff490800000000000000
+      internalID: -7710372533542978864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

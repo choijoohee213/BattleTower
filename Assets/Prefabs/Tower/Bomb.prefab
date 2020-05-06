@@ -371,8 +371,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e274a3a08ce73d54a9c14428319f348a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  towerIndex: 2
   towerPrice: 90
-  projectileSpeed: 2
+  towerName: "\uB300\uD3EC"
+  projectileSpeed: 2.5
   attackCooldown: 2.5
   projectileType: BombProjectile
   towerSprites:
@@ -384,3 +386,5 @@ MonoBehaviour:
   - {fileID: 7682547896652907791, guid: baef29a03bc597347985b09a991bf8e3, type: 3}
   - {fileID: -5568695393000309153, guid: baef29a03bc597347985b09a991bf8e3, type: 3}
   damage: 3
+  elementType: 2
+  towerRange: {fileID: 6080190730662534616}

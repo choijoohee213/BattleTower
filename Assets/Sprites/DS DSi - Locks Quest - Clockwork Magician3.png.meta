@@ -1,0 +1,1472 @@
+fileFormatVersion: 2
+guid: b518883e9d02bc141bf85ce55613a3b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5177714014143262832
+    second: DS DSi - Locks Quest - Clockwork Magician3_0
+  - first:
+      213: -2215306898408231439
+    second: DS DSi - Locks Quest - Clockwork Magician3_1
+  - first:
+      213: -294732081003734559
+    second: DS DSi - Locks Quest - Clockwork Magician3_2
+  - first:
+      213: 4856515107344288523
+    second: DS DSi - Locks Quest - Clockwork Magician3_3
+  - first:
+      213: -9013669609923485625
+    second: DS DSi - Locks Quest - Clockwork Magician3_4
+  - first:
+      213: 294771234235866754
+    second: DS DSi - Locks Quest - Clockwork Magician3_5
+  - first:
+      213: 5793778946209506526
+    second: DS DSi - Locks Quest - Clockwork Magician3_6
+  - first:
+      213: -4349819936312635372
+    second: DS DSi - Locks Quest - Clockwork Magician3_7
+  - first:
+      213: -5685580198674138531
+    second: DS DSi - Locks Quest - Clockwork Magician3_8
+  - first:
+      213: -6137672038275348576
+    second: DS DSi - Locks Quest - Clockwork Magician3_9
+  - first:
+      213: -8233757815481985744
+    second: DS DSi - Locks Quest - Clockwork Magician3_10
+  - first:
+      213: 7749008058685005344
+    second: DS DSi - Locks Quest - Clockwork Magician3_11
+  - first:
+      213: 8509462277009215828
+    second: DS DSi - Locks Quest - Clockwork Magician3_12
+  - first:
+      213: 8099272551510632631
+    second: DS DSi - Locks Quest - Clockwork Magician3_13
+  - first:
+      213: 8616045351771904251
+    second: DS DSi - Locks Quest - Clockwork Magician3_14
+  - first:
+      213: -6632222872965525327
+    second: DS DSi - Locks Quest - Clockwork Magician3_15
+  - first:
+      213: -8795824804451096479
+    second: DS DSi - Locks Quest - Clockwork Magician3_16
+  - first:
+      213: -3645866678604928534
+    second: DS DSi - Locks Quest - Clockwork Magician3_17
+  - first:
+      213: -2657607566991890498
+    second: DS DSi - Locks Quest - Clockwork Magician3_18
+  - first:
+      213: -1334404646840474079
+    second: DS DSi - Locks Quest - Clockwork Magician3_19
+  - first:
+      213: 866542910534448326
+    second: DS DSi - Locks Quest - Clockwork Magician3_20
+  - first:
+      213: 4972570598349735522
+    second: DS DSi - Locks Quest - Clockwork Magician3_21
+  - first:
+      213: -849635389498494523
+    second: DS DSi - Locks Quest - Clockwork Magician3_22
+  - first:
+      213: -6487917316039766497
+    second: DS DSi - Locks Quest - Clockwork Magician3_23
+  - first:
+      213: -5423535014345236793
+    second: DS DSi - Locks Quest - Clockwork Magician3_24
+  - first:
+      213: -1840862494137120493
+    second: DS DSi - Locks Quest - Clockwork Magician3_25
+  - first:
+      213: 3583459345702756246
+    second: DS DSi - Locks Quest - Clockwork Magician3_26
+  - first:
+      213: -6656934987705393451
+    second: DS DSi - Locks Quest - Clockwork Magician3_27
+  - first:
+      213: 5847766937250362801
+    second: DS DSi - Locks Quest - Clockwork Magician3_28
+  - first:
+      213: -4601137848546297760
+    second: DS DSi - Locks Quest - Clockwork Magician3_29
+  - first:
+      213: 2317500643733248159
+    second: DS DSi - Locks Quest - Clockwork Magician3_30
+  - first:
+      213: -4477270020173739054
+    second: DS DSi - Locks Quest - Clockwork Magician3_31
+  - first:
+      213: -7233962345591926465
+    second: DS DSi - Locks Quest - Clockwork Magician3_32
+  - first:
+      213: -8731508250472579395
+    second: DS DSi - Locks Quest - Clockwork Magician3_33
+  - first:
+      213: -1976457634176859624
+    second: DS DSi - Locks Quest - Clockwork Magician3_34
+  - first:
+      213: 8547907010462364027
+    second: DS DSi - Locks Quest - Clockwork Magician3_35
+  - first:
+      213: 8870371786871720179
+    second: DS DSi - Locks Quest - Clockwork Magician3_36
+  - first:
+      213: 215056753996225376
+    second: DS DSi - Locks Quest - Clockwork Magician3_37
+  - first:
+      213: -5137927620804210772
+    second: DS DSi - Locks Quest - Clockwork Magician3_38
+  - first:
+      213: 1546783386574120193
+    second: DS DSi - Locks Quest - Clockwork Magician3_39
+  - first:
+      213: -6942555681729932709
+    second: DS DSi - Locks Quest - Clockwork Magician3_40
+  - first:
+      213: -4779013414135249971
+    second: DS DSi - Locks Quest - Clockwork Magician3_41
+  - first:
+      213: 6719304797926862501
+    second: DS DSi - Locks Quest - Clockwork Magician3_42
+  - first:
+      213: 8921134825481642710
+    second: DS DSi - Locks Quest - Clockwork Magician3_43
+  - first:
+      213: -7772941098065076181
+    second: DS DSi - Locks Quest - Clockwork Magician3_44
+  - first:
+      213: 7691947146782437044
+    second: DS DSi - Locks Quest - Clockwork Magician3_45
+  - first:
+      213: -9080834602376866843
+    second: DS DSi - Locks Quest - Clockwork Magician3_46
+  - first:
+      213: -2023818007734108891
+    second: DS DSi - Locks Quest - Clockwork Magician3_47
+  - first:
+      213: 8552573460027263180
+    second: DS DSi - Locks Quest - Clockwork Magician3_48
+  - first:
+      213: -7007574275384941625
+    second: DS DSi - Locks Quest - Clockwork Magician3_49
+  - first:
+      213: -2605591055913146942
+    second: DS DSi - Locks Quest - Clockwork Magician3_50
+  - first:
+      213: -8760903720902753220
+    second: DS DSi - Locks Quest - Clockwork Magician3_51
+  - first:
+      213: -4649138201316889725
+    second: DS DSi - Locks Quest - Clockwork Magician3_52
+  - first:
+      213: 4688283305857833813
+    second: DS DSi - Locks Quest - Clockwork Magician3_53
+  - first:
+      213: -3634902577265679364
+    second: DS DSi - Locks Quest - Clockwork Magician3_54
+  - first:
+      213: 2290171752236664829
+    second: DS DSi - Locks Quest - Clockwork Magician3_55
+  - first:
+      213: 7989024721861865064
+    second: DS DSi - Locks Quest - Clockwork Magician3_56
+  - first:
+      213: 7029972766443395398
+    second: DS DSi - Locks Quest - Clockwork Magician3_57
+  - first:
+      213: -391219550437104071
+    second: DS DSi - Locks Quest - Clockwork Magician3_58
+  - first:
+      213: -679285197142988958
+    second: DS DSi - Locks Quest - Clockwork Magician3_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0703291967fead740800000000000000
+      internalID: 5177714014143262832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fda7e3fc16a141e0800000000000000
+      internalID: -2215306898408231439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e95cdfdbb6e8ebf0800000000000000
+      internalID: -294732081003734559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b039b52cec56340800000000000000
+      internalID: 4856515107344288523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 513
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740e6c90f3309e280800000000000000
+      internalID: -9013669609923485625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 513
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ed1a230ec371400800000000000000
+      internalID: 294771234235866754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed464fb3143a76050800000000000000
+      internalID: 5793778946209506526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_7
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4105c2370d552a3c0800000000000000
+      internalID: -4349819936312635372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a780ccee2c811b0800000000000000
+      internalID: -5685580198674138531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_9
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a700cacccb92daa0800000000000000
+      internalID: -6137672038275348576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_10
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 456
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035999124e0dbbd80800000000000000
+      internalID: -8233757815481985744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_11
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 456
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e1f8bf5c10a8b60800000000000000
+      internalID: 7749008058685005344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45198ba1bdea71670800000000000000
+      internalID: 8509462277009215828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8ecdb4975666070800000000000000
+      internalID: 8099272551510632631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_14
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf815010997529770800000000000000
+      internalID: 8616045351771904251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_15
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b05ba1af6c95f3a0800000000000000
+      internalID: -6632222872965525327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 399
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1686f1051f3fee580800000000000000
+      internalID: -8795824804451096479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 399
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9e15b8297476dc0800000000000000
+      internalID: -3645866678604928534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7ee099ff74e1bd0800000000000000
+      internalID: -2657607566991890498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126617e2b0e3b7de0800000000000000
+      internalID: -1334404646840474079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4f90d9f24960c00800000000000000
+      internalID: 866542910534448326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26600370d9e120540800000000000000
+      internalID: 4972570598349735522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_22
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 342
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c177546d1d7534f0800000000000000
+      internalID: -849635389498494523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_23
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 342
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e0855539946f5a0800000000000000
+      internalID: -6487917316039766497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce1f0bb3abbbb4b0800000000000000
+      internalID: -5423535014345236793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_25
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3190e9c9051f376e0800000000000000
+      internalID: -1840862494137120493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_26
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f9aa7f9410bb130800000000000000
+      internalID: 3583459345702756246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_27
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de53fc06e0dd93a0800000000000000
+      internalID: -6656934987705393451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_28
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 285
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5f410fb01772150800000000000000
+      internalID: 5847766937250362801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_29
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 285
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068face21897520c0800000000000000
+      internalID: -4601137848546297760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98957c8e8a692020800000000000000
+      internalID: 2317500643733248159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_31
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbc90463aa8dd1c0800000000000000
+      internalID: -4477270020173739054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_32
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f311178e29dcb9b90800000000000000
+      internalID: -7233962345591926465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_33
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe7039f18373d680800000000000000
+      internalID: -8731508250472579395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_34
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 228
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8128741e0463294e0800000000000000
+      internalID: -1976457634176859624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_35
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 228
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b713ea3232440a670800000000000000
+      internalID: 8547907010462364027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8c2269424e91b70800000000000000
+      internalID: 8870371786871720179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_37
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b5e747af80cf200800000000000000
+      internalID: 215056753996225376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_38
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf0c400d0a62b8b0800000000000000
+      internalID: -5137927620804210772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_39
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105e93d7b47477510800000000000000
+      internalID: 1546783386574120193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_40
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 171
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b521e15046617af90800000000000000
+      internalID: -6942555681729932709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_41
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 171
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc344a1ce988dadb0800000000000000
+      internalID: -4779013414135249971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae22020d14cf3d50800000000000000
+      internalID: 6719304797926862501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_43
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2233a8bdc3ecb70800000000000000
+      internalID: 8921134825481642710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_44
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20ebcd0147f02490800000000000000
+      internalID: -7772941098065076181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_45
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4beeb032d294fba60800000000000000
+      internalID: 7691947146782437044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_46
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 114
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3504d9a056af180800000000000000
+      internalID: -9080834602376866843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_47
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 114
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d38fe9e34f9e3e0800000000000000
+      internalID: -2023818007734108891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8cb589f38d0b670800000000000000
+      internalID: 8552573460027263180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_49
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3e382035810ce90800000000000000
+      internalID: -7007574275384941625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_50
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5ac5a5db417dbd0800000000000000
+      internalID: -2605591055913146942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_51
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34813cab740b6680800000000000000
+      internalID: -8760903720902753220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_52
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 57
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38beec62071fa7fb0800000000000000
+      internalID: -4649138201316889725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_53
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 57
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bdc0cb3d0201140800000000000000
+      internalID: 4688283305857833813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf36de05d5b3e8dc0800000000000000
+      internalID: -3634902577265679364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Locks Quest - Clockwork Magician3_55
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df743b6231358cf10800000000000000
+      internalID: 2290171752236664829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

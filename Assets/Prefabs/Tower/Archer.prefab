@@ -366,8 +366,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e274a3a08ce73d54a9c14428319f348a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  towerIndex: 0
   towerPrice: 70
-  projectileSpeed: 4
+  towerName: "\uAD81\uC218 \uD0C0\uC6CC"
+  projectileSpeed: 1.5
   attackCooldown: 1
   projectileType: ArcherProjectile
   towerSprites:
@@ -379,3 +381,5 @@ MonoBehaviour:
   - {fileID: -5670777032405931376, guid: baef29a03bc597347985b09a991bf8e3, type: 3}
   - {fileID: 6284578201527514330, guid: baef29a03bc597347985b09a991bf8e3, type: 3}
   damage: 1
+  elementType: 0
+  towerRange: {fileID: 3092408415020929647}

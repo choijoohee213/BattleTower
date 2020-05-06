@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 8771246247154075132}
   m_Layer: 0
   m_Name: Soil
-  m_TagString: Untagged
+  m_TagString: Soil
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -97,9 +97,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tileIndex: 1
-  GScore: 0
-  HScore: 0
-  FScore: 0
   towerLevel: 0
   towerLevelMax: 0
   SpriteRenderer: {fileID: 1973135821300241882}
