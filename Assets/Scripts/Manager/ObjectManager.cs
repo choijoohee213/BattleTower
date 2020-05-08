@@ -47,6 +47,15 @@ public class ObjectManager : MonoBehaviour
         return Generate(type, true);       
     }
 
+    public GameObject Soldiers(string level) {
+        foreach(GameObject obj in pooledObjs) {
+            if(obj.name.Equals(level) && obj.activeSelf) {
+                return obj;
+            }
+        }
+        return null;
+    }
+
     public void ReleaseObject(GameObject gameObject) {
         gameObject.SetActive(false);
     }

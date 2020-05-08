@@ -5,12 +5,13 @@ using UnityEngine;
 public class DataManager : MonoBehaviour
 {
 
-    public string[] towerNames, towerDescriptions;
+    public string[] towerNamesKR, towerNamesENG, towerDescriptions;
     public float[] towerOffensePower, projectileSpeed, attackCoolDown;
 
     private void Start() {
-        towerNames = new string[4] { "궁수 타워", "마법사 타워", "대포", "민병대" };
-       
+        towerNamesKR = new string[4] { "궁수 타워", "마법사 타워", "대포", "민병대" };
+        towerNamesENG = new string[4] { "Archer", "Wizard", "Bomb", "Barracks" };
+
         towerDescriptions = new string[4] {
         "궁수들은 멀리서 적들을 사냥하도록 대기합니다.",
         "마법사들은 물리 피해를 무시하는 마법탄을 발사합니다.",
@@ -18,7 +19,7 @@ public class DataManager : MonoBehaviour
         "적을 차단하며 싸우는 튼튼한 민병대의 훈련소입니다."};
        
         towerOffensePower = new float[4] { 1f, 2f, 3f, 2f };
-        projectileSpeed = new float[4] { 3f, 2.5f, 2.3f, 1f };
+        projectileSpeed = new float[4] { 3f, 2.5f, 2.3f, 2f };
         attackCoolDown = new float[4] { 1f, 2f, 3f, 3f };
     }
 

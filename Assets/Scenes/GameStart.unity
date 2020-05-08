@@ -2720,6 +2720,10 @@ MonoBehaviour:
   - {fileID: 2742999807900558807, guid: 21c4341cc2c0c8447aab6366b725dd25, type: 3}
   - {fileID: 2742999807900558807, guid: 247df8dc79f147f4797beb616465278d, type: 3}
   - {fileID: 314793520817914590, guid: c2b5c5f2cdc10c8408eeaedef025c9e7, type: 3}
+  - {fileID: 3214757740198575312, guid: d5b57ac4e38c5904593209bb996c240b, type: 3}
+  - {fileID: 7670489056915847521, guid: 28ed2e088a627db4db2da50da12d54b0, type: 3}
+  - {fileID: 8214876654391308827, guid: d024afcfab938844e982674266b02ef6, type: 3}
+  - {fileID: 7770018758351309511, guid: fe13bebfca6b3744e89119985ae653ce, type: 3}
   monster: {fileID: 1799544975}
   projectile: {fileID: 1543311035}
   canvas: {fileID: 1706140039}
@@ -5454,6 +5458,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f6ccc05a469147247a9d24480eca04b4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  towerPrices: 46000000500000005a00000050000000
   spawnTowerUI: {fileID: 4374256209508196915}
   towerDescription: {fileID: 1471076932}
   okBtn: {fileID: 4374256209323809862}
@@ -5512,11 +5517,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3fff373c1ab7f8948b3d7cbfe45f6c06, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  towerNames:
-  - "\uAD81\uC218 \uD0C0\uC6CC"
-  - "\uB9C8\uBC95\uC0AC \uD0C0\uC6CC"
-  - "\uB300\uD3EC"
-  - "\uBBFC\uBCD1\uB300"
+  towerNamesKR: []
+  towerNamesENG: []
   towerDescriptions:
   - "\uAD81\uC218\uB4E4\uC740 \uBA40\uB9AC\uC11C \uC801\uB4E4\uC744 \uC0AC\uB0E5\uD558\uB3C4\uB85D
     \uB300\uAE30\uD569\uB2C8\uB2E4."

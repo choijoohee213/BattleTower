@@ -21,8 +21,10 @@ public class ImpactBehavior : StateMachineBehaviour
         if (animator.gameObject.CompareTag("Monster")) {
             animator.gameObject.GetComponent<Monster>().Release();
         }
-        else
+        else if(animator.gameObject.CompareTag("Projectile"))
             GameManager.Instance.objectManager.ReleaseObject(animator.gameObject);
+        else if(animator.gameObject.CompareTag("Soldier"))
+            animator.gameObject.GetComponent<Soldier>().Release();
     }
 
     // OnStateMove is called right after Animator.OnAnimatorMove()

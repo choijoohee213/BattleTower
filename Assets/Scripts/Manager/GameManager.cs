@@ -6,11 +6,11 @@ using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 
-public class GameManager : Singleton<GameManager> {    
-    int selectBtnIndex, wave, money, lives, health = 15;
+public class GameManager : Singleton<GameManager> {
+    int selectBtnIndex, wave, money, lives;
     bool islevelChanged, gameOver = false, levelZero = true;
     
-    int[] towerPrices = new int[4] { 70, 80, 90, 80 };
+    public int[] towerPrices = new int[4] { 70, 80, 90, 80 };
     bool[] purchasable = new bool[6] { true, true, true, true, true, true };
 
     [SerializeField]
@@ -67,6 +67,7 @@ public class GameManager : Singleton<GameManager> {
     public Point selectSpawnPos;
 
     public Dictionary<Point, Tower> Towers { get; set; }
+
 
 
     private void Start() {
@@ -191,13 +192,12 @@ public class GameManager : Singleton<GameManager> {
 
         if(!selectBtnIndex.Equals(4) && !selectBtnIndex.Equals(5)){  //Create(Buy) Tower
             Money = -towerPrices[selectBtnIndex];
-            Tower tower = Instantiate(towerPrefabs[selectBtnIndex]).GetComponent<Tower>();
+            Tower tower = objectManager.GetObject(dataManager.towerNamesENG[selectBtnIndex]).GetComponent<Tower>();
             tower.Setup(selectSpawnPos, spawnTowerUI.transform.position + new Vector3(0, 0.1f, 0));
         }
 
-        //Change Upgrade Price
-        Towers[selectSpawnPos].towerPrice += 50;
-       
+        
+        Towers[selectSpawnPos].towerPrice += 50;   //Change Upgrade Price
         spawnTowerUI.SetActive(false);
         towerInformUI.SetActive(false);
         Towers[selectSpawnPos].towerRange.enabled = false;
@@ -264,7 +264,7 @@ public class GameManager : Singleton<GameManager> {
         towerIcon.sprite = towerTypesBtn[Towers[pos].towerIndex].GetComponent<Image>().sprite;
 
         //Get tower info and Change text
-        towerInformTexts[0].text = dataManager.towerNames[Towers[pos].towerIndex];
+        towerInformTexts[0].text = dataManager.towerNamesKR[Towers[pos].towerIndex];
         towerInformTexts[1].text = "공격력 : " + Towers[pos].Damage.ToString();
         towerInformTexts[2].text = "공격속도 : " + Towers[pos].AttackCoolDown.ToString();
     }
@@ -280,14 +280,14 @@ public class GameManager : Singleton<GameManager> {
 
     void TowerDescription() {
         if (levelZero) {
-            descriptionTexts[0].text = dataManager.towerNames[selectBtnIndex];
+            descriptionTexts[0].text = dataManager.towerNamesKR[selectBtnIndex];
             descriptionTexts[1].text = dataManager.towerDescriptions[selectBtnIndex];
             descriptionTexts[2].text = "공격력 : <color=#F68519>" + dataManager.towerOffensePower[selectBtnIndex].ToString() + "</color>";
             descriptionTexts[3].text = "공격속도 : <color=#F68519>" + dataManager.attackCoolDown[selectBtnIndex].ToString() + "</color>";
         }
         else {
             if (selectBtnIndex.Equals(4)) {
-                descriptionTexts[0].text = dataManager.towerNames[Towers[selectSpawnPos].towerIndex];
+                descriptionTexts[0].text = dataManager.towerNamesKR[Towers[selectSpawnPos].towerIndex];
                 descriptionTexts[1].text = dataManager.towerDescriptions[Towers[selectSpawnPos].towerIndex];
                 descriptionTexts[2].text = "공격력 : <color=#F68519>" + (Towers[selectSpawnPos].Damage+1f).ToString() + "</color>";
                 descriptionTexts[3].text = "공격속도 : <color=#F68519>" + Towers[selectSpawnPos].AttackCoolDown.ToString() + "</color>";
@@ -304,11 +304,9 @@ public class GameManager : Singleton<GameManager> {
 
     //If you sell the tower, the data of the spawn point is initialized.
     void SellTower() {
-        Money = Towers[selectSpawnPos].towerPrice / 2; 
-        Towers[selectSpawnPos].gameObject.SetActive(false);
-        Towers.Remove(selectSpawnPos);  //Delete from dictionary
-        LevelManager.Instance.Tiles[selectSpawnPos].towerLevel = 0;
-        LevelManager.Instance.Tiles[selectSpawnPos].towerLevelMax = false;
+        Money = Towers[selectSpawnPos].towerPrice / 2;
+        Towers[selectSpawnPos].Release();
+               
         spawnTowerUI.SetActive(false);
         towerInformUI.SetActive(false);
     }
@@ -330,7 +328,7 @@ public class GameManager : Singleton<GameManager> {
         LevelManager.Instance.GeneratePath();
 
         for (int i = 0; i < wave; i++) {
-            int monsterIndex = 12; //Random.Range(0,20);
+            int monsterIndex = 0;//Random.Range(0,20);
             string type = dataManager.MonsterType(monsterIndex);
 
             //Create monsters and health bars
@@ -339,12 +337,12 @@ public class GameManager : Singleton<GameManager> {
             
             monster.gaugeBar = bar.transform.GetChild(0).GetComponent<Image>();
             monster.healthBar = bar;
-            monster.Spawn(health);
+            monster.Spawn();
 
 
-            if ((wave % 3).Equals(0)) {
-                health += 5;
-            }
+            //if ((wave % 3).Equals(0)) {
+            //    health += 5;
+            //}
 
             activeMonsters.Add(monster);
 

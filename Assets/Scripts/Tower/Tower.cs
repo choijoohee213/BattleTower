@@ -6,7 +6,7 @@ public enum Element { ARCHER, WIZARD, BOMB, BARRACKS, NONE }
 
 public class Tower : MonoBehaviour {
     float attackTimer;
-    bool canAttack = true;
+    bool canAttack;
     public int towerIndex, towerPrice;
 
     private float projectileSpeed, attackCooldown;
@@ -15,7 +15,7 @@ public class Tower : MonoBehaviour {
 
     [SerializeField]
     private string projectileType;
-    private string projectile;
+    public string projectile;
 
     [SerializeField]
     private Sprite[] towerSprites;
@@ -23,10 +23,11 @@ public class Tower : MonoBehaviour {
     private SpriteRenderer sr;
     private TowerRange range;
 
-    private Monster target;
+    public Monster target;
     public Monster Target { get { return target; } }
+    public List<Monster> monsterList = new List<Monster>();
 
-    private Queue<Monster> monsters = new Queue<Monster>();
+    public List<Soldier> soldiers = new List<Soldier>();
 
     private float damage;
     public float Damage { get => damage; }
@@ -35,9 +36,10 @@ public class Tower : MonoBehaviour {
     private Element elementType;
     public Element ElementType { get => elementType; }
 
+    public SpriteRenderer towerRange;
+
     public Point GridPosition { get; set; }
 
-    public SpriteRenderer towerRange;
 
 
 
@@ -47,6 +49,7 @@ public class Tower : MonoBehaviour {
 
     private void Start() {
         sr = GetComponent<SpriteRenderer>();
+        canAttack = true;
         if(ElementType.Equals(Element.BARRACKS))
             CreateSoldier();
     }
@@ -65,9 +68,11 @@ public class Tower : MonoBehaviour {
         LevelManager.Instance.Tiles[gridPos].towerLevel++;
         projectile = projectileType + "1";
         GameManager.Instance.dataManager.Initilaize(towerIndex, ref damage, ref projectileSpeed, ref attackCooldown);
+        towerPrice = GameManager.Instance.towerPrices[towerIndex];
 
         range = transform.GetChild(0).GetComponent<TowerRange>();
-        range.GridPosition = GridPosition; 
+        range.GridPosition = GridPosition;
+        towerRange.transform.localScale = new Vector3(4, 4.5f, 1);
     }
 
     public void LevelUp() {
@@ -93,23 +98,29 @@ public class Tower : MonoBehaviour {
 
             }
         }
-        if(target == null && monsters.Count > 0) {
-            target = monsters.Dequeue();
+
+        if(target == null && monsterList.Count > 0) {
+            target = monsterList[0];
+            monsterList.Remove(target);
+            print(target);
         }
+
+
         if(target != null && target.gameObject.activeSelf) {
             if(canAttack) {
                 Shoot();
                 canAttack = false;
             }
         }
-        else if(monsters.Count > 0) {
-            target = monsters.Dequeue();
+        else if(monsterList.Count > 0) {
+            target = monsterList[0];
+            monsterList.Remove(target);
+            print(target);
         }
 
         if((target != null && target.isDie) || (target != null && !target.gameObject.activeSelf)) {
             target = null;
         }
-
     }
 
     void Shoot() {
@@ -119,9 +130,16 @@ public class Tower : MonoBehaviour {
     }
 
     void CreateSoldier() {
-        Soldier soldier = GameManager.Instance.objectManager.GetObject(projectile).GetComponent<Soldier>();
-        soldier.transform.position = GameManager.Instance.Towers[GridPosition].transform.position;
-        soldier.Initialize(this);
+        for(int i=0; i<3; i++) {
+            Soldier soldier = GameManager.Instance.objectManager.GetObject(projectile).GetComponent<Soldier>();
+            GameObject bar = GameManager.Instance.objectManager.GetObject("HealthBar");
+
+            soldiers.Add(soldier);
+            soldier.transform.position = GameManager.Instance.Towers[GridPosition].transform.position;
+            soldier.healthBar = bar;
+            soldier.Initialize(this);
+        }
+        
     }
 
     void DetermineProjectile() {
@@ -131,10 +149,31 @@ public class Tower : MonoBehaviour {
     }
 
     public void MonsterInRange(Monster monster) {
-        monsters.Enqueue(monster);
+        monsterList.Add(monster);
+        print("add"+monster);
     }
 
-    public void MonsterOutRange() {
-        target = null;
+    public void MonsterOutRange(Monster monster, bool isTarget) {
+        monsterList.Remove(monster);
+        print("리무브 :"+monster);
+        if(isTarget) target = null;
+    }
+
+    public bool IsMonsterInRange(Monster monster) { return monsterList.Contains(monster); }
+
+    public void Release() {      
+        if(ElementType.Equals(Element.BARRACKS)) {
+            soldiers[0].Release();
+            soldiers[1].Release();
+            soldiers[2].Release();
+        }
+        monsterList.Clear();
+        soldiers.Clear();
+        
+        LevelManager.Instance.Tiles[GridPosition].towerLevel = 0;
+        LevelManager.Instance.Tiles[GridPosition].towerLevelMax = false;       
+        
+        GameManager.Instance.Towers.Remove(GridPosition);  //Delete from dictionary       
+        GameManager.Instance.objectManager.ReleaseObject(gameObject);
     }
 }

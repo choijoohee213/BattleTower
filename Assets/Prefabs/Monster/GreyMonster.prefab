@@ -118,10 +118,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 0.02
+  moveStop: 0
   price: 10
   elementType: 4
   health: 15
+  damage: 3
+  attackCoolDown: 2
   healthBar: {fileID: 0}
+  targetSoldier: {fileID: 0}
   gaugeBar: {fileID: 0}
 --- !u!61 &-3051085531761297914
 BoxCollider2D:
@@ -140,7 +144,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.64, y: 1.12}
+    oldSize: {x: 0.53333336, y: 0.93333334}
     newSize: {x: 1.0666667, y: 1.8666667}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
