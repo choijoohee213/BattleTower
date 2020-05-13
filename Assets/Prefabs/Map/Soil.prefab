@@ -27,7 +27,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1973135821300241883}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -8.7, y: 5.01, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -97,11 +97,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tileIndex: 1
-  towerLevel: 0
+  TowerLevel: 0
   towerLevelMax: 0
   SpriteRenderer: {fileID: 1973135821300241882}
-  x: 0
-  y: 0
 --- !u!61 &8771246247154075132
 BoxCollider2D:
   m_ObjectHideFlags: 0

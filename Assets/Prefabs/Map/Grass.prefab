@@ -27,7 +27,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2175495514581162894}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -8.7, y: 3.671, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -72,7 +72,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: -2
-  m_Sprite: {fileID: -4978276820586343526, guid: ef9dde1046369bd489c034ed02d8cb8f,
+  m_Sprite: {fileID: 1450896982793460613, guid: ef9dde1046369bd489c034ed02d8cb8f,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -97,14 +97,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tileIndex: 0
-  GScore: 0
-  HScore: 0
-  FScore: 0
-  towerLevel: 0
+  TowerLevel: 0
   towerLevelMax: 0
   SpriteRenderer: {fileID: 2175495514581162895}
-  x: 0
-  y: 0
 --- !u!61 &6602137825748860783
 BoxCollider2D:
   m_ObjectHideFlags: 0

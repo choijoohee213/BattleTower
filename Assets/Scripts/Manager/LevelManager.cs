@@ -29,18 +29,10 @@ public class LevelManager : Singleton<LevelManager>
 
     public Dictionary<Point, TileScript> Tiles { get; set; }
 
-    public float TileSize {
-        get { return tilePrefabs[0].GetComponent<SpriteRenderer>().sprite.bounds.size.x; }
-    }
+    public float TileSize = 1.0f;
 
 
-
-
-    void Start() {
-        CreateLevel();
-    }
-
-    void CreateLevel(){
+    public void CreateLevel(){
         Tiles = new Dictionary<Point, TileScript>();
 
         string[] mapData = ReadLevelText();
@@ -74,22 +66,28 @@ public class LevelManager : Singleton<LevelManager>
 
     void PlaceTile(string tileType, int x, int y, Vector3 worldStart) {
         int tileIndex = int.Parse(tileType);
+        if(tileIndex.Equals(8)) {
+            greenSpawn = new Point(x, y);
+            tileIndex = 1;
+        }
+        else if(tileIndex.Equals(9)) {
+            purpleSpawn = new Point(x, y);
+            tileIndex = 1;
+        }
 
         //Creates a new tile and makes a reference to that tile in the newTile variable
         TileScript newTile = Instantiate(tilePrefabs[tileIndex]).GetComponent<TileScript>();
         newTile.Setup(new Point(x, y), new Vector3(worldStart.x + TileSize * x, worldStart.y - TileSize * y, 0), map);
 
-        if (tileIndex.Equals(1))
-            purpleSpawn = new Point(x, y);
+        
     }
 
     void SpawnPortal() {
-        greenSpawn = new Point(0,0);
         greenPortal.transform.position = Tiles[greenSpawn].GetComponent<TileScript>().WorldPostion + new Vector2(0, 0.1f);
-
         purplePortal.transform.position = Tiles[purpleSpawn].GetComponent<TileScript>().WorldPostion + new Vector2(0, 0.1f);
     }
-
+   
+    
     public bool InBounds(Point position) {
         return position.x >= 0 && position.y >= 0
             && position.x < mapSize.x && position.y < mapSize.y;

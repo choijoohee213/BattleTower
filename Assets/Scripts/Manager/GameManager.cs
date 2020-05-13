@@ -14,7 +14,7 @@ public class GameManager : Singleton<GameManager> {
     bool[] purchasable = new bool[6] { true, true, true, true, true, true };
 
     [SerializeField]
-    private GameObject spawnTowerUI, towerDescription, okBtn, towerPriceUI, upgradePriceUI, waveBtn, gameOverUI, towerInformUI, pauseUI, panel;
+    private GameObject spawnTowerUI, towerDescription, okBtn, towerPriceUI, upgradePriceUI, waveBtn, gameCompleteUI, gameOverUI, towerInformUI, pauseUI, panel;
 
     [SerializeField]
     private GameObject[] towerTypesBtn, towerPrefabs;
@@ -118,7 +118,7 @@ public class GameManager : Singleton<GameManager> {
         if(hit.collider != null) {   
             TileScript tmp = hit.collider.GetComponent<TileScript>();
             if (tmp != null && tmp.tileIndex == 2) {
-                    ShowTowerTypeBtn(tmp.GridPosition, tmp.towerLevel, true);
+                    ShowTowerTypeBtn(tmp.GridPosition, tmp.TowerLevel, true);
             }
         }
 
@@ -168,7 +168,7 @@ public class GameManager : Singleton<GameManager> {
 
         if (selectBtnIndex.Equals(4) || selectBtnIndex.Equals(5)) {
             towerImg.enabled = false;
-            towerRangeImg.transform.localScale = Towers[selectSpawnPos].towerRange.transform.localScale + new Vector3(1f, 1f, 0);
+            towerRangeImg.transform.localScale = Towers[selectSpawnPos].towerRange.transform.localScale + new Vector3(0.5f, 0.5f, 0);
             return;
         }
         towerImg.sprite = towerSprites[selectBtnIndex];
@@ -187,7 +187,7 @@ public class GameManager : Singleton<GameManager> {
         if (selectBtnIndex.Equals(4)) { //Upgrade Tower
             Money = -Towers[selectSpawnPos].towerPrice;
             Towers[selectSpawnPos].LevelUp();
-            Towers[selectSpawnPos].towerRange.transform.localScale += new Vector3(1f, 1f, 0);
+            Towers[selectSpawnPos].towerRange.transform.localScale += new Vector3(0.5f, 0.5f, 0);
         }
 
         if(!selectBtnIndex.Equals(4) && !selectBtnIndex.Equals(5)){  //Create(Buy) Tower
@@ -353,6 +353,10 @@ public class GameManager : Singleton<GameManager> {
     public void RemoveMonster(Monster monster) {
         activeMonsters.Remove(monster);
         if (!WaveActive && !gameOver) {
+            if(wave.Equals(10) && activeMonsters.Count.Equals(0)) {
+                GameComplete();
+                return;
+            }
             waveBtn.SetActive(true);
         }
     }
@@ -379,6 +383,11 @@ public class GameManager : Singleton<GameManager> {
                 waveBtn.SetActive(false);
             Time.timeScale = 0;   
         }
+    }
+
+    void GameComplete() {
+        panel.SetActive(!panel.activeSelf);
+        gameCompleteUI.SetActive(true);
     }
 
     public void GameOver() {

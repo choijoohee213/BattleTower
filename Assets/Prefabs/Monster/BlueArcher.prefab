@@ -96,7 +96,7 @@ Animator:
   m_GameObject: {fileID: 2742999807900558807}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 8262510f05ea822478b98a84e5a22852, type: 2}
+  m_Controller: {fileID: 9100000, guid: 4e296a6c6faf12c4fb0cf9b8a531d9c7, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -118,14 +118,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 0.025
-  moveStop: 0
   price: 20
   elementType: 0
   health: 30
   damage: 3
   attackCoolDown: 2
   healthBar: {fileID: 0}
-  targetSoldier: {fileID: 0}
+  TargetSoldiers: []
   gaugeBar: {fileID: 0}
 --- !u!61 &-3051085531761297914
 BoxCollider2D:

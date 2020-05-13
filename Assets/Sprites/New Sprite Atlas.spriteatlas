@@ -6,7 +6,7 @@ SpriteAtlas:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: SpriteAtals
+  m_Name: New Sprite Atlas
   m_EditorData:
     serializedVersion: 2
     textureSettings:
@@ -20,31 +20,7 @@ SpriteAtlas:
       readable: 0
       crunchedCompression: 0
       sRGB: 1
-    platformSettings:
-    - serializedVersion: 3
-      m_BuildTarget: DefaultTexturePlatform
-      m_MaxTextureSize: 2048
-      m_ResizeAlgorithm: 0
-      m_TextureFormat: -1
-      m_TextureCompression: 0
-      m_CompressionQuality: 50
-      m_CrunchedCompression: 0
-      m_AllowsAlphaSplitting: 0
-      m_Overridden: 0
-      m_AndroidETC2FallbackOverride: 0
-      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
-    - serializedVersion: 3
-      m_BuildTarget: Android
-      m_MaxTextureSize: 2048
-      m_ResizeAlgorithm: 0
-      m_TextureFormat: 4
-      m_TextureCompression: 1
-      m_CompressionQuality: 50
-      m_CrunchedCompression: 0
-      m_AllowsAlphaSplitting: 0
-      m_Overridden: 0
-      m_AndroidETC2FallbackOverride: 0
-      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    platformSettings: []
     packingSettings:
       serializedVersion: 2
       padding: 4
@@ -4156,5 +4132,5 @@ SpriteAtlas:
   - DS DSi - Locks Quest - Clockwork Brute4_74
   - DS DSi - Locks Quest - Clockwork Brute4_77
   - DS DSi - Locks Quest - Clockwork Brute4_76
-  m_Tag: SpriteAtals
+  m_Tag: New Sprite Atlas
   m_IsVariant: 0

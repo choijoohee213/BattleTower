@@ -7,7 +7,8 @@ public class Monster : MonoBehaviour {
     [SerializeField]
     private float speed;
     private bool canAttack = true;
-    public bool moveStop = false;
+    private bool moveStop = false;
+    public bool MoveStop { get { return moveStop; } set { moveStop = value; } }
 
     [SerializeField]
     private int price;
@@ -24,7 +25,7 @@ public class Monster : MonoBehaviour {
     private float currentHealth;
 
     public GameObject healthBar;
-    public Soldier targetSoldier;
+    public List<Soldier> TargetSoldiers;
     public Image gaugeBar;
 
     public bool isDie {
@@ -41,8 +42,8 @@ public class Monster : MonoBehaviour {
     /// </summary>
     /// 
     private void Awake() {
-        anim = GetComponent<Animator>();
-
+        anim = GetComponent<Animator>();       
+        
     }
 
   
@@ -72,7 +73,7 @@ public class Monster : MonoBehaviour {
         while (progress <= 1) {
             transform.localScale = Vector3.Lerp(from, to, progress);
             progress += Time.deltaTime;
-            yield return null;
+            yield return new WaitForSeconds(0.01f);
         }
         //Make sure that is has the correct scale after scaling
         transform.localScale = to;
@@ -98,7 +99,7 @@ public class Monster : MonoBehaviour {
 
     //Makes the monster move along the given path
     IEnumerator MonsterMove() {
-        while (!isDie && !moveStop) {
+        while (!isDie && !MoveStop) {
             transform.position = Vector2.MoveTowards(transform.position, destination, speed);
             healthBar.transform.position = transform.position + new Vector3(0, 0.43f, 0);
 
@@ -116,7 +117,7 @@ public class Monster : MonoBehaviour {
             }
             yield return new WaitForSeconds(0.03f);
         }
-        if(moveStop) {
+        if(MoveStop) {
             Animate(GridPosition, GridPosition);
         }
 
@@ -128,17 +129,25 @@ public class Monster : MonoBehaviour {
     }
 
     public void StartAttack(Soldier soldier) {
+        if(!TargetSoldiers.Contains(soldier)) TargetSoldiers.Add(soldier);
         if(canAttack) {
-            StartCoroutine(Attack(soldier));
+            StartCoroutine(Attack());
             canAttack = false;
         }
     }
 
-    IEnumerator Attack(Soldier soldier) {
-        while(!soldier.IsDie && soldier.gameObject.activeSelf && moveStop) {
-            yield return new WaitForSeconds(attackCoolDown);
-            anim.SetTrigger("MonsterAttack");
-            soldier.TakeDamage(damage);
+    IEnumerator Attack() {
+        while(TargetSoldiers.Count>0 && MoveStop) {
+            if(!TargetSoldiers[0].IsDie && TargetSoldiers[0].gameObject.activeSelf) {
+                yield return new WaitForSeconds(attackCoolDown);
+                if(TargetSoldiers.Count > 0 && !TargetSoldiers[0].IsDie && TargetSoldiers[0].gameObject.activeSelf) {
+                    anim.SetTrigger("MonsterAttack");
+                    TargetSoldiers[0].TakeDamage(damage);
+                }
+            }
+            if(TargetSoldiers.Count > 0 && TargetSoldiers[0].IsDie) {
+                TargetSoldiers.Remove(TargetSoldiers[0]);
+            }
         }
         moveStop = false;
         StartCoroutine(MonsterMove());
@@ -146,10 +155,13 @@ public class Monster : MonoBehaviour {
 
 
     void Animate(Point currentPos, Point newPos) {
-        if(moveStop) {
+        if(MoveStop) {
             anim.SetBool("MonsterIdle", true);
             anim.SetBool("MonsterDown", false);
             return;
+        }
+        if(!MoveStop) {
+            anim.SetBool("MonsterIdle", false);
         }
 
         if (currentPos.y < newPos.y) { //Moving down
@@ -187,10 +199,11 @@ public class Monster : MonoBehaviour {
     }
 
     public void Release() {
-        GameManager.Instance.objectManager.ReleaseObject(gameObject);
-        GridPosition = LevelManager.Instance.greenSpawn;
-        GameManager.Instance.RemoveMonster(this);
         canAttack = true;
         moveStop = false;
+        GridPosition = LevelManager.Instance.greenSpawn;
+        TargetSoldiers.Clear();
+        GameManager.Instance.RemoveMonster(this);
+        GameManager.Instance.objectManager.ReleaseObject(gameObject);
     }
 }

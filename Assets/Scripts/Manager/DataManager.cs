@@ -2,8 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class DataManager : MonoBehaviour
-{
+public class DataManager : MonoBehaviour {
 
     public string[] towerNamesKR, towerNamesENG, towerDescriptions;
     public float[] towerOffensePower, projectileSpeed, attackCoolDown;

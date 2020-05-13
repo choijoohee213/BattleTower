@@ -136,8 +136,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   level: 1
+  soldierIndex: 0
+  spawnPos: {x: 0, y: 0, z: 0}
   target: {fileID: 0}
-  health: 30
+  health: 10
   healthBar: {fileID: 0}
   gaugeBar: {fileID: 0}
 --- !u!95 &5446639117055597349

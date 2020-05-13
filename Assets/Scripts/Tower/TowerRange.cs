@@ -5,12 +5,13 @@ using UnityEngine;
 public class TowerRange : MonoBehaviour
 {
     private bool isBarracks;
-
+    
     public Point GridPosition { get; set; }
 
     private void Start() {
         isBarracks = GameManager.Instance.Towers[GridPosition].ElementType.Equals(Element.BARRACKS);
     }
+  
 
     void OnTriggerEnter2D(Collider2D collision) {
         //Adds new monsters to the queue when they enter the range
