@@ -2,8 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Projectile : MonoBehaviour
-{
+public class Projectile : MonoBehaviour {
     private bool collideMonster = false;
 
     [SerializeField]
@@ -14,14 +13,11 @@ public class Projectile : MonoBehaviour
     private Animator myAnimator;
     private Element elementType;
 
-    void Start()
-    {
+    void Start() {
         myAnimator = GetComponent<Animator>();
     }
 
-    // Update is called once per frame
-    void Update()
-    {
+    void Update() {
         MoveToTarget();
     }
 
@@ -33,21 +29,21 @@ public class Projectile : MonoBehaviour
     }
 
     void MoveToTarget() {
-        if (target != null && target.gameObject.activeSelf ) {
-            if (target.isDie)
+        if(target != null && target.gameObject.activeSelf) {
+            if(target.isDie)
                 GameManager.Instance.objectManager.ReleaseObject(gameObject);
 
             Vector2 dir = target.transform.position - transform.position;
             if(elementType.Equals(Element.BOMB))
-                transform.position = Vector3.MoveTowards(transform.position, target.transform.position - new Vector3(0,0.2f,0), Time.deltaTime * parent.ProjectileSpeed);
+                transform.position = Vector3.MoveTowards(transform.position, target.transform.position - new Vector3(0, 0.2f, 0), Time.deltaTime * parent.ProjectileSpeed);
             else
                 transform.position = Vector3.MoveTowards(transform.position, target.transform.position, Time.deltaTime * parent.ProjectileSpeed);
-            
+
             float angle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg;
             if(!(elementType.Equals(Element.BOMB) && level.Equals(6)))
                 transform.rotation = Quaternion.AngleAxis(angle, Vector3.forward);
         }
-        else if (!target.gameObject.activeSelf) 
+        else if(!target.gameObject.activeSelf)
             GameManager.Instance.objectManager.ReleaseObject(gameObject);
 
         if(collideMonster)
@@ -55,8 +51,8 @@ public class Projectile : MonoBehaviour
     }
 
     private void OnTriggerEnter2D(Collider2D collision) {
-        if (collision.CompareTag("Monster")) {
-            if (target.gameObject.Equals(collision.gameObject)) {
+        if(collision.CompareTag("Monster")) {
+            if(target.gameObject.Equals(collision.gameObject)) {
                 collideMonster = true;
                 target.TakeDamage(parent.Damage, elementType);
                 myAnimator.SetTrigger("Impact");

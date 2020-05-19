@@ -8,7 +8,8 @@ TagManager:
   - Monster
   - Projectile
   - Soldier
-  - Soil
+  - Map
+  - SpawnTower
   layers:
   - Default
   - TransparentFX

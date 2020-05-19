@@ -39,6 +39,10 @@ public class ObjectManager : MonoBehaviour
     public GameObject GetObject(string type) {
         foreach(GameObject obj in pooledObjs) {
             if(obj.name.Equals(type) && !obj.activeInHierarchy) {
+                if(obj.name.Contains("Bar")) {
+                    if(obj.GetComponent<HealthBar>().ParentObj != null)
+                        continue;
+                }
                 obj.SetActive(true);
                 return obj;
             }

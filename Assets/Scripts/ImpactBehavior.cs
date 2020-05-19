@@ -2,8 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ImpactBehavior : StateMachineBehaviour
-{
+public class ImpactBehavior : StateMachineBehaviour {
     // OnStateEnter is called when a transition starts and the state machine starts to evaluate this state
     //override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     //{
@@ -18,7 +17,7 @@ public class ImpactBehavior : StateMachineBehaviour
 
     // OnStateExit is called when a transition ends and the state machine finishes evaluating this state
     override public void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex) {
-        if (animator.gameObject.CompareTag("Monster")) {
+        if(animator.gameObject.CompareTag("Monster")) {
             animator.gameObject.GetComponent<Monster>().Release();
         }
         else if(animator.gameObject.CompareTag("Projectile"))

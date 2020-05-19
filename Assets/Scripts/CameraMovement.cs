@@ -1,32 +1,14 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.Linq.Expressions;
 using UnityEngine;
 
 public class CameraMovement : MonoBehaviour
 {
     [SerializeField]
     private float cameraSpeed;
-    private float xMax, yMin;
+    private float xMin, xMax, yMin, yMax;
 
-    private void Awake() {
-        LevelManager.Instance.CreateLevel();
-    }
-
-    void CameraSetUp() {
-        Camera camera = GetComponent<Camera>();
-        Rect rect = camera.rect;
-        float scaleHeight = ((float)Screen.width / Screen.height) / ((float)16 / 9);
-        float scaleWidth = 1f / scaleHeight;
-        if(scaleHeight < 1) {
-            rect.height = scaleHeight;
-            rect.y = (1f - scaleHeight) / 2f;
-        }
-        else {
-            rect.width = scaleWidth;
-            rect.x = (1f - scaleWidth) / 2f;
-        }
-        camera.rect = rect;
-    }
 
     void Update()
     {
@@ -43,13 +25,20 @@ public class CameraMovement : MonoBehaviour
         if (Input.GetKey(KeyCode.D))
             transform.Translate(Vector3.right * cameraSpeed * Time.deltaTime);
 
-        transform.position = new Vector3(Mathf.Clamp(transform.position.x, 0, xMax),
-            Mathf.Clamp(transform.position.y,yMin,0),-10);
+        transform.position = new Vector3(Mathf.Clamp(transform.position.x, xMin , xMax),
+            Mathf.Clamp(transform.position.y, yMin, yMax),-10);
     }
 
-    public void SetLimits(Vector3 maxTile) {
-        Vector3 wp = Camera.main.ViewportToWorldPoint(new Vector3(1,0));
+    public void SetLimits(Vector3 maxTile, Vector3 minTile) {
+        Vector3 wp = Camera.main.ViewportToWorldPoint(new Vector3(1, 0));  //Bottom Right
+        Vector3 wp2 = Camera.main.ViewportToWorldPoint(new Vector3(0, 1)); //Top left
+        
+        //LevelManager.Instance.TilemapMove(new Vector3(wp2.x - minTile.x, wp2.y - maxTile.y));
+        xMin = minTile.x - wp2.x;
         xMax = maxTile.x - wp.x;
-        yMin = maxTile.y - wp.y;
+        yMin = minTile.y - wp.y;
+        yMax = maxTile.y - wp2.y;
+        transform.position = new Vector3(xMin, yMax);
     }
+
 }

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Dynamic;
 using UnityEngine;
+using UnityEngine.Tilemaps;
 
 public enum Element { ARCHER, WIZARD, BOMB, BARRACKS, NONE }
 
@@ -65,9 +66,8 @@ public class Tower : MonoBehaviour {
         GridPosition = gridPos;
         transform.position = worldPos + new Vector3(0, 0.13f, 0);
 
-        GameManager.Instance.SetTowerParent(this);
         GameManager.Instance.Towers.Add(gridPos, this);
-        LevelManager.Instance.Tiles[gridPos].TowerLevel++;
+        LevelManager.Instance.SpawnPoints[gridPos].TowerLevel++;
         Projectile = projectileType + "1";
         GameManager.Instance.dataManager.Initilaize(towerIndex, ref damage, ref projectileSpeed, ref attackCooldown);
         towerPrice = GameManager.Instance.towerPrices[towerIndex];
@@ -79,22 +79,26 @@ public class Tower : MonoBehaviour {
 
         //Create Soldiers if it is the BARRACKS
         if(ElementType.Equals(Element.BARRACKS)) {
-            distance = 10000;
-            CheckNeighborTiles(GridPosition);
-            Vector3[] posArray = LevelManager.Instance.Tiles[GridPosition].SetSoldierPos(soldierStandardPos);
-            for(int i = 0; i < 3; i++)
-                StartCoroutine(CreateSoldier(i, posArray[i], false, false, null));
-        }
+                distance = 10000;
+                CheckNeighborTiles();
+                Vector3[] posArray = LevelManager.Instance.SpawnPoints[GridPosition].SetSoldierPos(soldierStandardPos);
+                for(int i = 0; i < 3; i++)
+                    StartCoroutine(CreateSoldier(i, posArray[i], false, false, null));
+            }
     }
 
     public void LevelUp() {
-        int level = ++LevelManager.Instance.Tiles[GridPosition].TowerLevel;
-        damage++;
-        DetermineProjectile();
+        int level = LevelManager.Instance.SpawnPoints[GridPosition].TowerLevel;
 
         //Stop upgrading when the tower level is at its maximum
-        if(level.Equals(towerSprites.Length))
-            LevelManager.Instance.Tiles[GridPosition].towerLevelMax = true;
+        if(level.Equals(towerSprites.Length - 1)) {
+            LevelManager.Instance.SpawnPoints[GridPosition].TowerLevelMax = true;
+            return;
+        }
+
+        level = ++LevelManager.Instance.SpawnPoints[GridPosition].TowerLevel;
+        damage++;
+        DetermineProjectile();    
 
         //Replace with next level sprite
         sr.sprite = towerSprites[level - 1];
@@ -146,30 +150,25 @@ public class Tower : MonoBehaviour {
         proj.Initialize(this);
     }
 
-    private void CheckNeighborTiles(Point towerPos) {
-        for(int x = -1; x <= 1; x++) {
-            for(int y = -1; y <= 1; y++) {
-                Point neighborPos = new Point(towerPos.x - x, towerPos.y - y);
-                if(LevelManager.Instance.Tiles[neighborPos].tileIndex.Equals(1)) {
-                    float _distance = Vector3.Distance(transform.position, LevelManager.Instance.Tiles[neighborPos].WorldPostion);
-                    if(distance > _distance) {
-                        distance = _distance;
-                        soldierStandardPos = LevelManager.Instance.Tiles[neighborPos].WorldPostion;
-                    }
-                }
+    private void CheckNeighborTiles() {
+        foreach(Transform pos in LevelManager.Instance.Tile.SoldierSpawnPos) { 
+            float _distance = Vector3.Distance(LevelManager.Instance.SpawnPoints[GridPosition].WorldLocation, pos.position );
+            if(distance > _distance) {
+                distance = _distance;
+                soldierStandardPos = pos.position;
             }
         }
     }
 
     public void RecreateSoldier(int index, bool haveTimer, bool isLevelUp, Monster target) {
-        StartCoroutine(CreateSoldier(index, LevelManager.Instance.Tiles[GridPosition].SoldierPos[index], haveTimer, isLevelUp, target));
+        StartCoroutine(CreateSoldier(index, LevelManager.Instance.SpawnPoints[GridPosition].SoldierPos[index], haveTimer, isLevelUp, target));
     }
 
     IEnumerator CreateSoldier(int index, Vector3 pos, bool haveTimer, bool isLevelUp, Monster target) {
         if(haveTimer && !isLevelUp)
             yield return new WaitForSeconds(attackCooldown);
         Soldier soldier = GameManager.Instance.objectManager.GetObject(Projectile).GetComponent<Soldier>();
-        GameObject bar = GameManager.Instance.objectManager.GetObject("HealthBar");
+        HealthBar bar = GameManager.Instance.objectManager.GetObject("HealthBar").GetComponent<HealthBar>();
         soldier.transform.position = transform.position;
 
         if(isLevelUp && target != null) {
@@ -184,36 +183,42 @@ public class Tower : MonoBehaviour {
         soldier.Initialize(this, !isLevelUp);
     }
 
-    //void ChangeSoldierPos() {
-    //    int count = soldierPos.Count;
-    //    if(count < 3) {
-    //        for(int i=0; i < 3- count; i++) {
-    //            CreateSoldier
-    //        }
-    //    }
-    //}
+    public void ChangeSoldierPos(Vector3 pos) {
+        soldierStandardPos = pos;
+        Vector3[] posArray = LevelManager.Instance.SpawnPoints[GridPosition].SetSoldierPos(soldierStandardPos);
+        for(int i = 0; i < Soldiers.Count; i++) {
+            if(Soldiers.ContainsKey(i) && Soldiers[i].gameObject.activeSelf) {
+                Soldiers[i].SpawnPos = posArray[i];
+                if(i == 0) {
+                    print(posArray[0]);
+                }
+                Soldiers[i].ChangePos();
+            }
+        }
+    }
 
     void DetermineProjectile() {
-        print(LevelManager.Instance.Tiles[GridPosition].TowerLevel);
+        print(LevelManager.Instance.SpawnPoints[GridPosition].TowerLevel);
         Projectile = projectileType +
-            (GameManager.Instance.dataManager.ProjectileType(towerIndex, LevelManager.Instance.Tiles[GridPosition].TowerLevel)).ToString();       
+            (GameManager.Instance.dataManager.ProjectileType(towerIndex, LevelManager.Instance.SpawnPoints[GridPosition].TowerLevel)).ToString();
     }
 
     public void MonsterInRange(Monster monster) { monsterList.Add(monster); }
 
     public void MonsterOutRange(Monster monster, bool isTarget) {
         monsterList.Remove(monster);
-        if(isTarget) target = null;
+        if(isTarget)
+            target = null;
     }
 
     public bool IsMonsterInRange(Monster monster) { return monsterList.Contains(monster); }
 
     public void Release() {
         GameManager.Instance.objectManager.ReleaseObject(gameObject);
-        
+
         if(ElementType.Equals(Element.BARRACKS)) {
             int count = Soldiers.Count;
-            for(int i=0; i< count; i++) {
+            for(int i = 0; i < count; i++) {
                 if(Soldiers[i].gameObject.activeSelf)
                     Soldiers[i].Release(false, false);
             }
@@ -222,8 +227,8 @@ public class Tower : MonoBehaviour {
         Soldiers.Clear();
 
         sr.sprite = towerSprites[0];
-        LevelManager.Instance.Tiles[GridPosition].TowerLevel = 0;
-        LevelManager.Instance.Tiles[GridPosition].towerLevelMax = false;             
+        LevelManager.Instance.SpawnPoints[GridPosition].TowerLevel = 0;
+        LevelManager.Instance.SpawnPoints[GridPosition].TowerLevelMax = false;
         GameManager.Instance.Towers.Remove(GridPosition);  //Delete from dictionary   
 
     }

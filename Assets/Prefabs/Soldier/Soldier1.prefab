@@ -122,7 +122,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
-  m_Radius: 1
+  m_Radius: 0.6
 --- !u!114 &-9074889868055966920
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -136,10 +136,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   level: 1
-  soldierIndex: 0
-  spawnPos: {x: 0, y: 0, z: 0}
-  target: {fileID: 0}
-  health: 10
+  spawn: 0
+  isMoved: 0
+  hitPower: 0
+  attackCooldown: 0
+  Target: {fileID: 0}
+  health: 72
   healthBar: {fileID: 0}
   gaugeBar: {fileID: 0}
 --- !u!95 &5446639117055597349

@@ -1,9 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
 
-public class Monster : MonoBehaviour {   
+public class Monster : MonoBehaviour {
     [SerializeField]
     private float speed;
     private bool canAttack = true;
@@ -16,7 +15,7 @@ public class Monster : MonoBehaviour {
     [SerializeField]
     private Element elementType;
 
-    private Stack<Node> path;
+    private Stack<Vector3> path;
     private Vector3 destination;
     private Animator anim;
 
@@ -24,15 +23,14 @@ public class Monster : MonoBehaviour {
     private float health, damage, attackCoolDown;
     private float currentHealth;
 
-    public GameObject healthBar;
+    public HealthBar healthBar;
     public List<Soldier> TargetSoldiers;
-    public Image gaugeBar;
 
     public bool isDie {
         get { return currentHealth <= 0; }
     }
 
-    public Point GridPosition { get; set; }
+    public Vector3 MonsterPos { get; set; }
 
 
 
@@ -42,26 +40,27 @@ public class Monster : MonoBehaviour {
     /// </summary>
     /// 
     private void Awake() {
-        anim = GetComponent<Animator>();       
-        
+        anim = GetComponent<Animator>();
+
     }
 
-  
+
     //Spawns the monster in our world
     public void Spawn() {
-        transform.position = LevelManager.Instance.greenPortal.transform.position;
+        //Sets the monsters path
+        SetPath(LevelManager.Instance.Path);
+
 
         //Initialization for Health Information
         currentHealth = health;
-        gaugeBar.fillAmount = 1;
+        healthBar.GaugeBar.fillAmount = 1;
 
 
         //Starts to scale the monsters
         StartCoroutine(Scale(new Vector3(0.1f, 0.1f), new Vector3(1, 1), true));
+
         
-        //Sets the monsters path
-        SetPath(LevelManager.Instance.Path);
-        
+
         StartCoroutine(MonsterMove());
     }
 
@@ -70,7 +69,7 @@ public class Monster : MonoBehaviour {
         float progress = 0;
 
         //As long as the progress is less than 1, than we need to keep scaling
-        while (progress <= 1) {
+        while(progress <= 1) {
             transform.localScale = Vector3.Lerp(from, to, progress);
             progress += Time.deltaTime;
             yield return new WaitForSeconds(0.01f);
@@ -79,7 +78,7 @@ public class Monster : MonoBehaviour {
         transform.localScale = to;
 
 
-        if (!isActive)
+        if(!isActive)
             Release();
         else
             gameObject.SetActive(true);
@@ -87,30 +86,35 @@ public class Monster : MonoBehaviour {
 
 
     //Gives the monster a path to walk on
-    void SetPath(Stack<Node> newPath) {
-        if (newPath != null) {
+    void SetPath(Stack<Vector3> newPath) {
+        if(newPath != null) {
+            path = new Stack<Vector3>();
+            MonsterPos = new Vector3(0, 0, 0);
+
             path = newPath;
-            Animate(GridPosition, path.Peek().GridPosition);
-            GridPosition = path.Peek().GridPosition;
-            destination = path.Pop().WorldPosition;
+            Animate(transform.position, path.Peek());
+            transform.position = path.Peek();
+            MonsterPos = path.Peek();
+            destination = path.Pop();
         }
     }
 
 
     //Makes the monster move along the given path
     IEnumerator MonsterMove() {
-        while (!isDie && !MoveStop) {
+        while(!isDie && !MoveStop) {
             transform.position = Vector2.MoveTowards(transform.position, destination, speed);
             healthBar.transform.position = transform.position + new Vector3(0, 0.43f, 0);
+            anim.SetBool("MonsterIdle", false);
 
             //Checks if monster arrived at the destination
-            if (transform.position == destination) {
-                if (path != null & path.Count > 0) {
-                    Animate(GridPosition, path.Peek().GridPosition);
+            if(transform.position == destination) {
+                if(path != null & path.Count > 0) {
+                    Animate(MonsterPos, path.Peek());
 
                     //Sets the new GirdPosition and destination
-                    GridPosition = path.Peek().GridPosition;
-                    destination = path.Pop().WorldPosition;
+                    MonsterPos = path.Peek();
+                    destination = path.Pop();
                 }
                 else
                     break;
@@ -118,18 +122,20 @@ public class Monster : MonoBehaviour {
             yield return new WaitForSeconds(0.03f);
         }
         if(MoveStop) {
-            Animate(GridPosition, GridPosition);
+            Animate(MonsterPos, MonsterPos);
         }
 
         //Monsters arrive at the edge of the map without dying
-        if (!isDie && GridPosition == LevelManager.Instance.purpleSpawn) {
+        if(!isDie && MonsterPos.x.Equals(LevelManager.Instance.purplePortal.transform.position.x)) {
             StartCoroutine(Scale(new Vector3(1, 1), new Vector3(0.1f, 0.1f), false));
             GameManager.Instance.Lives--;
         }
     }
 
     public void StartAttack(Soldier soldier) {
-        if(!TargetSoldiers.Contains(soldier)) TargetSoldiers.Add(soldier);
+        if(!TargetSoldiers.Contains(soldier)) {
+            TargetSoldiers.Add(soldier);
+        }
         if(canAttack) {
             StartCoroutine(Attack());
             canAttack = false;
@@ -137,7 +143,7 @@ public class Monster : MonoBehaviour {
     }
 
     IEnumerator Attack() {
-        while(TargetSoldiers.Count>0 && MoveStop) {
+        while(TargetSoldiers.Count > 0 && MoveStop) {
             if(!TargetSoldiers[0].IsDie && TargetSoldiers[0].gameObject.activeSelf) {
                 yield return new WaitForSeconds(attackCoolDown);
                 if(TargetSoldiers.Count > 0 && !TargetSoldiers[0].IsDie && TargetSoldiers[0].gameObject.activeSelf) {
@@ -150,58 +156,56 @@ public class Monster : MonoBehaviour {
             }
         }
         moveStop = false;
+        canAttack = true;
         StartCoroutine(MonsterMove());
     }
 
 
-    void Animate(Point currentPos, Point newPos) {
+    void Animate(Vector3 currentPos, Vector3 newPos) {
         if(MoveStop) {
             anim.SetBool("MonsterIdle", true);
             anim.SetBool("MonsterDown", false);
             return;
         }
-        if(!MoveStop) {
+        else if(!MoveStop) {
             anim.SetBool("MonsterIdle", false);
         }
 
-        if (currentPos.y < newPos.y) { //Moving down
+        if(currentPos.y >= newPos.y) { //Moving down
             anim.SetBool("MonsterDown", true);
         }
-        else if (currentPos.y > newPos.y) {  //Moving up
+        else if(currentPos.y < newPos.y) {  //Moving up
             anim.SetBool("MonsterDown", false);
         }
 
-        if (currentPos.y == newPos.y) {
-            anim.SetBool("MonsterDown", true);
-            if (currentPos.x > newPos.x) {  //Move to left
-                transform.rotation = Quaternion.Euler(0, 180, 0);
-            }
-            else if (currentPos.x < newPos.x) {  //Move to right
-                transform.rotation = Quaternion.Euler(0, 0, 0);
-            }
+        if(currentPos.x > newPos.x) {  //Move to left
+            transform.rotation = Quaternion.Euler(0, 180, 0);
         }
-       
+        else if(currentPos.x < newPos.x) {  //Move to right
+            transform.rotation = Quaternion.Euler(0, 0, 0);
+        }
+
     }
 
     public void TakeDamage(float damage, Element dmgSource) {
-        if (dmgSource.Equals(elementType)) 
+        if(dmgSource.Equals(elementType))
             damage /= 2;
         currentHealth -= damage;
 
         //Monster Die
-        if(currentHealth <= 0) {  
+        if(currentHealth <= 0) {
             currentHealth = 0;
             GameManager.Instance.Money = price;
-            GameManager.Instance.objectManager.ReleaseObject(healthBar);
             anim.SetTrigger("MonsterDie");
         }
-        gaugeBar.fillAmount = currentHealth / health;
+        healthBar.GaugeBar.fillAmount = currentHealth / health;
     }
 
     public void Release() {
+        healthBar.gameObject.SetActive(false);
+        healthBar.ParentObj = null;
         canAttack = true;
         moveStop = false;
-        GridPosition = LevelManager.Instance.greenSpawn;
         TargetSoldiers.Clear();
         GameManager.Instance.RemoveMonster(this);
         GameManager.Instance.objectManager.ReleaseObject(gameObject);

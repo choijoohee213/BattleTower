@@ -3,13 +3,14 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.SceneManagement;
+using UnityEngine.Tilemaps;
 using UnityEngine.UI;
 
 
 public class GameManager : Singleton<GameManager> {
     int selectBtnIndex, wave, money, lives;
-    bool islevelChanged, gameOver = false, levelZero = true;
-    
+    bool islevelChanged, gameOver = false, levelZero = true, checkPointing = false;
+
     public int[] towerPrices = new int[4] { 70, 80, 90, 80 };
     bool[] purchasable = new bool[6] { true, true, true, true, true, true };
 
@@ -45,7 +46,7 @@ public class GameManager : Singleton<GameManager> {
         set {
             lives = value;
 
-            if (lives <= 0) {
+            if(lives <= 0) {
                 lives = 0;
                 GameOver();
             }
@@ -79,30 +80,20 @@ public class GameManager : Singleton<GameManager> {
 
     }
 
-    private void Update() {
-        if (Input.GetKeyDown(KeyCode.Escape))
-            ShowGameMenu();      
-    }
 
 
     /// <summary>
-    /// The following is a function related to Tower Spawn
+    // The following is a function related to Tower Spawn
     /// </summary>
-
-    public void SetTowerParent(Tower tower) {
-        tower.transform.SetParent(towerParent);
-    }
 
     //Makes the UI visible when the tower spawn point is pressed
     IEnumerator StartUpdate() {
-        while (true) {
-
+        while(true) {
             //Only if you don't click the UI with the left mouse button pressed
-            if(Input.GetMouseButton(0)) {
-                if(!EventSystem.current.IsPointerOverGameObject())
-                    ClickTile();
-            }
-            
+            if(Input.GetMouseButton(0) && !EventSystem.current.IsPointerOverGameObject()) 
+                ClickTile();
+
+            else if(Input.GetKeyDown(KeyCode.Escape)) ShowGameMenu();
             yield return new WaitForSeconds(0.01f);
         }
     }
@@ -110,33 +101,43 @@ public class GameManager : Singleton<GameManager> {
     void ClickTile() {
         int layerMask = 1 << LayerMask.NameToLayer("SpawnTower");  // Everything에서 해당 레이어만 충돌 체크함
         int layerMask2 = 1 << LayerMask.NameToLayer("TowerRange");
-        
-        RaycastHit2D hit = Physics2D.Raycast(Camera.main.ScreenToWorldPoint(Input.mousePosition), Vector2.zero, 0.1f, layerMask);
-        RaycastHit2D hit2 = Physics2D.Raycast(Camera.main.ScreenToWorldPoint(Input.mousePosition), Vector2.zero, 0.1f, ~layerMask2);
 
-        //When you click the tower spawn point
-        if(hit.collider != null) {   
-            TileScript tmp = hit.collider.GetComponent<TileScript>();
-            if (tmp != null && tmp.tileIndex == 2) {
-                    ShowTowerTypeBtn(tmp.GridPosition, tmp.TowerLevel, true);
+        Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+       
+        if(checkPointing) {
+            RaycastHit2D hit3 = Physics2D.Raycast(ray.origin, Vector2.zero, layerMask2);
+            if(hit3.collider != null) {
+                Vector3 point = Camera.main.ScreenToWorldPoint(Input.mousePosition) + new Vector3(0,0,10);
+                Towers[selectSpawnPos].ChangeSoldierPos(point);
+                checkPointing = false;
+                Towers[selectSpawnPos].towerRange.enabled = false;
             }
+            return;
         }
 
-        //When you click a place other than the tower spawn point
-        else if(hit2.collider != null && !hit2.collider.CompareTag("UI")) {
+        RaycastHit2D hit = Physics2D.Raycast(ray.origin, Vector3.zero, 0.1f, layerMask);
+        RaycastHit2D hit2 = Physics2D.Raycast(ray.origin, Vector2.zero, ~layerMask2);
+        if(hit.collider != null ) {  //Display UI
+            Vector3 point = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+            var worldPoint = new Vector3Int(Mathf.FloorToInt(point.x), Mathf.FloorToInt(point.y), 0);
+            TileScript tile =LevelManager.Instance.SpawnPoints[new Point(worldPoint.x, worldPoint.y)];
+            //_tile.TilemapMember.SetTileFlags(_tile.LocalPlace, TileFlags.None);
+            ShowTowerTypeBtn(tile.GridPosition, tile.TowerLevel, true);
+           
+        }
+        else if(hit2.collider != null) {  //Hide UI
             spawnTowerUI.SetActive(false);
             if(Towers.ContainsKey(selectSpawnPos)) {
                 Towers[selectSpawnPos].towerRange.enabled = false;
                 towerInformUI.SetActive(false);
             }
         }
-
     }
 
 
     //The UI for selecting the tower type is shown.
     public void ShowTowerTypeBtn(Point pos, int level, bool isActive) {
-        spawnTowerUI.transform.position = LevelManager.Instance.Tiles[pos].WorldPostion;
+        spawnTowerUI.transform.position = LevelManager.Instance.SpawnPoints[pos].WorldPostion;
         spawnTowerUI.SetActive(isActive);
         levelZero = level.Equals(0);
 
@@ -145,28 +146,36 @@ public class GameManager : Singleton<GameManager> {
         ChangeActivated(isActive);
 
         selectSpawnPos = pos;
-        //OnCurrencyChanged();
         PriceCheck();
     }
 
-    
+
     //Tower object generation when OK button is pressed
     public void PressTowerTypeBtn(int index) {
-        if (!islevelChanged)
+        if(!islevelChanged)
             towerTypesBtn[selectBtnIndex].SetActive(true);
 
         selectBtnIndex = index;
         towerTypesBtn[selectBtnIndex].SetActive(false);
 
+        if(index.Equals(6)) {
+            checkPointing = true;
+            spawnTowerUI.SetActive(false);
+            towerInformUI.SetActive(false);
+            return;
+        }
+
         ChangeActivated(false);
         TowerDescription();
         okBtn.transform.position = towerTypesBtn[selectBtnIndex].transform.position;
-        
-        if (!purchasable[selectBtnIndex]) okBtn.GetComponent<Image>().color = Color.grey;
-        else okBtn.GetComponent<Image>().color = Color.white;
+
+        if(!purchasable[selectBtnIndex])
+            okBtn.GetComponent<Image>().color = Color.grey;
+        else
+            okBtn.GetComponent<Image>().color = Color.white;
 
 
-        if (selectBtnIndex.Equals(4) || selectBtnIndex.Equals(5)) {
+        if(selectBtnIndex.Equals(4) || selectBtnIndex.Equals(5)) {
             towerImg.enabled = false;
             towerRangeImg.transform.localScale = Towers[selectSpawnPos].towerRange.transform.localScale + new Vector3(0.5f, 0.5f, 0);
             return;
@@ -177,26 +186,28 @@ public class GameManager : Singleton<GameManager> {
 
     //Create, upgrade, or sell tower objects when you press the OK button.
     public void PressOkBtn() {
-        if (selectBtnIndex.Equals(5)) { //Sell Tower
+        if(selectBtnIndex.Equals(5)) { //Sell Tower
             SellTower();
             return;
         }
 
-        if (!purchasable[selectBtnIndex]) return;
+        if(!purchasable[selectBtnIndex])
+            return;
 
-        if (selectBtnIndex.Equals(4)) { //Upgrade Tower
+        if(selectBtnIndex.Equals(4)) { //Upgrade Tower
             Money = -Towers[selectSpawnPos].towerPrice;
             Towers[selectSpawnPos].LevelUp();
             Towers[selectSpawnPos].towerRange.transform.localScale += new Vector3(0.5f, 0.5f, 0);
         }
 
-        if(!selectBtnIndex.Equals(4) && !selectBtnIndex.Equals(5)){  //Create(Buy) Tower
+        if(!selectBtnIndex.Equals(4) && !selectBtnIndex.Equals(5)) {  //Create(Buy) Tower
             Money = -towerPrices[selectBtnIndex];
             Tower tower = objectManager.GetObject(dataManager.towerNamesENG[selectBtnIndex]).GetComponent<Tower>();
+            tower.transform.SetParent(towerParent);
             tower.Setup(selectSpawnPos, spawnTowerUI.transform.position + new Vector3(0, 0.1f, 0));
         }
 
-        
+
         Towers[selectSpawnPos].towerPrice += 50;   //Change Upgrade Price
         spawnTowerUI.SetActive(false);
         towerInformUI.SetActive(false);
@@ -206,9 +217,9 @@ public class GameManager : Singleton<GameManager> {
 
     //Determine if you can buy with your current money
     void PriceCheck() {
-        if (levelZero) {
-            for (int i = 0; i < 4; i++) {
-                if (towerPrices[i] > money) {
+        if(levelZero) {
+            for(int i = 0; i < 4; i++) {
+                if(towerPrices[i] > money) {
                     towerTypesBtn[i].GetComponent<Image>().color = Color.grey;
                     purchasable[i] = false;
                 }
@@ -220,7 +231,7 @@ public class GameManager : Singleton<GameManager> {
         }
 
         else {
-            if (Towers[selectSpawnPos].towerPrice > money) {
+            if(Towers[selectSpawnPos].towerPrice > money) {
                 towerTypesBtn[4].GetComponent<Image>().color = Color.grey;
                 purchasable[4] = false;
             }
@@ -233,27 +244,28 @@ public class GameManager : Singleton<GameManager> {
 
     //Decide whether to show some UI depending on whether to build a tower
     void DisplayBuiltUI(bool levelZero, Point pos) {
-        for (int i = 0; i < 4; i++)
+        for(int i = 0; i < 4; i++)
             towerTypesBtn[i].SetActive(levelZero);
-        for (int i = 4; i < towerTypesBtn.Length; i++)
+        for(int i = 4; i < towerTypesBtn.Length; i++)
             towerTypesBtn[i].SetActive(!levelZero);
 
         towerPriceUI.SetActive(levelZero);
         upgradePriceUI.SetActive(!levelZero);
         towerInformUI.SetActive(!levelZero);
 
-        if (Towers.ContainsKey(selectSpawnPos))
+        if(Towers.ContainsKey(selectSpawnPos))
             Towers[selectSpawnPos].towerRange.enabled = false;
 
-        if (!levelZero) {
+        if(!levelZero) {
             upgradePrice.text = Towers[pos].towerPrice.ToString();
             Towers[pos].towerRange.enabled = true;
             TowerInformation(pos);
+            towerTypesBtn[6].SetActive(Towers[pos].ElementType.Equals(Element.BARRACKS));
         }
-        else 
+        else
             towerRangeImg.transform.localScale = new Vector3(4f, 4f);
 
-        if(!levelZero && LevelManager.Instance.Tiles[pos].towerLevelMax) {
+        if(!levelZero && LevelManager.Instance.SpawnPoints[pos].TowerLevelMax) {
             towerTypesBtn[4].SetActive(false);
             upgradePriceUI.SetActive(false);
         }
@@ -279,17 +291,17 @@ public class GameManager : Singleton<GameManager> {
     }
 
     void TowerDescription() {
-        if (levelZero) {
+        if(levelZero) {
             descriptionTexts[0].text = dataManager.towerNamesKR[selectBtnIndex];
             descriptionTexts[1].text = dataManager.towerDescriptions[selectBtnIndex];
             descriptionTexts[2].text = "공격력 : <color=#F68519>" + dataManager.towerOffensePower[selectBtnIndex].ToString() + "</color>";
             descriptionTexts[3].text = "공격속도 : <color=#F68519>" + dataManager.attackCoolDown[selectBtnIndex].ToString() + "</color>";
         }
         else {
-            if (selectBtnIndex.Equals(4)) {
+            if(selectBtnIndex.Equals(4)) {
                 descriptionTexts[0].text = dataManager.towerNamesKR[Towers[selectSpawnPos].towerIndex];
                 descriptionTexts[1].text = dataManager.towerDescriptions[Towers[selectSpawnPos].towerIndex];
-                descriptionTexts[2].text = "공격력 : <color=#F68519>" + (Towers[selectSpawnPos].Damage+1f).ToString() + "</color>";
+                descriptionTexts[2].text = "공격력 : <color=#F68519>" + (Towers[selectSpawnPos].Damage + 1f).ToString() + "</color>";
                 descriptionTexts[3].text = "공격속도 : <color=#F68519>" + Towers[selectSpawnPos].AttackCoolDown.ToString() + "</color>";
             }
             else {
@@ -306,7 +318,7 @@ public class GameManager : Singleton<GameManager> {
     void SellTower() {
         Money = Towers[selectSpawnPos].towerPrice / 2;
         Towers[selectSpawnPos].Release();
-               
+
         spawnTowerUI.SetActive(false);
         towerInformUI.SetActive(false);
     }
@@ -327,32 +339,29 @@ public class GameManager : Singleton<GameManager> {
     IEnumerator SpawnWave() {
         LevelManager.Instance.GeneratePath();
 
-        for (int i = 0; i < wave; i++) {
-            int monsterIndex = 0;//Random.Range(0,20);
+        Queue<int> monsterData = dataManager.waveData.Dequeue();
+        int count = monsterData.Count;
+        for(int i=0; i<count; i++) {
+            int monsterIndex = monsterData.Dequeue();
             string type = dataManager.MonsterType(monsterIndex);
 
             //Create monsters and health bars
-            Monster monster = objectManager.GetObject(type).GetComponent<Monster>();           
-            GameObject bar = objectManager.GetObject("HealthBar");
-            
-            monster.gaugeBar = bar.transform.GetChild(0).GetComponent<Image>();
+            Monster monster = objectManager.GetObject(type).GetComponent<Monster>();
+            HealthBar bar = objectManager.GetObject("HealthBar").GetComponent<HealthBar>();
+
             monster.healthBar = bar;
             monster.Spawn();
-
-
-            //if ((wave % 3).Equals(0)) {
-            //    health += 5;
-            //}
 
             activeMonsters.Add(monster);
 
             yield return new WaitForSeconds(2.5f);
         }
+      
     }
 
     public void RemoveMonster(Monster monster) {
         activeMonsters.Remove(monster);
-        if (!WaveActive && !gameOver) {
+        if(!WaveActive && !gameOver) {
             if(wave.Equals(10) && activeMonsters.Count.Equals(0)) {
                 GameComplete();
                 return;
@@ -373,15 +382,15 @@ public class GameManager : Singleton<GameManager> {
     public void ShowGameMenu() {
         pauseUI.SetActive(!pauseUI.activeSelf);
         panel.SetActive(!panel.activeSelf);
-        if (!pauseUI.activeSelf) {
-            if (!WaveActive && !waveBtn.activeSelf) 
+        if(!pauseUI.activeSelf) {
+            if(!WaveActive && !waveBtn.activeSelf)
                 waveBtn.SetActive(true);
-            Time.timeScale = 1;          
+            Time.timeScale = 1;
         }
         else {
-            if (!WaveActive && !gameOver && waveBtn.activeSelf) 
+            if(!WaveActive && !gameOver && waveBtn.activeSelf)
                 waveBtn.SetActive(false);
-            Time.timeScale = 0;   
+            Time.timeScale = 0;
         }
     }
 
@@ -391,7 +400,7 @@ public class GameManager : Singleton<GameManager> {
     }
 
     public void GameOver() {
-        if (!gameOver) {
+        if(!gameOver) {
             gameOver = true;
             Time.timeScale = 0;
             panel.SetActive(!panel.activeSelf);

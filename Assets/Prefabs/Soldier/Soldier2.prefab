@@ -122,7 +122,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
-  m_Radius: 1
+  m_Radius: 0.7
 --- !u!114 &-9074889868055966920
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -138,7 +138,10 @@ MonoBehaviour:
   level: 2
   spawn: 0
   isMoved: 0
-  health: 15
+  hitPower: 0
+  attackCooldown: 0
+  Target: {fileID: 0}
+  health: 144
   healthBar: {fileID: 0}
   gaugeBar: {fileID: 0}
 --- !u!95 &5446639117055597349

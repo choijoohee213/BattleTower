@@ -1,99 +1,96 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
+using UnityEditor;
 using UnityEngine;
-using System;
-public class LevelManager : Singleton<LevelManager>
-{
-    [SerializeField]
-    private GameObject[] tilePrefabs;
+using UnityEngine.Tilemaps;
+
+public class LevelManager : Singleton<LevelManager> {
+
+    int gameLevel = 1;
+    public int GameLevel { get => gameLevel; }
+
+    Tilemap map;
+
+    public TileScript Tile { get; set; }
 
     [SerializeField]
-    private CameraMovement cameraMovement;
-
-    [SerializeField]
-    private Transform map, canvas;
-
-    public Point greenSpawn, purpleSpawn, mapSize;
-
-    private Stack<Node> path;
-    
-    public Stack<Node> Path {
-        get {
-            if (path == null)
-                GeneratePath();
-            return new Stack<Node>(new Stack<Node>(path));
-        }
-    }
+    new CameraMovement camera;
 
     public GameObject greenPortal, purplePortal;
 
-    public Dictionary<Point, TileScript> Tiles { get; set; }
+    private Stack<Vector3> path;
 
-    public float TileSize = 1.0f;
-
-
-    public void CreateLevel(){
-        Tiles = new Dictionary<Point, TileScript>();
-
-        string[] mapData = ReadLevelText();
-
-        int mapX = mapData[0].ToCharArray().Length;
-        int mapY = mapData.Length;
-
-        mapSize = new Point(mapX, mapY);
-
-        Vector3 maxTile = Vector3.zero;
-
-        //Calculates the world start point, this is the top left corner of the screen
-        Vector3 worldStart = Camera.main.ScreenToWorldPoint(new Vector3(0, Screen.height));
-        
-        for(int y = 0; y < mapY; y++) {  //The y positions
-            char[] newTiles = mapData[y].ToCharArray();
-            for(int x = 0; x < mapX; x++) {  //The x positions
-                PlaceTile(newTiles[x].ToString(), x, y, worldStart);               
-            }
+    public Stack<Vector3> Path {
+        get {
+            if(path == null)
+                GeneratePath();
+            return new Stack<Vector3>(new Stack<Vector3>(path));
         }
-        maxTile = Tiles[new Point(mapX - 1, mapY - 1)].transform.position;
-        cameraMovement.SetLimits(new Vector3(maxTile.x + TileSize, maxTile.y - TileSize));
-        SpawnPortal();    
     }
 
-    string[] ReadLevelText() {
-        TextAsset bindData = Resources.Load("Level1") as TextAsset;
-        string data = bindData.text.Replace(Environment.NewLine, string.Empty);
-        return data.Split('-');
+    public Dictionary<Point, TileScript> SpawnPoints;
+
+    void Start() {
+        Screen.sleepTimeout = SleepTimeout.NeverSleep;
+        CreateLevel();       
     }
 
-    void PlaceTile(string tileType, int x, int y, Vector3 worldStart) {
-        int tileIndex = int.Parse(tileType);
-        if(tileIndex.Equals(8)) {
-            greenSpawn = new Point(x, y);
-            tileIndex = 1;
-        }
-        else if(tileIndex.Equals(9)) {
-            purpleSpawn = new Point(x, y);
-            tileIndex = 1;
-        }
+    void CreateLevel() {
+        map = GameManager.Instance.objectManager.GetObject("Level"+gameLevel.ToString()).GetComponent<Tilemap>();
+        map.transform.SetParent(transform);
+        map.CompressBounds();
 
-        //Creates a new tile and makes a reference to that tile in the newTile variable
-        TileScript newTile = Instantiate(tilePrefabs[tileIndex]).GetComponent<TileScript>();
-        newTile.Setup(new Point(x, y), new Vector3(worldStart.x + TileSize * x, worldStart.y - TileSize * y, 0), map);
-
+        //Camera Setting
+        camera.SetLimits(map.CellToWorld(map.cellBounds.max), map.CellToWorld(map.cellBounds.min));
         
+        map = map.transform.GetChild(0).GetComponent<Tilemap>();
+        map.RefreshAllTiles();
+        map.ResizeBounds();
+        Tile = map.GetComponent<TileScript>();
+        
+        GetWorldTiles();
+    }
+
+    // Use this for initialization
+    void GetWorldTiles() {
+        SpawnPoints = new Dictionary<Point, TileScript>();
+        foreach(Vector3Int pos in map.cellBounds.allPositionsWithin) {
+            print(pos);
+            var localPlace = new Vector3Int(pos.x, pos.y, pos.z);
+
+            if(!map.HasTile(localPlace))
+                continue;
+            var tile = new TileScript {
+                LocalPlace = localPlace,
+                WorldLocation = map.CellToWorld(localPlace),
+                GridPosition = new Point(localPlace.x, localPlace.y),
+                TileBase = map.GetTile(localPlace),
+                TilemapMember = map,
+                TowerLevel = 0,
+                TowerLevelMax = false
+            };
+            SpawnPoints.Add(tile.GridPosition, tile);
+            print("world" + tile.WorldLocation);
+            print("yaya");
+
+        }
+        SpawnPortal();
     }
 
     void SpawnPortal() {
-        greenPortal.transform.position = Tiles[greenSpawn].GetComponent<TileScript>().WorldPostion + new Vector2(0, 0.1f);
-        purplePortal.transform.position = Tiles[purpleSpawn].GetComponent<TileScript>().WorldPostion + new Vector2(0, 0.1f);
-    }
-   
-    
-    public bool InBounds(Point position) {
-        return position.x >= 0 && position.y >= 0
-            && position.x < mapSize.x && position.y < mapSize.y;
+        greenPortal.transform.position = Tile.GreenPortalPos.position;
+        purplePortal.transform.position = Tile.PurplePortalPos.position;
     }
 
     public void GeneratePath() {
-        path = AStar.GetPath(greenSpawn, purpleSpawn);
+        path = new Stack<Vector3>();
+        foreach(Transform pos in Tile.CheckPoints) {
+            path.Push(pos.position);
+        }
     }
+
+
+
+
 }

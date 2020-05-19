@@ -118,14 +118,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 0.02
-  moveStop: 0
   price: 10
   elementType: 4
   health: 15
   damage: 2
   attackCoolDown: 2
   healthBar: {fileID: 0}
-  targetSoldier: {fileID: 0}
+  TargetSoldiers: []
   gaugeBar: {fileID: 0}
 --- !u!61 &5658892853314192800
 BoxCollider2D:
@@ -140,7 +139,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.009130478, y: -0.06111017}
+  m_Offset: {x: -0.009130478, y: -0.11978993}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -151,7 +150,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.21516323, y: 0.10782915}
+  m_Size: {x: 0.21516323, y: 0.18495125}
   m_EdgeRadius: 0
 --- !u!50 &-8647598256087488006
 Rigidbody2D:

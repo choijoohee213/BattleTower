@@ -1,13 +1,19 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class DataManager : MonoBehaviour {
-
+    public Queue<Queue<int>> waveData;
+   
     public string[] towerNamesKR, towerNamesENG, towerDescriptions;
     public float[] towerOffensePower, projectileSpeed, attackCoolDown;
+    public int[] coin;
 
     private void Start() {
+        waveData = new Queue<Queue<int>>();
+        MonsterWaveLoad();
+
         towerNamesKR = new string[4] { "궁수 타워", "마법사 타워", "대포", "민병대" };
         towerNamesENG = new string[4] { "Archer", "Wizard", "Bomb", "Barracks" };
 
@@ -19,13 +25,29 @@ public class DataManager : MonoBehaviour {
        
         towerOffensePower = new float[4] { 1f, 2f, 3f, 2f };
         projectileSpeed = new float[4] { 3f, 2.5f, 2.3f, 2f };
-        attackCoolDown = new float[4] { 1f, 2f, 3f, 3f };
+        attackCoolDown = new float[4] { 1f, 2f, 3f, 8f };
+
+        coin = new int[10] { 300, 220, 200, 200, 200, 200, 200, 200, 200, 200};
     }
 
     public void Initilaize(int towerIndex, ref float power, ref float speed, ref float coolTime) {
         power = towerOffensePower[towerIndex];
         speed = projectileSpeed[towerIndex];
         coolTime = attackCoolDown[towerIndex];
+    }
+
+    private void MonsterWaveLoad() {
+        TextAsset textAsset = Resources.Load<TextAsset>("Level" + LevelManager.Instance.GameLevel.ToString());
+        string[] lines = textAsset.text.Split('\n');
+        foreach(string line in lines) {
+            Queue<int> monsterData = new Queue<int>();
+            string[] words = line.Split('\t');
+            foreach(string index in words) {
+                monsterData.Enqueue(int.Parse(index));
+                print(index);
+            }
+            waveData.Enqueue(monsterData);
+        }
     }
 
     public int ProjectileType(int towerIndex, int towerLevel) {
@@ -47,8 +69,10 @@ public class DataManager : MonoBehaviour {
                 else if (towerLevel <= 5) typeLevel = 3;
                 else typeLevel = towerLevel;
                 break;
-            case 3:  //Barracks
-                typeLevel = towerLevel;
+            case 3:  //Barracks : 1,3,5
+                if(towerLevel <=2) typeLevel = 1;
+                else if(towerLevel <= 4) typeLevel = 2;
+                else if(towerLevel <= 6) typeLevel = 3;
                 break;
         }
 
