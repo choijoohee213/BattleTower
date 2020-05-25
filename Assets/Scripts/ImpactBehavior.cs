@@ -24,6 +24,11 @@ public class ImpactBehavior : StateMachineBehaviour {
             GameManager.Instance.objectManager.ReleaseObject(animator.gameObject);
         else if(animator.gameObject.CompareTag("Soldier"))
             animator.gameObject.GetComponent<Soldier>().Release(true, false);
+        else if(animator.gameObject.name.Contains("Canvas"))
+            MainMenuManager.Instance.LoadScene(2);
+        else if(animator.gameObject.name.Contains("XSign"))
+            animator.gameObject.SetActive(false);
+
     }
 
     // OnStateMove is called right after Animator.OnAnimatorMove()

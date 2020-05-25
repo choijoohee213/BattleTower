@@ -1,7 +1,13 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Tilemaps;
+
+[Serializable]
+public class WayPoints {
+    public Transform[] CheckPoints;
+}
 
 public class TileScript : MonoBehaviour {
     //Tower
@@ -21,9 +27,16 @@ public class TileScript : MonoBehaviour {
 
     public Tilemap TilemapMember { get; set; }
 
-    public Transform GreenPortalPos, PurplePortalPos;
+    public Transform[] GreenPortalPos;       
+    public Transform PurplePortalPos;
 
-    public Transform[] CheckPoints, SoldierSpawnPos;
+    public Transform[] SoldierSpawnPos;
+    
+    [SerializeField]
+    List<WayPoints> monsterWay;
+    public List<WayPoints> MonsterWay { get => monsterWay; }
+
+
 
     public Vector3[] SetSoldierPos(Vector3 standardPos) {
         SoldierPos = new Vector3[3];

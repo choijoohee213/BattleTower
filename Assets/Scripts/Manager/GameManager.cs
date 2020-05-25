@@ -6,10 +6,11 @@ using UnityEngine.SceneManagement;
 using UnityEngine.Tilemaps;
 using UnityEngine.UI;
 
-
 public class GameManager : Singleton<GameManager> {
-    int selectBtnIndex, wave, money, lives;
+    int selectBtnIndex, wave, lives, money, waveMax;
     bool islevelChanged, gameOver = false, levelZero = true, checkPointing = false;
+    
+    public int TowerLevelMax { get; set; }
 
     public int[] towerPrices = new int[4] { 70, 80, 90, 80 };
     bool[] purchasable = new bool[6] { true, true, true, true, true, true };
@@ -18,7 +19,8 @@ public class GameManager : Singleton<GameManager> {
     private GameObject spawnTowerUI, towerDescription, okBtn, towerPriceUI, upgradePriceUI, waveBtn, gameCompleteUI, gameOverUI, towerInformUI, pauseUI, panel;
 
     [SerializeField]
-    private GameObject[] towerTypesBtn, towerPrefabs;
+    private GameObject[] towerTypesBtn, towerPrefabs, soldierPosSign;
+    public GameObject SoldierPosSign { get { return soldierPosSign[1]; } }
 
     [SerializeField]
     private Transform towerParent;
@@ -72,12 +74,9 @@ public class GameManager : Singleton<GameManager> {
 
 
     private void Start() {
+        Time.timeScale = 1;
         StartCoroutine(StartUpdate());
         Towers = new Dictionary<Point, Tower>();
-
-        Lives = 10;
-        Money = 2000;
-
     }
 
 
@@ -90,33 +89,45 @@ public class GameManager : Singleton<GameManager> {
     IEnumerator StartUpdate() {
         while(true) {
             //Only if you don't click the UI with the left mouse button pressed
-            if(Input.GetMouseButton(0) && !EventSystem.current.IsPointerOverGameObject()) 
+            if(Input.GetMouseButton(0) && !EventSystem.current.IsPointerOverGameObject())   //mobile : Input.GetTouch(0).fingerId
                 ClickTile();
-
-            else if(Input.GetKeyDown(KeyCode.Escape)) ShowGameMenu();
+            if(Input.GetKeyDown(KeyCode.Escape))
+                ShowGameMenu();
             yield return new WaitForSeconds(0.01f);
         }
     }
 
     void ClickTile() {
         int layerMask = 1 << LayerMask.NameToLayer("SpawnTower");  // Everything에서 해당 레이어만 충돌 체크함
-        int layerMask2 = 1 << LayerMask.NameToLayer("TowerRange");
+        int layerMask2 = 1 << 9;  //TowerRange
 
-        Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
-       
         if(checkPointing) {
-            RaycastHit2D hit3 = Physics2D.Raycast(ray.origin, Vector2.zero, layerMask2);
-            if(hit3.collider != null) {
-                Vector3 point = Camera.main.ScreenToWorldPoint(Input.mousePosition) + new Vector3(0,0,10);
-                Towers[selectSpawnPos].ChangeSoldierPos(point);
-                checkPointing = false;
-                Towers[selectSpawnPos].towerRange.enabled = false;
+            RaycastHit2D hit3 = Physics2D.Raycast(Camera.main.ScreenToWorldPoint(Input.mousePosition), Vector2.zero, 0.1f, layerMask2);
+            Vector3 point = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+
+            //클릭한 곳이 타워 범위 안인지를 확인
+            if(hit3.collider != null && hit3.collider.name.Contains("TowerRange") && hit3.collider.transform.parent.gameObject.Equals(Towers[selectSpawnPos].gameObject)) {
+                RaycastHit2D hit4 = Physics2D.Raycast(Camera.main.ScreenToWorldPoint(Input.mousePosition), Vector2.zero, 0.1f, 1 << 12);
+                if(hit4.collider != null) {  //클릭한 곳이 타일맵인지 확인
+                    //TileBase hitTile = hit4.collider.GetComponent<TileBase>();
+                    if(LevelManager.Instance.IsWalkableTile(new Vector3(point.x, point.y, 0))) {  //클릭한 곳이 타일맵 중에서 갈수 있는 타일인지 확인
+                        soldierPosSign[1].SetActive(true);
+                        soldierPosSign[1].transform.position = new Vector3(point.x + 0.2f, point.y + 0.5f, 0);
+
+                        Towers[selectSpawnPos].ChangeSoldierPos(point + new Vector3(0, 0, 10));
+                        checkPointing = false;
+                        Towers[selectSpawnPos].towerRange.enabled = false;
+                    }
+                    else ShowXSign(point);
+                }
+                else ShowXSign(point);
             }
+            else ShowXSign(point);
             return;
         }
 
-        RaycastHit2D hit = Physics2D.Raycast(ray.origin, Vector3.zero, 0.1f, layerMask);
-        RaycastHit2D hit2 = Physics2D.Raycast(ray.origin, Vector2.zero, ~layerMask2);
+        RaycastHit2D hit = Physics2D.Raycast(Camera.main.ScreenToWorldPoint(Input.mousePosition), Vector3.zero, 0.1f, layerMask);
+        RaycastHit2D hit2 = Physics2D.Raycast(Camera.main.ScreenToWorldPoint(Input.mousePosition), Vector2.zero, ~layerMask2);
         if(hit.collider != null ) {  //Display UI
             Vector3 point = Camera.main.ScreenToWorldPoint(Input.mousePosition);
             var worldPoint = new Vector3Int(Mathf.FloorToInt(point.x), Mathf.FloorToInt(point.y), 0);
@@ -132,6 +143,12 @@ public class GameManager : Singleton<GameManager> {
                 towerInformUI.SetActive(false);
             }
         }
+    }
+
+    void ShowXSign(Vector3 point) {
+        soldierPosSign[0].SetActive(true);
+        soldierPosSign[0].transform.position = new Vector3(point.x + 0.2f, point.y + 0.2f, 0);
+        soldierPosSign[0].GetComponent<Animator>().SetTrigger("XSign");
     }
 
 
@@ -202,7 +219,7 @@ public class GameManager : Singleton<GameManager> {
 
         if(!selectBtnIndex.Equals(4) && !selectBtnIndex.Equals(5)) {  //Create(Buy) Tower
             Money = -towerPrices[selectBtnIndex];
-            Tower tower = objectManager.GetObject(dataManager.towerNamesENG[selectBtnIndex]).GetComponent<Tower>();
+            Tower tower = objectManager.GetObject(dataManager.TowerNamesENG[selectBtnIndex]).GetComponent<Tower>();
             tower.transform.SetParent(towerParent);
             tower.Setup(selectSpawnPos, spawnTowerUI.transform.position + new Vector3(0, 0.1f, 0));
         }
@@ -265,7 +282,7 @@ public class GameManager : Singleton<GameManager> {
         else
             towerRangeImg.transform.localScale = new Vector3(4f, 4f);
 
-        if(!levelZero && LevelManager.Instance.SpawnPoints[pos].TowerLevelMax) {
+        if(LevelManager.Instance.SpawnPoints[pos].TowerLevelMax) {
             towerTypesBtn[4].SetActive(false);
             upgradePriceUI.SetActive(false);
         }
@@ -276,7 +293,7 @@ public class GameManager : Singleton<GameManager> {
         towerIcon.sprite = towerTypesBtn[Towers[pos].towerIndex].GetComponent<Image>().sprite;
 
         //Get tower info and Change text
-        towerInformTexts[0].text = dataManager.towerNamesKR[Towers[pos].towerIndex];
+        towerInformTexts[0].text = dataManager.TowerNamesKR[Towers[pos].towerIndex];
         towerInformTexts[1].text = "공격력 : " + Towers[pos].Damage.ToString();
         towerInformTexts[2].text = "공격속도 : " + Towers[pos].AttackCoolDown.ToString();
     }
@@ -292,15 +309,15 @@ public class GameManager : Singleton<GameManager> {
 
     void TowerDescription() {
         if(levelZero) {
-            descriptionTexts[0].text = dataManager.towerNamesKR[selectBtnIndex];
-            descriptionTexts[1].text = dataManager.towerDescriptions[selectBtnIndex];
-            descriptionTexts[2].text = "공격력 : <color=#F68519>" + dataManager.towerOffensePower[selectBtnIndex].ToString() + "</color>";
-            descriptionTexts[3].text = "공격속도 : <color=#F68519>" + dataManager.attackCoolDown[selectBtnIndex].ToString() + "</color>";
+            descriptionTexts[0].text = dataManager.TowerNamesKR[selectBtnIndex];
+            descriptionTexts[1].text = dataManager.TowerDescriptions[selectBtnIndex];
+            descriptionTexts[2].text = "공격력 : <color=#F68519>" + dataManager.TowerOffensePower[selectBtnIndex].ToString() + "</color>";
+            descriptionTexts[3].text = "공격속도 : <color=#F68519>" + dataManager.AttackCoolDown[selectBtnIndex].ToString() + "</color>";
         }
         else {
             if(selectBtnIndex.Equals(4)) {
-                descriptionTexts[0].text = dataManager.towerNamesKR[Towers[selectSpawnPos].towerIndex];
-                descriptionTexts[1].text = dataManager.towerDescriptions[Towers[selectSpawnPos].towerIndex];
+                descriptionTexts[0].text = dataManager.TowerNamesKR[Towers[selectSpawnPos].towerIndex];
+                descriptionTexts[1].text = dataManager.TowerDescriptions[Towers[selectSpawnPos].towerIndex];
                 descriptionTexts[2].text = "공격력 : <color=#F68519>" + (Towers[selectSpawnPos].Damage + 1f).ToString() + "</color>";
                 descriptionTexts[3].text = "공격속도 : <color=#F68519>" + Towers[selectSpawnPos].AttackCoolDown.ToString() + "</color>";
             }
@@ -331,38 +348,43 @@ public class GameManager : Singleton<GameManager> {
 
     public void StartWave() {
         wave++;
-        waveText.text = "공격 <color=yellow>" + wave.ToString() + "</color>/10";
+        waveText.text = "공격 <color=yellow>" + wave.ToString() + "</color>/" + waveMax.ToString();
         StartCoroutine(SpawnWave());
         waveBtn.SetActive(false);
     }
 
     IEnumerator SpawnWave() {
-        LevelManager.Instance.GeneratePath();
-
         Queue<int> monsterData = dataManager.waveData.Dequeue();
+        for(int i=0; i< LevelManager.Instance.Tile.MonsterWay.Count; i++)
+            LevelManager.Instance.GeneratePath(i);
+
         int count = monsterData.Count;
+        int wayIndex = 0;
         for(int i=0; i<count; i++) {
-            int monsterIndex = monsterData.Dequeue();
-            string type = dataManager.MonsterType(monsterIndex);
+            if(i==0 || i%2 == 0) {
+                wayIndex = monsterData.Dequeue();
+            }
+            else {
+                int monsterIndex = monsterData.Dequeue();
+                string type = dataManager.MonsterType(monsterIndex);
 
-            //Create monsters and health bars
-            Monster monster = objectManager.GetObject(type).GetComponent<Monster>();
-            HealthBar bar = objectManager.GetObject("HealthBar").GetComponent<HealthBar>();
-
-            monster.healthBar = bar;
-            monster.Spawn();
-
-            activeMonsters.Add(monster);
-
-            yield return new WaitForSeconds(2.5f);
-        }
-      
+                //Create monsters and health bars
+                Monster monster = objectManager.GetObject(type).GetComponent<Monster>();
+                HealthBar bar = objectManager.GetObject("HealthBar").GetComponent<HealthBar>();
+                monster.healthBar = bar;
+               
+                monster.Spawn(wayIndex);
+                activeMonsters.Add(monster);
+            }
+            
+            yield return new WaitForSeconds(Random.Range(1f,2.5f));
+        }     
     }
 
     public void RemoveMonster(Monster monster) {
         activeMonsters.Remove(monster);
         if(!WaveActive && !gameOver) {
-            if(wave.Equals(10) && activeMonsters.Count.Equals(0)) {
+            if(wave.Equals(waveMax) && activeMonsters.Count.Equals(0)) {
                 GameComplete();
                 return;
             }
@@ -378,6 +400,14 @@ public class GameManager : Singleton<GameManager> {
     /// The following is a function related to Game State
     /// </summary>
     /// 
+    public void GameStateInitial(int money, int waveMax, int towerLevelMax) {
+        Lives = 20;
+        Money = money;
+        this.waveMax = waveMax;
+        waveText.text = "공격 <color=yellow>0</color>/" + waveMax.ToString();
+        TowerLevelMax = towerLevelMax;
+
+    }
 
     public void ShowGameMenu() {
         pauseUI.SetActive(!pauseUI.activeSelf);
@@ -397,6 +427,9 @@ public class GameManager : Singleton<GameManager> {
     void GameComplete() {
         panel.SetActive(!panel.activeSelf);
         gameCompleteUI.SetActive(true);
+        if(PlayerPrefs.GetInt("AchieveLevel").Equals(LevelManager.Instance.GameLevel)){
+            PlayerPrefs.SetInt("AchieveLevel", LevelManager.Instance.GameLevel + 1);
+        }
     }
 
     public void GameOver() {
@@ -415,6 +448,8 @@ public class GameManager : Singleton<GameManager> {
     }
 
     public void GameQuit() {
-        Application.Quit();
+        Destroy(MainMenuManager.Instance.dontDestory);
+        SceneManager.LoadScene(1);
+        //Application.Quit();
     }
 }

@@ -22,8 +22,10 @@ public class ObjectManager : MonoBehaviour
                     newObject.transform.SetParent(monster);
                 else if(objectPrefabs[i].CompareTag("Projectile"))
                     newObject.transform.SetParent(projectile);
-                else if(objectPrefabs[i].name.Contains("Bar"))
+                else if(objectPrefabs[i].name.Contains("Bar")) {
                     newObject.transform.SetParent(canvas);
+                    newObject.transform.SetAsFirstSibling();
+                }
                 else if(objectPrefabs[i].CompareTag("Soldier"))
                     newObject.transform.SetParent(soldier);
 
@@ -39,10 +41,6 @@ public class ObjectManager : MonoBehaviour
     public GameObject GetObject(string type) {
         foreach(GameObject obj in pooledObjs) {
             if(obj.name.Equals(type) && !obj.activeInHierarchy) {
-                if(obj.name.Contains("Bar")) {
-                    if(obj.GetComponent<HealthBar>().ParentObj != null)
-                        continue;
-                }
                 obj.SetActive(true);
                 return obj;
             }
@@ -61,6 +59,10 @@ public class ObjectManager : MonoBehaviour
     }
 
     public void ReleaseObject(GameObject gameObject) {
+        if(gameObject.name.Contains("HealthBar")) {
+            if(gameObject.GetComponent<HealthBar>().ParentObj != null)
+                return;
+        }
         gameObject.SetActive(false);
     }
 }

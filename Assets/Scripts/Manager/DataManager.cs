@@ -3,49 +3,59 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class DataManager : MonoBehaviour {
     public Queue<Queue<int>> waveData;
    
-    public string[] towerNamesKR, towerNamesENG, towerDescriptions;
-    public float[] towerOffensePower, projectileSpeed, attackCoolDown;
-    public int[] coin;
+    public string[] TowerNamesKR { get; set; }
+    public string[] TowerNamesENG { get; set; }
+    public string[] TowerDescriptions { get; set; }
+
+    public float[] TowerOffensePower { get; set; }
+    public float[] ProjectileSpeed { get; set; }
+    public float[] AttackCoolDown { get; set; }
 
     private void Start() {
         waveData = new Queue<Queue<int>>();
-        MonsterWaveLoad();
+        LevelDataLoad();
 
-        towerNamesKR = new string[4] { "궁수 타워", "마법사 타워", "대포", "민병대" };
-        towerNamesENG = new string[4] { "Archer", "Wizard", "Bomb", "Barracks" };
+        TowerNamesKR = new string[4] { "궁수 타워", "마법사 타워", "대포", "민병대" };
+        TowerNamesENG = new string[4] { "Archer", "Wizard", "Bomb", "Barracks" };
 
-        towerDescriptions = new string[4] {
+        TowerDescriptions = new string[4] {
         "궁수들은 멀리서 적들을 사냥하도록 대기합니다.",
         "마법사들은 물리 피해를 무시하는 마법탄을 발사합니다.",
         "대포를 쏘아 지상의 적을 공격해 피해를 줍니다.",
         "적을 차단하며 싸우는 튼튼한 민병대의 훈련소입니다."};
        
-        towerOffensePower = new float[4] { 1f, 2f, 3f, 2f };
-        projectileSpeed = new float[4] { 3f, 2.5f, 2.3f, 2f };
-        attackCoolDown = new float[4] { 1f, 2f, 3f, 8f };
-
-        coin = new int[10] { 300, 220, 200, 200, 200, 200, 200, 200, 200, 200};
+        TowerOffensePower = new float[4] { 1f, 2f, 3f, 2f };
+        ProjectileSpeed = new float[4] { 3f, 2.5f, 2.3f, 2f };
+        AttackCoolDown = new float[4] { 1f, 2f, 3f, 8f };
     }
 
     public void Initilaize(int towerIndex, ref float power, ref float speed, ref float coolTime) {
-        power = towerOffensePower[towerIndex];
-        speed = projectileSpeed[towerIndex];
-        coolTime = attackCoolDown[towerIndex];
+        power = TowerOffensePower[towerIndex];
+        speed = ProjectileSpeed[towerIndex];
+        coolTime = AttackCoolDown[towerIndex];
     }
 
-    private void MonsterWaveLoad() {
+    //There is an order of monsters to appear in the level, and the level status information reads the text file on the last line.
+    private void LevelDataLoad() {
         TextAsset textAsset = Resources.Load<TextAsset>("Level" + LevelManager.Instance.GameLevel.ToString());
-        string[] lines = textAsset.text.Split('\n');
-        foreach(string line in lines) {
+        string[] lines = textAsset.text.Split('\n'); //Read line by line in text file
+
+        //Read one word per line
+        for(int i=0; i<lines.Length; i++) {
             Queue<int> monsterData = new Queue<int>();
-            string[] words = line.Split('\t');
-            foreach(string index in words) {
-                monsterData.Enqueue(int.Parse(index));
-                print(index);
+            string[] words = lines[i].Split('\t');
+            if(i.Equals(lines.Length - 1)) {
+                //Level States : Money, Monster wave max, Tower level max
+                GameManager.Instance.GameStateInitial(int.Parse(words[0]), int.Parse(words[1]), int.Parse(words[2]));
+                return;
             }
+
+            foreach(string index in words) 
+                monsterData.Enqueue(int.Parse(index));
             waveData.Enqueue(monsterData);
         }
     }

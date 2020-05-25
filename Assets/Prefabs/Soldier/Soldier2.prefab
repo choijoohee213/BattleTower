@@ -143,7 +143,6 @@ MonoBehaviour:
   Target: {fileID: 0}
   health: 144
   healthBar: {fileID: 0}
-  gaugeBar: {fileID: 0}
 --- !u!95 &5446639117055597349
 Animator:
   serializedVersion: 3

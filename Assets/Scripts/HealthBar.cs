@@ -5,7 +5,8 @@ using UnityEngine.UI;
 
 public class HealthBar : MonoBehaviour
 {
-    public GameObject ParentObj { get; set; }
+    public GameObject ParentObj;
+    public bool haveParent;
 
     [SerializeField]
     private Image gaugeBar;

@@ -70,8 +70,9 @@ public class Soldier : MonoBehaviour {
                         transform.rotation = Quaternion.Euler(0, -180, 0);
                     }
                 }
-                else
+                else {
                     transform.position = SpawnPos;
+                }
             }
             spawn = true;
 
@@ -79,7 +80,7 @@ public class Soldier : MonoBehaviour {
     }
 
     IEnumerator Spawn(Vector3 pos) {
-        while(!transform.position.Equals(pos) && !isMoved && Target == null && !IsDie) {
+        while(!transform.position.Equals(pos) && Target == null && !IsDie) {
             transform.position = Vector3.MoveTowards(transform.position, pos, Time.deltaTime * 2f);
             healthBar.transform.position = transform.position + new Vector3(0, 0.43f, 0);
             transform.rotation = Quaternion.Euler(0, 180, 0);
@@ -87,6 +88,7 @@ public class Soldier : MonoBehaviour {
             yield return null;
         }
         anim.SetBool("SoldierMove", false);
+        GameManager.Instance.SoldierPosSign.SetActive(false);
 
     }
 
@@ -128,20 +130,22 @@ public class Soldier : MonoBehaviour {
     //After moving to the monster, attack the monster
     void MovetoTarget() {
         Vector3 targetPos;
-        if(Target.transform.rotation.Equals(Quaternion.Euler(0, 180, 0))) {  //left
+        if(Target.transform.eulerAngles.y.Equals(180f))  //몬스터가 왼쪽 방향으로 가고있을 때
             targetPos = Target.transform.position + new Vector3(-0.3f, 0, 0);
-        }
-        else {
+        else  //몬스터가 오른쪽 방향으로 가고있을 때
             targetPos = Target.transform.position + new Vector3(0.3f, 0, 0);
-            transform.rotation = Quaternion.Euler(0, -180, 0);
-        }
+        
+        transform.LookAt(Target.transform);
+        transform.rotation = Quaternion.Euler(new Vector3(0, transform.rotation.y, 0));
         transform.position = Vector3.MoveTowards(transform.position, targetPos, Time.deltaTime * 2f);
+        
         healthBar.transform.position = transform.position + new Vector3(0, 0.43f, 0);
+        
         anim.SetBool("SoldierMove", true);
+        
         if(transform.position.Equals(targetPos)) {
             isMoved = true;
             anim.SetBool("SoldierMove", false);
-            transform.rotation = Quaternion.Euler(0, Target.transform.rotation.y - 180f, 0);
         }
     }
 
@@ -172,8 +176,9 @@ public class Soldier : MonoBehaviour {
     }
 
     public void Release(bool haveTimer, bool isLevelUp) {
-        GameManager.Instance.objectManager.ReleaseObject(healthBar.gameObject);
         healthBar.ParentObj = null;
+        GameManager.Instance.objectManager.ReleaseObject(healthBar.gameObject);
+
         if(Target != null && Target.TargetSoldiers.Contains(this)) {
             if(!isLevelUp)
                 Target.MoveStop = false;
@@ -187,6 +192,5 @@ public class Soldier : MonoBehaviour {
             parent.RecreateSoldier(SoldierIndex, haveTimer, isLevelUp, Target);
         }
         Target = null;
-        transform.position = parent.transform.position;
     }
 }

@@ -44,11 +44,10 @@ public class Monster : MonoBehaviour {
 
     }
 
-
     //Spawns the monster in our world
-    public void Spawn() {
+    public void Spawn(int wayIndex) {
         //Sets the monsters path
-        SetPath(LevelManager.Instance.Path);
+        SetPath(LevelManager.Instance.MapPaths[wayIndex].Path, wayIndex);
 
 
         //Initialization for Health Information
@@ -71,7 +70,7 @@ public class Monster : MonoBehaviour {
         //As long as the progress is less than 1, than we need to keep scaling
         while(progress <= 1) {
             transform.localScale = Vector3.Lerp(from, to, progress);
-            progress += Time.deltaTime;
+            progress += Time.deltaTime * 1.3f;
             yield return new WaitForSeconds(0.01f);
         }
         //Make sure that is has the correct scale after scaling
@@ -86,7 +85,7 @@ public class Monster : MonoBehaviour {
 
 
     //Gives the monster a path to walk on
-    void SetPath(Stack<Vector3> newPath) {
+    void SetPath(Stack<Vector3> newPath, int wayIndex) {
         if(newPath != null) {
             path = new Stack<Vector3>();
             MonsterPos = new Vector3(0, 0, 0);
@@ -202,8 +201,9 @@ public class Monster : MonoBehaviour {
     }
 
     public void Release() {
-        healthBar.gameObject.SetActive(false);
         healthBar.ParentObj = null;
+        GameManager.Instance.objectManager.ReleaseObject(healthBar.gameObject);
+
         canAttack = true;
         moveStop = false;
         TargetSoldiers.Clear();

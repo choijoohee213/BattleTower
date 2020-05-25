@@ -51,7 +51,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a5602187b96cf5d418b29763a2524bb2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isBarracks: 0
 --- !u!212 &7207411995696801792
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -382,5 +381,6 @@ MonoBehaviour:
   - {fileID: -7529187277857449650, guid: baef29a03bc597347985b09a991bf8e3, type: 3}
   - {fileID: -6076908015056683062, guid: baef29a03bc597347985b09a991bf8e3, type: 3}
   - {fileID: 2939570776362263590, guid: baef29a03bc597347985b09a991bf8e3, type: 3}
+  monsterList: []
   elementType: 3
   towerRange: {fileID: 7207411995696801792}

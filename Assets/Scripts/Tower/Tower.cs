@@ -9,6 +9,7 @@ public enum Element { ARCHER, WIZARD, BOMB, BARRACKS, NONE }
 public class Tower : MonoBehaviour {
     float attackTimer;
     bool canAttack;
+
     public int towerIndex, towerPrice;
 
     private float projectileSpeed, attackCooldown;
@@ -65,36 +66,42 @@ public class Tower : MonoBehaviour {
     public void Setup(Point gridPos, Vector3 worldPos) {
         GridPosition = gridPos;
         transform.position = worldPos + new Vector3(0, 0.13f, 0);
-
         GameManager.Instance.Towers.Add(gridPos, this);
+
         LevelManager.Instance.SpawnPoints[gridPos].TowerLevel++;
+        if(LevelManager.Instance.SpawnPoints[gridPos].TowerLevel.Equals(GameManager.Instance.TowerLevelMax)) 
+            LevelManager.Instance.SpawnPoints[GridPosition].TowerLevelMax = true;
+
         Projectile = projectileType + "1";
-        GameManager.Instance.dataManager.Initilaize(towerIndex, ref damage, ref projectileSpeed, ref attackCooldown);
         towerPrice = GameManager.Instance.towerPrices[towerIndex];
+        GameManager.Instance.dataManager.Initilaize(towerIndex, ref damage, ref projectileSpeed, ref attackCooldown);
 
         range = transform.GetChild(0).GetComponent<TowerRange>();
         range.GridPosition = GridPosition;
         towerRange.transform.localScale = new Vector3(4, 4.5f, 1);
-        Soldiers = new Dictionary<int, Soldier>();
-
+        
         //Create Soldiers if it is the BARRACKS
         if(ElementType.Equals(Element.BARRACKS)) {
-                distance = 10000;
-                CheckNeighborTiles();
-                Vector3[] posArray = LevelManager.Instance.SpawnPoints[GridPosition].SetSoldierPos(soldierStandardPos);
-                for(int i = 0; i < 3; i++)
-                    StartCoroutine(CreateSoldier(i, posArray[i], false, false, null));
-            }
+            Soldiers = new Dictionary<int, Soldier>();
+            distance = 10000;
+            CheckNeighborTiles();
+            Vector3[] posArray = LevelManager.Instance.SpawnPoints[GridPosition].SetSoldierPos(soldierStandardPos);
+            for(int i = 0; i < 3; i++)
+                StartCoroutine(CreateSoldier(i, posArray[i], false, false, null));
+        }
     }
 
     public void LevelUp() {
         int level = LevelManager.Instance.SpawnPoints[GridPosition].TowerLevel;
 
         //Stop upgrading when the tower level is at its maximum
-        if(level.Equals(towerSprites.Length - 1)) {
+        if(level.Equals(GameManager.Instance.TowerLevelMax)) {
             LevelManager.Instance.SpawnPoints[GridPosition].TowerLevelMax = true;
             return;
-        }
+        }       
+        //if(level.Equals(towerSprites.Length - 1)) {
+            
+        //}
 
         level = ++LevelManager.Instance.SpawnPoints[GridPosition].TowerLevel;
         damage++;
@@ -151,8 +158,8 @@ public class Tower : MonoBehaviour {
     }
 
     private void CheckNeighborTiles() {
-        foreach(Transform pos in LevelManager.Instance.Tile.SoldierSpawnPos) { 
-            float _distance = Vector3.Distance(LevelManager.Instance.SpawnPoints[GridPosition].WorldLocation, pos.position );
+        foreach(Transform pos in LevelManager.Instance.Tile.SoldierSpawnPos) {
+            float _distance = Vector3.Distance(LevelManager.Instance.SpawnPoints[GridPosition].WorldLocation, pos.position);
             if(distance > _distance) {
                 distance = _distance;
                 soldierStandardPos = pos.position;
@@ -169,12 +176,13 @@ public class Tower : MonoBehaviour {
             yield return new WaitForSeconds(attackCooldown);
         Soldier soldier = GameManager.Instance.objectManager.GetObject(Projectile).GetComponent<Soldier>();
         HealthBar bar = GameManager.Instance.objectManager.GetObject("HealthBar").GetComponent<HealthBar>();
-        soldier.transform.position = transform.position;
+        bar.ParentObj = soldier.gameObject;
 
         if(isLevelUp && target != null) {
             soldier.Target = target;
             soldier.isMoved = true;
         }
+        soldier.transform.position = transform.position;
         soldier.healthBar = bar;
         soldier.SoldierIndex = index;
         soldier.SpawnPos = pos;
@@ -189,9 +197,6 @@ public class Tower : MonoBehaviour {
         for(int i = 0; i < Soldiers.Count; i++) {
             if(Soldiers.ContainsKey(i) && Soldiers[i].gameObject.activeSelf) {
                 Soldiers[i].SpawnPos = posArray[i];
-                if(i == 0) {
-                    print(posArray[0]);
-                }
                 Soldiers[i].ChangePos();
             }
         }
@@ -222,9 +227,9 @@ public class Tower : MonoBehaviour {
                 if(Soldiers[i].gameObject.activeSelf)
                     Soldiers[i].Release(false, false);
             }
+            Soldiers.Clear();
         }
         monsterList.Clear();
-        Soldiers.Clear();
 
         sr.sprite = towerSprites[0];
         LevelManager.Instance.SpawnPoints[GridPosition].TowerLevel = 0;

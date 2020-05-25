@@ -1,7 +1,6 @@
 {
   "dependencies": {
     "com.unity.2d.animation": "3.2.1",
-    "com.unity.2d.entities": "0.22.0-preview.8",
     "com.unity.2d.pixel-perfect": "2.0.4",
     "com.unity.2d.psdimporter": "2.1.3",
     "com.unity.2d.sprite": "1.0.0",

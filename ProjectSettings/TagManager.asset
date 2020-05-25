@@ -8,8 +8,6 @@ TagManager:
   - Monster
   - Projectile
   - Soldier
-  - Map
-  - SpawnTower
   layers:
   - Default
   - TransparentFX
@@ -23,7 +21,7 @@ TagManager:
   - TowerRange
   - Projectile
   - Soldier
-  - 
+  - TileMap
   - 
   - 
   - 
